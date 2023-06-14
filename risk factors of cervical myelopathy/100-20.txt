@@ -1,0 +1,2779 @@
+1. Genes (Basel). 2021 Dec 26;13(1):56. doi: 10.3390/genes13010056.
+
+Early Onset Colorectal Cancer: An Emerging Cancer Risk in Patients with Diamond 
+Blackfan Anemia.
+
+Lipton JM(1)(2)(3), Molmenti CLS(2)(3)(4), Desai P(1)(3), Lipton A(2), Ellis 
+SR(5), Vlachos A(1)(2)(3).
+
+Author information:
+(1)Division of Hematology/Oncology and Cellular Therapy, Cohen Children's 
+Medical Center, New Hyde Park, NY 11040, USA.
+(2)Feinstein Institutes for Medical Research, Manhasset, NY 11030, USA.
+(3)Donald and Barbara Zucker School of Medicine at Hofstra/Northwell, Hempstead, 
+NY 11549, USA.
+(4)Division of Epidemiology, Department of Occupational Medicine, Epidemiology 
+and Prevention, Great Neck, NY 11021, USA.
+(5)Department of Biochemistry and Molecular Biology, University of Louisville, 
+Louisville, KY 40202, USA.
+
+Diamond Blackfan anemia (DBA) is a rare inherited bone marrow failure syndrome, 
+the founding member of a class of disorders known as ribosomopathies. Most cases 
+result from loss of function mutations or deletions in 1 of 23 genes encoding 
+either a small or large subunit-associated ribosomal protein (RP), resulting in 
+RP haploinsufficiency. DBA is characterized by red cell hypoplasia or aplasia, 
+poor linear growth and congenital anomalies. Small case series and case reports 
+demonstrate DBA to be a cancer predisposition syndrome. Recent analyses from the 
+Diamond Blackfan Anemia Registry of North America (DBAR) have quantified the 
+cancer risk in DBA. These studies reveal the most prevalent solid tumor, 
+presenting in young adults and in children and adolescents, to be colorectal 
+cancer (CRC) and osteogenic sarcoma, respectively. Of concern is that these 
+cancers are typically detected at an advanced stage in patients who, because of 
+their constitutional bone marrow failure, may not tolerate full-dose 
+chemotherapy. Thus, the inability to provide optimal therapy contributes to poor 
+outcomes. CRC screening in individuals over the age of 50 years, and now 45 
+years, has led to early detection and significant improvements in outcomes for 
+non-DBA patients with CRC. These screening and surveillance strategies have been 
+adapted to detect familial early onset CRC. With the recognition of DBA as a 
+moderately penetrant cancer risk syndrome a rational screening and surveillance 
+strategy will be implemented. The downstream molecular events, resulting from RP 
+haploinsufficiency and leading to cancer, are the subject of significant 
+scientific inquiry.
+
+DOI: 10.3390/genes13010056
+PMCID: PMC8774389
+PMID: 35052397 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests, 
+financial or otherwise.
+
+
+2. Sci Rep. 2022 Jan 14;12(1):748. doi: 10.1038/s41598-021-04727-1.
+
+Comparison of laminoplasty and posterior fusion surgery for cervical 
+ossification of posterior longitudinal ligament.
+
+Nakashima H(1), Imagama S(2), Yoshii T(3), Egawa S(3), Sakai K(4), Kusano K(5), 
+Nakagawa Y(6), Hirai T(3), Wada K(7), Katsumi K(8), Fujii K(9), Kimura A(10), 
+Furuya T(11), Kanchiku T(12), Nagamoto Y(13), Oshima Y(14), Nagoshi N(15), Ando 
+K(2), Takahata M(16), Mori K(17), Nakajima H(18), Murata K(19), Matsunaga S(20), 
+Kaito T(21), Yamada K(22), Kobayashi S(23), Kato S(24), Ohba T(25), Inami S(26), 
+Fujibayashi S(27), Katoh H(28), Kanno H(29), Li Y(30), Yatsuya H(30)(31), Koda 
+M(9), Kawaguchi Y(32), Takeshita K(10), Matsumoto M(15), Yamazaki M(9), Okawa 
+A(3); Japanese Multicenter Research Organization for Ossification of the Spinal 
+Ligament.
+
+Collaborators: Nakashima H, Imagama S, Yoshii T, Egawa S, Sakai K, Kusano K, 
+Nakagawa Y, Hirai T, Wada K, Katsumi K, Fujii K, Kimura A, Furuya T, Kanchiku T, 
+Nagamoto Y, Oshima Y, Nagoshi N, Ando K, Takahata M, Mori K, Nakajima H, Murata 
+K, Matsunaga S, Kaito T, Yamada K, Kobayashi S, Kato S, Ohba T, Inamia S, 
+Fujibayashi S, Katoh H, Kanno H, Koda M, Kawaguchi Y, Takeshita K, Matsumoto M, 
+Yamazaki M, Okawa A.
+
+Author information:
+(1)Department of Orthopaedic Surgery, Nagoya University Graduate School of 
+Medicine, 65 Tsurumaicho, Showa Ward, Nagoya, Aichi, 466-8550, Japan. 
+hirospine@med.nagoya-u.ac.jp.
+(2)Department of Orthopaedic Surgery, Nagoya University Graduate School of 
+Medicine, 65 Tsurumaicho, Showa Ward, Nagoya, Aichi, 466-8550, Japan.
+(3)Department of Orthopaedic Surgery, Tokyo Medical and Dental University, 
+1-5-45 Yushima, Bunkyo Ward, Tokyo, 113-8519, Japan.
+(4)Department of Orthopaedic Surgery, Saiseikai Kawaguchi General Hospital, 
+5-11-5 Nishikawaguchi, Kawaguchishi, Saitama, 332-8558, Japan.
+(5)Department of Orthopaedic Surgery, Kudanzaka Hospital, 1-6-12 Kudanminami, 
+Chiyodaku, 102-0074, Japan.
+(6)Department of Orthopaedic Surgery, Wakayama Medical University Kihoku 
+Hospital, 219 Myoji, Katsuragi-cho, Itogun, Wakayama, 649-7113, Japan.
+(7)Department of Orthopaedic Surgery, Hirosaki University Graduate School of 
+Medicine, 5 Zaifucho, Hirosaki, Aomori, 036-8562, Japan.
+(8)Department of Orthopaedic Surgery, Niigata University Medicine and Dental 
+General Hospital, 1-754 Asahimachidori, Chuo Ward, Niigata, Niigata, 951-8520, 
+Japan.
+(9)Department of Orthopaedic Surgery, Faculty of Medicine, University of 
+Tsukuba, 1-1-1 Tennodai, Tsukuba, Ibaraki, 305-8575, Japan.
+(10)Department of Orthoaedics, Jichi Medical University, 3311-1 Yakushiji, 
+Shimotsuke, Tochigi, 329-0498, Japan.
+(11)Department of Orthopaedic Surgery, Chiba University Graduate School of 
+Medicine, 1-8-1 Inohana, Chuo Ward, Chiba, Chiba, 260-8670, Japan.
+(12)Department of Orthopaedic Surgery, Yamaguchi University School of Medicine, 
+111 Minami Kogushi, Ube, Yamaguchi, 755-8505, Japan.
+(13)Department of Orthopaedic Surgery, Osaka Rosai Hospital, 1179-3 Nagasonecho, 
+Sakaishi, Osaka, 591-8025, Japan.
+(14)Department of Orthopaedic Surgery, Faculty of Medicine, The University of 
+Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan.
+(15)Department of Orthopaedic Surgery, School of Medicine, Keio University, 35 
+Shinanomachi, Shinjuku Ward, Tokyo, 160-8582, Japan.
+(16)Department of Orthopaedic Surgery, Faculty of Medicine and Graduate School 
+of Medicine, Hokkaido University, Kita 15, Nishi 7, Sapporo, 060-8638, Japan.
+(17)Department of Orthopaedic Surgery, Shiga University of Medical Science, 
+Tsukinowa-cho, Seta, Otsu, Shiga, 520-2192, Japan.
+(18)Department of Orthopaedics and Rehabilitation Medicine, Faculty of Medical 
+Sciences, University of Fukui, 23-3 Matsuoka Shimoaizuki, Eiheiji-cho, 
+Yoshida-gun, Fukui, 910-1193, Japan.
+(19)Department of Orthopaedic Surgery, Tokyo Medical University, 6-7-1 
+Nishishinjuku, Shinjuku-ku, Tokyo, 160-0023, Japan.
+(20)Department of Orthopaedic Surgery, Imakiire General Hospital, 4-16 
+Shimotatsuocho, Kagoshimashi, 892-8502, Japan.
+(21)Department of Orthopaedic Surgery, Graduate School of Medicine, Osaka 
+University, 2-2 Yamadaoka, Suita-shi, Osaka, 565-0871, Japan.
+(22)Department of Orthopaedic Surgery, Kurume University School of Medicine, 67 
+Asahi-machi, Kurume-shi, Fukuoka, 830-0011, Japan.
+(23)Department of Orthopaedic Surgery, Hamamatsu University School of Medicine, 
+1-20-1 Handayama, Hamamatsu, Shizuoka, 431-3125, Japan.
+(24)Department of Orthopaedic Surgery, Graduate School of Medical Sciences, 
+Kanazawa University, 13-1 Takara-machi, Kanazawa, 920-8641, Japan.
+(25)Department of Orthopaedic Surgery, University of Yamanashi, 1110 Shimokato, 
+Chuo Ward, Yamanashi, 409-3898, Japan.
+(26)Department of Orthopaedic Surgery, Dokkyo Medical University School of 
+Medicine, 880 Kitakobayashi, Mibu-machi, Shimotsuga-gun, Tochigi, 321-0293, 
+Japan.
+(27)Department of Orthopaedic Surgery, Graduate School of Medicine, Kyoto 
+University, 54 Kawahara-cho, Shogoin, Sakyo-ku, Kyoto, 606-8507, Japan.
+(28)Department of Orthopaedic Surgery, Surgical Science, Tokai University School 
+of Medicine, 143 Shimokasuya, Isehara, Kanagawa, 259-1193, Japan.
+(29)Department of Orthopaedic Surgery, Tohoku University School of Medicine, 1-1 
+Seiryomachi, Aoba Ward, Sendai, Miyagi, 980-8574, Japan.
+(30)Department of Public Health, Fujita Health University School of Medicine, 
+Aichi, Japan.
+(31)Department of Public Health and Health Systems, Nagoya University Graduate 
+School of Medicine, Aichi, Japan.
+(32)Department of Orthopaedic Surgery, Faculty of Medicine, University of 
+Toyama, 2630 Sugitani, Toyama, Toyama, 930-0194, Japan.
+
+This prospective multicenter study, established by the Japanese Ministry of 
+Health, Labour and Welfare and involving 27 institutions, aimed to compare 
+postoperative outcomes between laminoplasty (LM) and posterior fusion (PF) for 
+cervical ossification of the posterior longitudinal ligament (OPLL), in order to 
+address the controversy surrounding the role of instrumented fusion in cases of 
+posterior surgical decompression for OPLL. 478 patients were considered for 
+participation in the study; from among them, 189 (137 and 52 patients with LM 
+and PF, respectively) were included and evaluated using the Japanese Orthopaedic 
+Association (JOA) scores, the JOA Cervical Myelopathy Evaluation Questionnaire 
+(JOACMEQ), and radiographical measurements. Basic demographic and radiographical 
+data were reviewed, and the propensity to choose a surgical procedure was 
+calculated. Preoperatively, there were no significant differences among the 
+participants in terms of patient backgrounds, radiographical measurements 
+(K-line or cervical alignment on X-ray, OPLL occupation ratio on computed 
+tomography, increased signal intensity change on magnetic resonance imaging), or 
+clinical status (JOA score and JOACMEQ) after adjustments. The overall risk of 
+perioperative complications was found to be lower with LM (odds ratio [OR] 0.40, 
+p = 0.006), and the rate of C5 palsy occurrence was significantly lower with LM 
+(OR 0.11, p = 0.0002) than with PF. The range of motion (20.91° ± 1.05° and 
+9.38° ± 1.24°, p < 0.0001) in patients who had PF was significantly smaller than 
+in those who had LM. However, multivariable logistic regression analysis showed 
+no significant difference among the participants in JOA score, JOA recovery 
+rate, or JOACMEQ improvement at two years. In contrast, OPLL progression was 
+greater in the LM group than in the PF group (OR 2.73, p = 0.0002). Both LM and 
+PF for cervical myelopathy due to OPLL had resulted in comparable postoperative 
+outcomes at 2 years after surgery.
+
+© 2022. The Author(s).
+
+DOI: 10.1038/s41598-021-04727-1
+PMCID: PMC8760337
+PMID: 35031694 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+3. Curr Med Imaging. 2023;19(2):142-148. doi: 10.2174/1573405618666220111121650.
+
+Correlation Analysis of Surgical Efficacy and Risk Factors of Cervical 
+Spondylotic Myelopathy with High Signal Intensity on MRI-T2WI.
+
+Xu Z(1), Xiao L(1), Liu C(1), Zhao Q(1), Zhang Y(1), Xu H(1).
+
+Author information:
+(1)Department of Spine Surgery, Yijishan Hospital, The First Affiliated Hospital 
+of Wannan Medical College, Wuhu, 24100, China.
+
+OBJECTIVES: The purpose of this study was to investigate the surgical efficacy 
+and risk factors of cervical spondylotic myelopathy (CSM) patients with 
+increased signal intensity (ISI) on T2-weighted magnetic resonance imaging 
+(MRI-T2WI).
+METHODS: We compared the surgical outcomes of CSM patients with and without ISI. 
+In addition, we compared the efficacy of anterior and posterior cervical 
+decompression in CSM patients with ISI. We also analyzed the risk factors of 
+MRI-T2WI ISI in CSM patients.
+RESULTS: The incidence of ISI among 153 CSM patients was 71.89 %. The JOA score 
+and JOA remission rate were better in the ISI-free than in the ISI group. The 
+postoperative JOA score and JOA remission rate were better in the posterior than 
+the anterior approach surgery group. The disease duration and vertebral canal 
+volume were found to be risk factors for ISI in CSM patients.
+CONCLUSION: Among patients with CSM, the prognosis is worse for those with ISI 
+than those without ISI. Posterior cervical decompression surgery produces a 
+better curative effect than anterior cervical decompression surgery in CSM 
+patients with ISI. CSM patients with longer disease duration and small vertebral 
+canal volume should undergo surgical treatment as early as possible.
+
+Copyright© Bentham Science Publishers; For any queries, please email at 
+epub@benthamscience.net.
+
+DOI: 10.2174/1573405618666220111121650
+PMID: 35021979 [Indexed for MEDLINE]
+
+
+4. Spinal Cord. 2022 Jun;60(6):510-515. doi: 10.1038/s41393-021-00747-w. Epub
+2022  Jan 10.
+
+A prospective multi-center study comparing the complication profile of modest 
+systemic hypothermia versus normothermia for acute cervical spinal cord injury.
+
+Vedantam A(1), Jimsheleishvili G(2)(3), Harrop JS(4), Alberga LR(2), Ahmad 
+FU(5), Murphy RK(6), Jackson JB 3rd(7), Rodgers RB(8), Levi AD(9)(10).
+
+Author information:
+(1)Department of Neurosurgery, Medical College of Wisconsin, Milwaukee, WI, USA.
+(2)The Miami Project to Cure Paralysis, Miami, FL, USA.
+(3)Department of Neurological Surgery, University of Miami/Jackson Health 
+System, Miami, FL, USA.
+(4)Department of Neurosurgery, Thomas Jefferson University, Philadelphia, PA, 
+USA.
+(5)Department of Neurological Surgery, Emory University School of Medicine, 
+Atlanta, GA, USA.
+(6)Barrow Brain and Spine and Honor Health, Phoenix, AZ, USA.
+(7)Department of Orthopedic Surgery, University of South Carolina, Columbia, SC, 
+USA.
+(8)Goodman Campbell Brain and Spine, Indianapolis, IN, USA.
+(9)The Miami Project to Cure Paralysis, Miami, FL, USA. alevi@med.miami.edu.
+(10)Department of Neurological Surgery, University of Miami/Jackson Health 
+System, Miami, FL, USA. alevi@med.miami.edu.
+
+STUDY DESIGN: Prospective multi-center trial.
+OBJECTIVES: To characterize the complication profile associated with modest 
+systemic hypothermia after acute cervical SCI in a prospective multi-center 
+study.
+SETTING: Five trauma centers in the United States.
+METHODS: We analyzed data from a prospective, multi-center trial on the use of 
+modest systemic hypothermia for acute cervical SCI. Patients with acute cervical 
+SCI were assigned to receive modest systemic hypothermia (33 C) or standard of 
+care medical treatment. Patients in the hypothermia group were cooled to 33 C 
+and maintained at the target temperature for 48 h. Complication profile and the 
+rate of complications within the first 6 weeks after injury were compared 
+between the two groups. Multiple regression analysis was performed to determine 
+risk factors for complications after injury.
+RESULTS: Fifty patients (hypothermia: 27, control: 23) were analyzed for this 
+study. Median age was significantly lower in the hypothermia arm (39 vs 59 
+years, p = 0.02). Respiratory complications were the most common (hypothermia: 
+55.6% vs control: 52.2%, p = 0.81). The rate of deep vein thrombosis was not 
+significantly different between the two groups (hypothermia: 14.8% vs control 
+17.4%, p = 0.71). The rate of complications was not statistically different 
+between the two groups.
+CONCLUSION: In this prospective multi-center controlled trial, preliminary data 
+show that modest systemic hypothermia was not associated with increased risk of 
+complications within the first 6 weeks after acute cervical SCI.
+TRIAL INFORMATION: The study is registered on clinicaltrials.gov NCT02991690. 
+University of Miami IRB (Central IRB) approval No.: 20160758. Emory University 
+IRB #IRB00093786.
+
+© 2022. The Author(s), under exclusive licence to International Spinal Cord 
+Society.
+
+DOI: 10.1038/s41393-021-00747-w
+PMID: 35013548 [Indexed for MEDLINE]
+
+
+5. Global Spine J. 2022 Jan 10:21925682211069542. doi: 10.1177/21925682211069542.
+ Online ahead of print.
+
+Cervical Myelopathy Caused by Non-Rheumatic Retro-Odontoid Pseudotumor: An 
+Investigation of Underlying Mechanisms and Optimal Surgical Strategy.
+
+Takahata M(1)(2), Hyakkan R(1)(2), Oshima S(3), Oda I(2)(3), Kanayama M(2)(3), 
+Hyakumachi T(1), Fujita R(1)(2), Endo T(1)(2), Kajino T(1)(2), Iwasaki N(1).
+
+Author information:
+(1)Department of Orthopedic Surgery, 38251Hokkaido University Graduate School of 
+Medicine, Sapporo, Japan.
+(2)Hokkaido Spine Study Group, Sapporo, Japan.
+(3)The Spine Center, Hakodate Central General Hospital, Hakodate, Japan.
+
+STUDY DESIGN: Retrospective case-control study.
+OBJECTIVE: This study aimed to identify the underlying pathologies of 
+non-rheumatic retro-odontoid pseudotumors (NRPs), which would help establish an 
+appropriate surgical strategy for myelopathy caused by NRP.
+METHODS: We identified 35 patients with myelopathy caused by NRP who underwent 
+surgery between 2006 and 2017. An age- and sex-matched control group of 70 
+subjects was selected from patients with degenerative cervical myelopathy. 
+Radiographic risk factors for NRP were compared between cases and controls. We 
+also assessed surgical outcomes following occipital-cervical (O-C) fusion, 
+atlantoaxial (C1-2) fusion, or C1 laminectomy.
+RESULTS: Patients with NRP had significantly lower C1 sagittal inner diameter, 
+C2-7 range of motion (ROM), C2-7 Cobb angle, and C7 tilt, as well as 
+significantly higher C1-2 ROM, atlantodental interval (ADI), and C1-2 to O-C7 
+ROM ratio. Multivariate regression analysis revealed that ADI, C2-7 ROM, and C7 
+tilt were independent risk factors for NRP. Neurological recovery and 
+pseudotumor size reduction were comparable among surgical procedures, whereas 
+post-operative cervical spine function was significantly lower in the O-C fusion 
+group than in the other groups.
+CONCLUSION: Non-rheumatic retro-odontoid pseudotumor was associated with an 
+increase in ADI, suggesting that spinal arthrodesis surgery is a reasonable 
+strategy for NRP. C1-2 fusion is preferable over O-C fusion because of the high 
+prevalence of ankylosis in the subaxial cervical spine. Given that 29% of 
+patients with NRP have C1 hypoplasia, such cases can be treated by posterior 
+decompression alone. Our study highlights the need to select appropriate 
+surgical procedures based on the underlying pathology in each case.
+
+DOI: 10.1177/21925682211069542
+PMID: 35000408
+
+
+6. JAMA Oncol. 2022 Mar 1;8(3):420-444. doi: 10.1001/jamaoncol.2021.6987.
+
+Cancer Incidence, Mortality, Years of Life Lost, Years Lived With Disability, 
+and Disability-Adjusted Life Years for 29 Cancer Groups From 2010 to 2019: A 
+Systematic Analysis for the Global Burden of Disease Study 2019.
+
+Global Burden of Disease 2019 Cancer Collaboration; Kocarnik JM(1), Compton 
+K(1), Dean FE(1), Fu W(1), Gaw BL(1), Harvey JD(1), Henrikson HJ(2)(3), Lu D(1), 
+Pennini A(1), Xu R(1), Ababneh E(4), Abbasi-Kangevari M(5), Abbastabar H(6), 
+Abd-Elsalam SM(7), Abdoli A(8), Abedi A(9), Abidi H(10), Abolhassani H(11)(12), 
+Adedeji IA(13), Adnani QES(14)(15), Advani SM(16)(17), Afzal MS(18), Aghaali 
+M(19), Ahinkorah BO(20), Ahmad S(21), Ahmad T(22), Ahmadi A(23)(24), Ahmadi 
+S(25), Ahmed Rashid T(26), Ahmed Salih Y(27)(28), Akalu GT(29)(30), Aklilu 
+A(31), Akram T(32), Akunna CJ(33)(34), Al Hamad H(35)(36), Alahdab F(37), Al-Aly 
+Z(38)(39), Ali S(40), Alimohamadi Y(41)(42), Alipour V(43)(44), Aljunid 
+SM(45)(46), Alkhayyat M(47), Almasi-Hashiani A(48), Almasri NA(49), Al-Maweri 
+SAA(50)(51), Almustanyir S(52)(53), Alonso N(54), Alvis-Guzman N(55)(56), Amu 
+H(57), Anbesu EW(58), Ancuceanu R(59), Ansari F(60)(61), Ansari-Moghaddam A(62), 
+Antwi MH(63)(64), Anvari D(65)(66), Anyasodor AE(67), Aqeel M(68), Arabloo 
+J(43), Arab-Zozani M(69), Aremu O(70), Ariffin H(71)(72), Aripov T(73)(74), 
+Arshad M(75), Artaman A(76), Arulappan J(77), Asemi Z(78), Asghari Jafarabadi 
+M(79)(80), Ashraf T(81), Atorkey P(82)(83), Aujayeb A(84), Ausloos M(85)(86), 
+Awedew AF(87), Ayala Quintanilla BP(88)(89), Ayenew T(90), Azab MA(91), 
+Azadnajafabad S(92), Azari Jafari A(93), Azarian G(94), Azzam AY(95), Badiye 
+AD(96), Bahadory S(97)(98), Baig AA(99), Baker JL(100), Balakrishnan S(101), 
+Banach M(102)(103), Bärnighausen TW(104)(105), Barone-Adesi F(106), Barra 
+F(107), Barrow A(108)(109), Behzadifar M(110), Belgaumi UI(111), Bezabhe 
+WMM(112)(113), Bezabih YM(114)(115), Bhagat DS(116), Bhagavathula AS(117)(118), 
+Bhardwaj N(119), Bhardwaj P(120)(121), Bhaskar S(122)(123), Bhattacharyya 
+K(124)(125), Bhojaraja VS(126), Bibi S(127), Bijani A(128), Biondi A(129), 
+Bisignano C(1), Bjørge T(130)(131), Bleyer A(132)(133), Blyuss O(134)(135), 
+Bolarinwa OA(136), Bolla SR(137), Braithwaite D(138)(139), Brar A(140), Brenner 
+H(141), Bustamante-Teixeira MT(142), Butt NS(143), Butt ZA(144)(145), Caetano 
+Dos Santos FL(146), Cao Y(147), Carreras G(148), Catalá-López F(149)(150), 
+Cembranel F(151), Cerin E(152)(153), Cernigliaro A(154), Chakinala RC(155), 
+Chattu SK(156), Chattu VK(157)(158), Chaturvedi P(159)(160), Chimed-Ochir 
+O(161), Cho DY(162), Christopher DJ(163), Chu DT(164), Chung MT(165), Conde 
+J(166), Cortés S(167)(168), Cortesi PA(169), Costa VM(170), Cunha AR(171), 
+Dadras O(172)(173), Dagnew AB(174), Dahlawi SMA(175), Dai X(1)(176), Dandona 
+L(1)(177)(178), Dandona R(1)(176)(177), Darwesh AM(179), das Neves J(180)(181), 
+De la Hoz FP(182), Demis AB(183)(184), Denova-Gutiérrez E(185), Dhamnetiya 
+D(186), Dhimal ML(187)(188), Dhimal M(189), Dianatinasab M(190)(191), Diaz 
+D(192)(193), Djalalinia S(194), Do HP(195), Doaei S(196)(197), Dorostkar F(198), 
+Dos Santos Figueiredo FW(199), Driscoll TR(200), Ebrahimi H(201)(202), 
+Eftekharzadeh S(203), El Tantawi M(204), El-Abid H(205), Elbarazi I(118), 
+Elhabashy HR(206), Elhadi M(207), El-Jaafary SI(208), Eshrati B(209), 
+Eskandarieh S(210), Esmaeilzadeh F(211), Etemadi A(212), Ezzikouri S(213), 
+Faisaluddin M(214), Faraon EJA(215), Fares J(216), Farzadfar F(201), Feroze 
+AH(217)(218), Ferrero S(219), Ferro Desideri L(220), Filip I(221)(222), Fischer 
+F(223), Fisher JL(224), Foroutan M(225)(226), Fukumoto T(227), Gaal 
+PA(228)(229), Gad MM(230)(231), Gadanya MA(232)(233), Gallus S(234), Gaspar 
+Fonseca M(235), Getachew Obsa A(236), Ghafourifard M(237), Ghashghaee 
+A(43)(238), Ghith N(239), Gholamalizadeh M(240), Gilani SA(241)(242), Ginindza 
+TG(243), Gizaw ATT(244), Glasbey JC(245), Golechha M(246), Goleij P(247), Gomez 
+RS(248), Gopalani SV(249)(250), Gorini G(251), Goudarzi H(252)(253), Grosso 
+G(254), Gubari MIM(255), Guerra MR(142), Guha A(256)(257), Gunasekera DS(258), 
+Gupta B(259), Gupta VB(260), Gupta VK(261), Gutiérrez RA(262), Hafezi-Nejad 
+N(263)(264), Haider MR(265), Haj-Mirzaian A(266)(267), Halwani R(268)(269), 
+Hamadeh RR(270), Hameed S(271), Hamidi S(272), Hanif A(271), Haque S(273), 
+Harlianto NI(274)(275), Haro JM(276)(277), Hasaballah AI(278), Hassanipour 
+S(279)(280), Hay RJ(281)(282), Hay SI(1)(176), Hayat K(283)(284), Heidari 
+G(285), Heidari M(286), Herrera-Serna BY(287), Herteliu C(86)(288), Hezam 
+K(289)(290), Holla R(291), Hossain MM(292)(293), Hossain MBH(294), Hosseini 
+MS(295), Hosseini M(42)(296), Hosseinzadeh M(297)(298), Hostiuc M(299), Hostiuc 
+S(300)(301), Househ M(302), Hsairi M(303), Huang J(304), Hugo FN(305), Hussain 
+R(306), Hussein NR(307), Hwang BF(308), Iavicoli I(309), Ibitoye SE(310), Ida 
+F(311), Ikuta KS(1)(312), Ilesanmi OS(313)(314), Ilic IM(315), Ilic MD(316), 
+Irham LM(317)(318), Islam JY(319), Islam RM(320), Islam SMS(321)(322), Ismail 
+NE(323), Isola G(324), Iwagami M(325)(326), Jacob L(327)(328), Jain V(47), 
+Jakovljevic MB(329)(330), Javaheri T(331), Jayaram S(332), Jazayeri SB(333), Jha 
+RP(186)(334), Jonas JB(335)(336), Joo T(228), Joseph N(337), Joukar F(279)(280), 
+Jürisson M(338), Kabir A(339), Kahrizi D(340), Kalankesh LR(341), Kalhor 
+R(342)(343), Kaliyadan F(344), Kalkonde Y(345), Kamath A(291)(346), Kameran 
+Al-Salihi N(347), Kandel H(348)(349), Kapoor N(96), Karch A(350), Kasa AS(351), 
+Katikireddi SV(352), Kauppila JH(353)(354), Kavetskyy T(355)(356), Kebede 
+SA(357), Keshavarz P(358)(359), Keykhaei M(201)(360), Khader YS(361), Khalilov 
+R(362)(363), Khan G(364), Khan M(365), Khan MN(366), Khan MAB(367)(368), Khang 
+YH(369)(370), Khater AM(371), Khayamzadeh M(372)(373), Kim GR(374), Kim YJ(375), 
+Kisa A(376)(377), Kisa S(378), Kissimova-Skarbek K(379), Kopec JA(380)(381), 
+Koteeswaran R(382), Koul PA(383), Koulmane Laxminarayana SL(384), Koyanagi 
+A(385)(386), Kucuk Bicer B(387), Kugbey N(388), Kumar GA(177), Kumar N(389), 
+Kumar N(337), Kurmi OP(390)(391), Kutluk T(392), La Vecchia C(393), Lami 
+FH(394), Landires I(395)(396), Lauriola P(397), Lee SW(398), Lee SWH(399)(400), 
+Lee WC(401), Lee YH(402), Leigh J(403), Leong E(404), Li J(405), Li MC(406), Liu 
+X(407)(408), Loureiro JA(409)(410), Lunevicius R(411)(412), Magdy Abd El Razek 
+M(413), Majeed A(414), Makki A(415), Male S(416), Malik AA(271)(417), Mansournia 
+MA(42), Martini S(418)(419), Masoumi SZ(420), Mathur P(421), McKee M(422), 
+Mehrotra R(423), Mendoza W(424), Menezes RG(425), Mengesha EW(426), Mesregah 
+MK(427), Mestrovic T(428)(429), Miao Jonasson J(430), Miazgowski B(431)(432), 
+Miazgowski T(433), Michalek IM(434), Miller TR(435)(436), Mirzaei H(78), Mirzaei 
+HR(437), Misra S(438), Mithra P(337), Moghadaszadeh M(439)(440), Mohammad 
+KA(441), Mohammad Y(442), Mohammadi M(443), Mohammadi SM(444), 
+Mohammadian-Hafshejani A(23), Mohammed S(445)(446), Moka N(447)(448), Mokdad 
+AH(1)(176), Molokhia M(449), Monasta L(450), Moni MA(451), Moosavi MA(452), 
+Moradi Y(453), Moraga P(454), Morgado-da-Costa J(455), Morrison SD(456), 
+Mosapour A(457)(458), Mubarik S(459), Mwanri L(460), Nagarajan AJ(461)(462), 
+Nagaraju SP(463), Nagata C(464), Naimzada MD(465)(466), Nangia V(467), Naqvi 
+AA(468)(469), Narasimha Swamy S(470), Ndejjo R(471), Nduaguba SO(472), Negoi 
+I(473)(474), Negru SM(475), Neupane Kandel S(476), Nguyen CT(477), Nguyen 
+HLT(477), Niazi RK(478), Nnaji CA(479)(480), Noor NM(481)(482), Nuñez-Samudio 
+V(483)(484), Nzoputam CI(485), Oancea B(486), Ochir C(487)(488), Odukoya 
+OO(489)(490), Ogbo FA(491), Olagunju AT(492)(493), Olakunde BO(494), Omar 
+E(495), Omar Bali A(496), Omonisi AEE(497)(498), Ong S(499)(500), Onwujekwe 
+OE(501), Orru H(338)(502), Ortega-Altamirano DV(503), Otstavnov N(465), 
+Otstavnov SS(465)(504), Owolabi MO(505)(506), P A M(507), Padubidri JR(291), 
+Pakshir K(508), Pana A(86)(509), Panagiotakos D(510), Panda-Jonas S(335), 
+Pardhan S(511), Park EC(374)(512), Park EK(513), Pashazadeh Kan F(514), Patel 
+HK(515), Patel JR(516)(517), Pati S(518)(519), Pattanshetty SM(520), Paudel 
+U(521)(522), Pereira DM(523), Pereira RB(524), Perianayagam A(525), Pillay 
+JD(526), Pirouzpanah S(527), Pishgar F(201)(528), Podder I(529), Postma 
+MJ(530)(531), Pourjafar H(532)(533), Prashant A(534), Preotescu L(535)(536), 
+Rabiee M(537), Rabiee N(538), Radfar A(539), Radhakrishnan RA(540), 
+Radhakrishnan V(541), Rafiee A(542), Rahim F(543), Rahimzadeh S(544), Rahman 
+M(545), Rahman MA(546)(547), Rahmani AM(548), Rajai N(549), Rajesh A(550), 
+Rakovac I(551), Ram P(552), Ramezanzadeh K(266), Ranabhat K(553)(554), 
+Ranasinghe P(555), Rao CR(556), Rao SJ(557), Rawassizadeh R(558), Razeghinia 
+MS(559)(560), Renzaho AMN(561)(562), Rezaei N(201)(563), Rezaei N(12)(564), 
+Rezapour A(43), Roberts TJ(565), Rodriguez JAB(566), Rohloff P(567)(568), Romoli 
+M(569), Ronfani L(450), Roshandel G(570), Rwegerera GM(571), S M(572), Sabour 
+S(24), Saddik B(573), Saeed U(574)(575), Sahebkar A(576)(577), Sahoo H(525), 
+Salehi S(578), Salem MR(579), Salimzadeh H(580), Samaei M(581), Samy AM(582), 
+Sanabria J(583)(584), Sankararaman S(585)(586), Santric-Milicevic MM(315)(587), 
+Sardiwalla Y(588), Sarveazad A(589), Sathian B(35)(590), Sawhney M(591), Saylan 
+M(592), Schneider IJC(593), Sekerija M(594)(595), Seylani A(596), Shafaat 
+O(263)(597), Shaghaghi Z(598), Shaikh MA(599), Shamsoddin E(600)(601), Shannawaz 
+M(602), Sharma R(603), Sheikh A(604)(605), Sheikhbahaei S(263), Shetty A(606), 
+Shetty JK(607), Shetty PH(608), Shibuya K(609), Shirkoohi R(610)(611), 
+Shivakumar KM(612), Shivarov V(613)(614), Siabani S(615)(616), Siddappa 
+Malleshappa SK(617), Silva DAS(618), Singh JA(619)(620), Sintayehu Y(621), 
+Skryabin VY(622), Skryabina AA(623), Soeberg MJ(624), Sofi-Mahmudi A(600)(625), 
+Sotoudeh H(626), Steiropoulos P(627), Straif K(628)(629), Subedi R(630), Sufiyan 
+MB(631), Sultan I(632)(633), Sultana S(634), Sur D(635)(636), Szerencsés V(228), 
+Szócska M(637), Tabarés-Seisdedos R(638)(639), Tabuchi T(640), Tadbiri H(641), 
+Taherkhani A(642), Takahashi K(624), Talaat IM(268)(643), Tan KK(644), Tat 
+VY(645), Tedla BAA(646)(647), Tefera YG(648), Tehrani-Banihashemi A(209)(649), 
+Temsah MH(650), Tesfay FH(651)(652), Tessema GA(436)(653), Thapar R(337), 
+Thavamani A(585)(654), Thoguluva Chandrasekar V(655), Thomas N(656), Tohidinik 
+HR(657), Touvier M(658)(659), Tovani-Palone MR(660)(661), Traini E(450)(662), 
+Tran BX(663), Tran KB(664)(665), Tran MTN(666)(667), Tripathy JP(668), Tusa 
+BS(669), Ullah I(670)(671), Ullah S(127), Umapathi KK(672), Unnikrishnan B(673), 
+Upadhyay E(674), Vacante M(129), Vaezi M(675)(676), Valadan Tahbaz S(677)(678), 
+Velazquez DZ(193), Veroux M(679), Violante FS(680)(681), Vlassov V(682), Vo 
+B(683), Volovici V(684)(685), Vu GT(195), Waheed Y(21), Wamai RG(686)(687), Ward 
+P(688), Wen YF(689), Westerman R(690), Winkler AS(691)(692), Yadav L(693)(694), 
+Yahyazadeh Jabbari SH(677), Yang L(695)(696), Yaya S(697)(698), Yazie TSY(699), 
+Yeshaw Y(700), Yonemoto N(701)(702), Younis MZ(703)(704), Yousefi Z(705), Yu 
+C(459), Yuce D(706), Yunusa I(707), Zadnik V(708), Zare F(709), Zastrozhin 
+MS(710)(711), Zastrozhina A(712), Zhang J(713)(714), Zhong C(304), Zhou L(715), 
+Zhu C(716), Ziapour A(615), Zimmermann IR(717), Fitzmaurice C(1)(718), Murray 
+CJL(1)(176), Force LM(1)(176)(719).
+
+Author information:
+(1)Institute for Health Metrics and Evaluation, University of Washington, 
+Seattle.
+(2)Department of Global Health, Boston University, Boston, Massachusetts.
+(3)Department of Medicine, Brigham and Women's Hospital, Boston, Massachusetts.
+(4)Pathology and Laboratory Medicine Institute, Cleveland Clinic, Cleveland, 
+Ohio.
+(5)Social Determinants of Health Research Center, Shahid Beheshti University of 
+Medical Sciences, Tehran, Iran.
+(6)Advanced Diagnostic and Interventional Radiology Research Center, Tehran 
+University of Medical Sciences, Tehran, Iran.
+(7)Tropical Medicine Department, Tanta University, Tanta, Egypt.
+(8)Zoonoses Research Center, Jahrom University of Medical Sciences, Jahrom, 
+Iran.
+(9)Department of Orthopaedic Surgery, University of Southern California, Los 
+Angeles.
+(10)Laboratory Technology Sciences Department, Yasouj University, Yasuj, Iran.
+(11)Department of Laboratory Medicine, Karolinska University Hospital, Huddinge, 
+Sweden.
+(12)Research Center for Immunodeficiencies, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(13)Department of Sociology, Olabisi Onabanjo University, Ago-Iwoye, Nigeria.
+(14)Department of Midwifery, Karya Husada Institute of Health Sciences, Kediri, 
+Indonesia.
+(15)Department of Midwifery, Auckland University of Technology, Auckland, New 
+Zealand.
+(16)Terasaki Institute for Biomedical Innovation, Los Angeles, California.
+(17)School of Medicine, Georgetown University, Washington, DC.
+(18)Department of Life Sciences, University of Management and Technology, 
+Lahore, Pakistan.
+(19)Department of Epidemiology and Biostatistics, Qom University of Medical 
+Sciences, Qom, Iran.
+(20)The Australian Centre for Public and Population Health Research, University 
+of Technology Sydney, Sydney, New South Wales, Australia.
+(21)Foundation University Medical College, Foundation University Islamabad, 
+Islamabad, Pakistan.
+(22)Department of Epidemiology and Health Statistics, Southeast University, 
+Nanjing, China.
+(23)Department of Epidemiology and Biostatistics, Shahrekord University of 
+Medical Sciences, Shahrekord, Iran.
+(24)Department of Epidemiology, Shahid Beheshti University of Medical Sciences, 
+Tehran, Iran.
+(25)School of Advanced Technologies in Medicine, Shahid Beheshti University of 
+Medical Sciences, Tehran, Iran.
+(26)Department of Computer Science and Engineering, University of Kurdistan 
+Hewler, Erbil, Iraq.
+(27)Database Technology Department, Sulaimani Polytechnic University, 
+Sulaymaniyah, Iraq.
+(28)College of Informatics, Sulaimani Polytechnic University, Sulaymaniyah, 
+Iraq.
+(29)Microbiology, Immunology and Parasitology Department, St Paul's Hospital 
+Millennium Medical College, Addis Ababa, Ethiopia.
+(30)Microbial, Cellular and Molecular Biology, Addis Ababa University, Addis 
+Ababa, Ethiopia.
+(31)Department of Medical Laboratory Sciences, Arba Minch University, Arba 
+Minch, Ethiopia.
+(32)School of Mathematical Sciences, University of Science Malaysia, Penang, 
+Malaysia.
+(33)Department of Public Health, Intercountry Centre for Oral Health for Africa, 
+Jos, Nigeria.
+(34)Department of Public Health, Federal Ministry of Health, Garki, Nigeria.
+(35)Geriatric and Long-Term Care Department, Hamad Medical Corporation, Doha, 
+Qatar.
+(36)Rumailah Hospital, Hamad Medical Corporation, Doha, Qatar.
+(37)Mayo Evidence-Based Practice Center, Mayo Clinic Foundation for Medical 
+Education and Research, Rochester, Minnesota.
+(38)John T. Milliken Department of Internal Medicine, Washington University in 
+St Louis, St Louis, Missouri.
+(39)Clinical Epidemiology Center, Department of Veterans Affairs, St Louis, 
+Missouri.
+(40)Department of Information Systems, Sultan Qaboos University, Muscat, Oman.
+(41)Pars Hospital, Iran University of Medical Sciences, Tehran, Iran.
+(42)Department of Epidemiology and Biostatistics, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(43)Health Management and Economics Research Center, Iran University of Medical 
+Sciences, Tehran, Iran.
+(44)Department of Health Economics, Iran University of Medical Sciences, Tehran, 
+Iran.
+(45)Department of Health Policy and Management, Kuwait University, Safat, 
+Kuwait.
+(46)International Centre for Casemix and Clinical Coding, National University of 
+Malaysia, Bandar Tun Razak, Malaysia.
+(47)Department of Internal Medicine, Cleveland Clinic, Cleveland, Ohio.
+(48)Department of Epidemiology, Arak University of Medical Sciences, Arak, Iran.
+(49)Physiotherapy Department, University of Jordan, Amman, Jordan.
+(50)College of Dental Medicine, Qatar University, Doha, Qatar.
+(51)Faculty of Dentistry, Sana'a University, Sana'a, Yemen.
+(52)College of Medicine, Alfaisal University, Riyadh, Saudi Arabia.
+(53)Ministry of Health, Riyadh, Saudi Arabia.
+(54)Department of Surgery, University of São Paulo, São Paulo, Brazil.
+(55)Research Group in Hospital Management and Health Policies, Universidad de la 
+Costa, Barranquilla, Colombia.
+(56)Research Group in Health Economics, University of Cartagena, Cartagena, 
+Colombia.
+(57)Department of Population and Behavioural Sciences, University of Health and 
+Allied Sciences, Ho, Ghana.
+(58)Department of Public Health, Samara University, Samara, Ethiopia.
+(59)Pharmacy Department, Carol Davila University of Medicine and Pharmacy, 
+Bucharest, Romania.
+(60)Research Center for Evidence Based Medicine, Tabriz University of Medical 
+Sciences, Tabriz, Iran.
+(61)Razi Vaccine and Serum Research Institute, Agricultural Research, Education, 
+and Extension Organization, Tehran, Iran.
+(62)Department of Epidemiology and Biostatistics, Zahedan University of Medical 
+Sciences, Zahedan, Iran.
+(63)Clinical Laboratory Department, Ghana Health Service, Kumasi, Ghana.
+(64)Department of Molecular Medicine, Kwame Nkrumah University of Science and 
+Technology, Kumasi, Ghana.
+(65)Department of Parasitology, Mazandaran University of Medical Sciences, Sari, 
+Iran.
+(66)Department of Parasitology, Iranshahr University of Medical Sciences, 
+Iranshahr, Iran.
+(67)School of Community Health, Charles Sturt University, Orange, New South 
+Wales, Australia.
+(68)Department of Psychology, Foundation University Islamabad, Rawalpandi, 
+Pakistan.
+(69)Social Determinants of Health Research Center, Birjand University of Medical 
+Sciences, Birjand, Iran.
+(70)Department of Public Health, Birmingham City University, Birmingham, 
+England.
+(71)Department of Paediatrics, University of Malaya, Kuala Lumpur, Malaysia.
+(72)University of Malaya Medical Centre, University of Malaya, Kuala Lumpur, 
+Malaysia.
+(73)Public Health and Healthcare Management, Tashkent Institute of Postgraduate 
+Medical Education, Tashkent, Uzbekistan.
+(74)Boston Children's Hospital, Boston, Massachusetts.
+(75)Allied Health Sciences, Khyber Medical University, Timergara, Lower Dir, 
+Pakistan.
+(76)Zayed University, Abu Dhabi, United Arab Emirates.
+(77)Department of Maternal and Child Health, Sultan Qaboos University, Muscat, 
+Oman.
+(78)Research Center for Biochemistry and Nutrition in Metabolic Diseases, Kashan 
+University of Medical Sciences, Kashan, Iran.
+(79)Department of Biostatistics and Epidemiology, Tabriz University of Medical 
+Sciences, Tabriz, Iran.
+(80)Department of Biostatistics and Epidemiology, Zanjan University of Medical 
+Sciences, Zanjan, Iran.
+(81)Institute of Radiological Sciences and Medical Imaging Technology, 
+University of Lahore, Lahore, Pakistan.
+(82)School of Medicine and Public Health, University of Newcastle, Newcastle, 
+New South Wales, Australia.
+(83)Hunter New England Population Health, Wallsend, New South Wales, Australia.
+(84)Northumbria HealthCare National Health Service (NHS) Foundation Trust, NHS 
+England, Newcastle upon Tyne, England.
+(85)School of Business, University of Leicester, Leicester, England.
+(86)Department of Statistics and Econometrics, Bucharest University of Economic 
+Studies, Bucharest, Romania.
+(87)Department of Surgery, Addis Ababa University, Addis Ababa, Ethiopia.
+(88)The Judith Lumley Centre, La Trobe University, Melbourne, Victoria, 
+Australia.
+(89)San Martin de Porres University, Lima, Peru.
+(90)Department of Nursing, Debre Markos University, Debre Markos, Ethiopia.
+(91)Department of Neurosurgery, Cairo University, Cairo, Egypt.
+(92)Noncommunicable Diseases Research Center, Tehran, Iran.
+(93)School of Medicine, Shahroud University of Medical Sciences, Shahroud, Iran.
+(94)Department of Environmental Health Engineering, Hamadan University of 
+Medical Sciences, Hamadan, Iran.
+(95)Faculty of Medicine, October 6 University, 6th of October City, Egypt.
+(96)Department of Forensic Science, Government Institute of Forensic Science, 
+Nagpur, India.
+(97)Department of Parasitology, Tarbiat Modares University, Tehran, Iran.
+(98)Department of Parasitology, Alborz University of Medical Sciences, Karaj, 
+Iran.
+(99)Unit of Biochemistry, Universiti Sultan Zainal Abidin, Kuala Terengganu, 
+Malaysia.
+(100)Center for Clinical Research and Prevention, Bispebjerg University 
+Hospital, Frederiksberg, Denmark.
+(101)Department of Medical Microbiology, Haramaya University, Harar, Ethiopia.
+(102)Department of Hypertension, Medical University of Lodz, Lodz, Poland.
+(103)Polish Mothers' Memorial Hospital Research Institute, Lodz, Poland.
+(104)Heidelberg Institute of Global Health, Heidelberg University, Heidelberg, 
+Germany.
+(105)T.H. Chan School of Public Health, Harvard University, Boston, 
+Massachusetts.
+(106)Department of Translational Medicine, University of Eastern Piedmont, 
+Novara, Italy.
+(107)Academic Unit of Obstetrics and Gynecology, University of Genoa, Genoa, 
+Italy.
+(108)Department of Public and Environmental Health, University of the Gambia, 
+Brikama, The Gambia.
+(109)Epidemiology and Disease Control Unit, Ministry of Health, Kotu, The 
+Gambia.
+(110)Social Determinants of Health Research Center, Lorestan University of 
+Medical Sciences, Khorramabad, Iran.
+(111)Department of Oral Pathology and Microbiology, Krishna Institute of Medical 
+Sciences, Karad, India.
+(112)University of Tasmania, Tasmania, Victoria, Australia.
+(113)Bahir Dar University, Bahir Dar, Ethiopia.
+(114)Department of Internal Medicine, Bahir Dar University, Bahir Dar, Ethiopia.
+(115)One Health, University of Nantes, Nantes, France.
+(116)Department of Forensic Chemistry, Government Institute of Forensic Science, 
+Aurangabad, India.
+(117)Department of Social and Clinical Pharmacy, Charles University, Hradec 
+Kralova, Czech Republic.
+(118)Institute of Public Health, United Arab Emirates University, Al Ain, United 
+Arab Emirates.
+(119)Department of Anatomy, Government Medical College Pali, Pali, India.
+(120)Department of Community Medicine and Family Medicine, All India Institute 
+of Medical Sciences, Jodhpur, India.
+(121)School of Public Health, All India Institute of Medical Sciences, Jodhpur, 
+India.
+(122)Neurovascular Imaging Laboratory, New South Wales Brain Clot Bank, Sydney, 
+New South Wales, Australia.
+(123)Department of Neurology and Neurophysiology, South West Sydney Local Heath 
+District and Liverpool Hospital, Sydney, New South Wales, Australia.
+(124)Department of Statistical and Computational Genomics, National Institute of 
+Biomedical Genomics, Kalyani, India.
+(125)Department of Statistics, University of Calcutta, Kolkata, India.
+(126)Department of Anatomy, Manipal University College Melaka, Melaka, Malaysia.
+(127)Institute of Soil and Environmental Sciences, University of Agriculture, 
+Faisalabad, Faisalabad, Pakistan.
+(128)Social Determinants of Health Research Center, Babol University of Medical 
+Sciences, Babol, Iran.
+(129)Department of General Surgery and Medical-Surgical Specialties, University 
+of Catania, Catania, Italy.
+(130)Department of Global Public Health and Primary Care, University of Bergen, 
+Bergen, Norway.
+(131)Cancer Registry of Norway, Oslo, Norway.
+(132)Department of Radiation Medicine, Oregon Health and Science University, 
+Portland.
+(133)McGovern Medical School, University of Texas, Houston.
+(134)School of Physics, Engineering and Computer Science, University of 
+Hertfordshire, Hatfield, England.
+(135)Institute for Women's Health, University College London, London, England.
+(136)Department of Public Health Medicine, University of KwaZulu-Natal, Durban, 
+South Africa.
+(137)Department of Biomedical Sciences, Nazarbayev University, Nur-Sultan City, 
+Kazakhstan.
+(138)Department of Epidemiology, University of Florida, Gainesville.
+(139)Cancer Population Sciences Program, University of Florida Health Cancer 
+Center, Gainesville.
+(140)Department of Surgery, University of Toronto, Toronto, Ontario, Canada.
+(141)Division of Clinical Epidemiology and Aging Research, German Cancer 
+Research Center, Heidelberg, Germany.
+(142)Department of Public Health, Federal University of Juiz de Fora, Juiz de 
+Fora, Brazil.
+(143)Department of Family and Community Medicine, King Abdulaziz University, 
+Jeddah, Saudi Arabia.
+(144)School of Public Health and Health Systems, University of Waterloo, 
+Waterloo, Ontario, Canada.
+(145)Al Shifa School of Public Health, Al Shifa Trust Eye Hospital, Rawalpindi, 
+Pakistan.
+(146)Institute of Microengineering, Federal Polytechnic School of Lausanne, 
+Lausanne, Switzerland.
+(147)Department of Surgery, Washington University in St Louis, St Louis, 
+Missouri.
+(148)Institute for Cancer Research, Prevention and Clinical Network, Florence, 
+Italy.
+(149)National School of Public Health, Institute of Health Carlos III, Madrid, 
+Spain.
+(150)Clinical Epidemiology Program, Ottawa Hospital Research Institute, Ottawa, 
+Ontario, Canada.
+(151)Department of Nutrition, Federal University of Santa Catarina, 
+Florianópolis, Brazil.
+(152)Mary MacKillop Institute for Health Research, Australian Catholic 
+University, Melbourne, Victoria, Australia.
+(153)School of Public Health, University of Hong Kong, Hong Kong, China.
+(154)Regional Epidemiological Observatory Department, Sicilian Regional Health 
+Authority, Palermo, Italy.
+(155)Hospitalist Department, Geisinger Health System, Danville, Pennsylvania.
+(156)Department of Public Health, Texila American University, Georgetown, 
+Guyana.
+(157)Department of Medicine, University of Toronto, Toronto, Ontario, Canada.
+(158)Saveetha Medical College, Saveetha University, Chennai, India.
+(159)Center for Cancer Epidemiology, Tata Memorial Hospital, Navi Mumbai, India.
+(160)Department of Head Neck Surgery, Tata Memorial Hospital, Mumbai, India.
+(161)Department of Public Health and Health Policy, Hiroshima University, 
+Hiroshima, Japan.
+(162)Division of Plastic Surgery, University of Washington, Seattle.
+(163)Department of Pulmonary Medicine, Christian Medical College and Hospital, 
+Vellore, India.
+(164)Center for Biomedicine and Community Health, VNU International School, 
+Hanoi, Vietnam.
+(165)Department of Otolaryngology, Wayne State University, Detroit, Michigan.
+(166)Nova Medical School, Nova University of Lisbon, Lisbon, Portugal.
+(167)Department of Public Health, Pontifical Catholic University of Chile, 
+Santiago, Chile.
+(168)Research Line in Environmental Exposures and Health Effects at Population 
+Level, Centro de Desarrollo Urbano Sustentable, Santiago, Chile.
+(169)School of Medicine and Surgery, University of Milan Bicocca, Monza, Italy.
+(170)Research Unit on Applied Molecular Biosciences, University of Porto, Porto, 
+Portugal.
+(171)Faculty of Dentistry, Federal University of Rio Grande do Sul, Porto 
+Alegre, Brazil.
+(172)School of Public Health, Walailak University, Nakhon Si Thammarat, 
+Thailand.
+(173)Graduate School of Medicine, Kyoto University, Kyoto, Japan.
+(174)Department of Nursing, Bahir Dar University, Bahir Dar, Ethiopia.
+(175)Environmental Health Department, Imam Abdulrahman Bin Faisal University, 
+Dammam, Saudi Arabia.
+(176)Department of Health Metrics Sciences, School of Medicine, University of 
+Washington, Seattle.
+(177)Public Health Foundation of India, Gurugram, India.
+(178)Indian Council of Medical Research, New Delhi, India.
+(179)Department of Information Technology, University of Human Development, 
+Sulaymaniyah, Iraq.
+(180)Institute for Research and Innovation in Health, University of Porto, 
+Porto, Portugal.
+(181)Institute of Biomedical Engineering, University of Porto, Porto, Portugal.
+(182)Department of Public Health, National University of Colombia, Bogota, 
+Colombia.
+(183)Department of Nursing, Woldia University, Woldia, Ethiopia.
+(184)School of Nursing, Jimma University, Jimma, Ethiopia.
+(185)Center for Nutrition and Health Research, National Institute of Public 
+Health, Cuernavaca, Mexico.
+(186)Department of Community Medicine, Dr Baba Saheb Ambedkar Medical College 
+and Hospital, Delhi, India.
+(187)Policy Research Institute, Kathmandu, Nepal.
+(188)Global Institute for Interdisciplinary Studies, Kathmandu, Nepal.
+(189)Health Research Section, Nepal Health Research Council, Kathmandu, Nepal.
+(190)Department of Epidemiology and Biostatistics, Shahroud University of 
+Medical Sciences, Shahroud, Iran.
+(191)Department of Epidemiology, Shiraz University of Medical Sciences, Shiraz, 
+Iran.
+(192)Center of Complexity Sciences, National Autonomous University of Mexico, 
+Mexico City, Mexico.
+(193)Faculty of Veterinary Medicine and Zootechnics, Autonomous University of 
+Sinaloa, Culiacán Rosales, Mexico.
+(194)Development of Research and Technology Center, Ministry of Health and 
+Medical Education, Tehran, Iran.
+(195)Center of Excellence in Behavioral Medicine, Nguyen Tat Thanh University, 
+Ho Chi Minh City, Vietnam.
+(196)School of Health, Guilan University of Medical Sciences, Rasht, Iran.
+(197)Department of Community Nutrition, Shahid Beheshti University of Medical 
+Sciences, Tehran, Iran.
+(198)Department of Medical Laboratory Sciences, Iran University of Medical 
+Sciences, Tehran, Iran.
+(199)Epidemiology and Data Analysis Laboratory, University Center Faculdade de 
+Medicina do ABC, Santo André, Brazil.
+(200)Sydney School of Public Health, University of Sydney, Sydney, New South 
+Wales, Australia.
+(201)Noncommunicable Diseases Research Center, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(202)Liver and Pancreaticobilliary Disease Research Center, Tehran University of 
+Medical Sciences, Tehran, Iran.
+(203)Division of Urology, Children's Hospital of Philadelphia, Philadelphia, 
+Pennsylvania.
+(204)Pediatric Dentistry and Dental Public Health Department, Alexandria 
+University, Alexandria, Egypt.
+(205)Direction de L'épidémiologie et la Lutte Contre les Maladies, Ministry of 
+Health, Rabat, Morocco.
+(206)Neurophysiology Department, Cairo University, Cairo, Egypt.
+(207)Faculty of Medicine, University of Tripoli, Tripoli, Libya.
+(208)Department of Neurology, Cairo University, Cairo, Egypt.
+(209)Preventive Medicine and Public Health Research Center, Iran University of 
+Medical Sciences, Tehran, Iran.
+(210)Multiple Sclerosis Research Center, Tehran University of Medical Sciences, 
+Tehran, Iran.
+(211)Department of Public Health, Maragheh University of Medical Sciences, 
+Maragheh, Iran.
+(212)Division of Cancer Epidemiology and Genetics, National Cancer Institute, 
+Bethesda, Maryland.
+(213)Department of Virology, Pasteur Institute of Morocco, Casablanca, Morocco.
+(214)Department of Internal Medicine, Rochester General Hospital, Rochester, New 
+York.
+(215)Department of Health Policy and Administration, University of the 
+Philippines Manila, Manila, Philippines.
+(216)Department of Neurological Surgery, Northwestern University, Chicago, 
+Illinois.
+(217)Department of Neurological Surgery, University of Washington, Seattle.
+(218)Human Biology Division, Fred Hutchinson Cancer Research Center, Seattle, 
+Washington.
+(219)Department of Neurosciences, Rehabilitation, Ophthalmology, Genetics, 
+Maternal and Child Health, University of Genoa, Genoa, Italy.
+(220)University Eye Clinic, University of Genoa, Genoa, Italy.
+(221)Psychiatry Department, Kaiser Permanente, Fontana, California.
+(222)School of Health Sciences, A.T. Still University, Mesa, Arizona.
+(223)Institute of Gerontological Health Services and Nursing Research, 
+Ravensburg-Weingarten University of Applied Sciences, Weingarten, Germany.
+(224)James Cancer Hospital, Ohio State University, Columbus.
+(225)Department of Medical Parasitology, Abadan University of Medical Sciences, 
+Abadan, Iran.
+(226)Faculty of Medicine, Abadan University of Medical Sciences, Abadan, Iran.
+(227)Department of Dermatology, Kobe University, Kobe, Japan.
+(228)Health Services Management Training Centre, Semmelweis University, 
+Budapest, Hungary.
+(229)Department of Applied Social Sciences, Sapientia Hungarian University of 
+Transylvania, Târgu-Mureş, Romania.
+(230)Department of Cardiovascular Medicine, Cleveland Clinic, Cleveland, Ohio.
+(231)Gillings School of Global Public Health, University of North Carolina 
+Chapel Hill, Chapel Hill.
+(232)Community Medicine Department, Bayero University, Kano, Kano, Nigeria.
+(233)Department of Community Medicine, Aminu Kano Teaching Hospital, Kano, 
+Nigeria.
+(234)Department of Environmental Health Sciences, Mario Negri Institute for 
+Pharmacological Research, Milan, Italy.
+(235)National Health Service, London, England.
+(236)School of Psychology, Addis Ababa University, Addis Ababa, Ethiopia.
+(237)Department of Medical Surgical Nursing, Tabriz University of Medical 
+Sciences, Tabriz, Iran.
+(238)Student Research Committee, Iran University of Medical Sciences, Tehran, 
+Iran.
+(239)Research Group for Genomic Epidemiology, Technical University of Denmark, 
+Copenhagen, Denmark.
+(240)Cancer Research Center, Shahid Beheshti University of Medical Sciences, 
+Tehran, Iran.
+(241)Faculty of Allied Health Sciences, University of Lahore, Lahore, Pakistan.
+(242)Afro-Asian Institute, Lahore, Pakistan.
+(243)Discipline of Public Health Medicine, University of KwaZulu-Natal, Durban, 
+South Africa.
+(244)Health, Behavior and Society, Jimma University, Jimma, Ethiopia.
+(245)National Institute for Health Research Global Health Research Unit on 
+Global Surgery, University of Birmingham, Birmingham, England.
+(246)Health Systems and Policy Research, Indian Institute of Public Health, 
+Gandhinagar, India.
+(247)Department of Genetics, Sana Institute of Higher Education, Sari, Iran.
+(248)Department of Oral Surgery and Pathology, Federal University of Minas 
+Gerais, Belo Horizonte, Brazil.
+(249)Hudson College of Public Health, University of Oklahoma Health Sciences 
+Center, Oklahoma City.
+(250)Department of Health and Social Affairs, Government of the Federated States 
+of Micronesia, Palikir, Federated States of Micronesia.
+(251)Oncological Network, Prevention and Research Institute, Institute for 
+Cancer Research, Prevention and Clinical Network, Florence, Italy.
+(252)Department of Respiratory Medicine, Hokkaido University, Sapporo, Japan.
+(253)Center for Environmental and Health Sciences, Hokkaido University, Sapporo, 
+Japan.
+(254)Department of Biomedical and Biotechnological Sciences, University of 
+Catania, Catania, Italy.
+(255)Department of Family and Community Medicine, University of Sulaimani, 
+Sulaimani, Iraq.
+(256)Harrington Heart and Vascular Institute, Case Western Reserve University, 
+Cleveland, Ohio.
+(257)Division of Cardiovascular Medicine, Ohio State University, Columbus.
+(258)Department of Paediatrics, National Cancer Institute, Maharagama, Sri 
+Lanka.
+(259)Department of Public Health, Torrens University, Melbourne, Victoria, 
+Australia.
+(260)School of Medicine, Deakin University, Geelong, Victoria, Australia.
+(261)Department of Clinical Medicine, Macquarie University, Sydney, New South 
+Wales, Australia.
+(262)Department of Epidemiology and Psychosocial Research, Ramón de la Fuente 
+Muñiz National Institute of Psychiatry, Mexico City, Mexico.
+(263)Department of Radiology and Radiological Science, Johns Hopkins University, 
+Baltimore, Maryland.
+(264)School of Medicine, Tehran University of Medical Sciences, Tehran, Iran.
+(265)Department of Social and Public Health, Ohio University, Athens.
+(266)Department of Pharmacology, Shahid Beheshti University of Medical Sciences, 
+Tehran, Iran.
+(267)Obesity Research Center, Shahid Beheshti University of Medical Sciences, 
+Tehran, Iran.
+(268)Clinical Sciences Department, University of Sharjah, Sharjah, United Arab 
+Emirates.
+(269)College of Medicine, University of Sharjah, Sharjah, United Arab Emirates.
+(270)Department of Family and Community Medicine, Arabian Gulf University, 
+Manama, Bahrain.
+(271)University Institute of Public Health, University of Lahore, Lahore, 
+Pakistan.
+(272)School of Health and Environmental Studies, Hamdan Bin Mohammed Smart 
+University, Dubai, United Arab Emirates.
+(273)Research & Scientific Studies Unit, Jazan University, Jazan, Saudi Arabia.
+(274)Faculty of Medicine, Utrecht University, Utrecht, Netherlands.
+(275)Department of Radiology, University Medical Center Utrecht, Utrecht, 
+Netherlands.
+(276)Research Unit, University of Barcelona, Barcelona, Spain.
+(277)Biomedical Research Networking Center for Mental Health Network, Barcelona, 
+Spain.
+(278)Department of Zoology and Entomology, Al Azhar University, Cairo, Egypt.
+(279)Gastrointestinal and Liver Diseases Research Center, Guilan University of 
+Medical Sciences, Rasht, Iran.
+(280)Caspian Digestive Disease Research Center, Guilan University of Medical 
+Sciences, Rasht, Iran.
+(281)International Foundation for Dermatology, London, England.
+(282)St John's Institute of Dermatology, King's College London, London, England.
+(283)Institute of Pharmaceutical Sciences, University of Veterinary and Animal 
+Sciences, Lahore, Pakistan.
+(284)Department of Pharmacy Administration and Clinical Pharmacy, Xian Jiaotong 
+University, Xian, China.
+(285)Independent Consultant, Santa Clara, California.
+(286)Community-Oriented Nursing Midwifery Research Center, Shahrekord University 
+of Medical Sciences, Shahrekord, Iran.
+(287)Departamento de Salud Oral, Universidad Autónoma de Manizales, Manizales, 
+Colombia.
+(288)School of Business, London South Bank University, London, England.
+(289)Department of Applied Microbiology, Taiz University, Taiz, Yemen.
+(290)Department of Microbiology, Nankai University, Tianjin, China.
+(291)Kasturba Medical College, Mangalore, Manipal Academy of Higher Education, 
+Manipal, India.
+(292)Social and Environmental Health Research, Nature Study Society of 
+Bangladesh, Khulna, Bangladesh.
+(293)Department of Health Promotion and Community Health Sciences, Texas A&M 
+University, College Station.
+(294)Department of Population Sciences, University of Dhaka, Dhaka, Bangladesh.
+(295)Student Research Committee, Tabriz University of Medical Sciences, Tabriz, 
+Iran.
+(296)Pediatric Chronic Kidney Disease Research Center, Tehran University of 
+Medical Sciences, Tehran, Iran.
+(297)Institute of Research and Development, Duy Tan University, Da Nang, 
+Vietnam.
+(298)Department of Computer Science, University of Human Development, 
+Sulaymaniyah, Iraq.
+(299)Internal Medicine Department, Carol Davila University of Medicine and 
+Pharmacy, Bucharest, Romania.
+(300)Department of Legal Medicine and Bioethics, Carol Davila University of 
+Medicine and Pharmacy, Bucharest, Romania.
+(301)Clinical Legal Medicine Department, National Institute of Legal Medicine 
+Mina Minovici, Bucharest, Romania.
+(302)College of Science and Engineering, Hamad Bin Khalifa University, Doha, 
+Qatar.
+(303)Faculty of Medicine of Tunis, University Tunis El Manar, Tunis, Tunisia.
+(304)Jockey Club School of Public Health and Primary Care, Chinese University of 
+Hong Kong, Hong Kong, China.
+(305)Department of Preventive and Social Dentistry, Federal University of Rio 
+Grande do Sul, Porto Alegre, Brazil.
+(306)School of Pharmaceutical Sciences, University of Science Malaysia, Penang, 
+Malaysia.
+(307)Department of Biomolecular Sciences, University of Zakho, Zakho, Iraq.
+(308)Department of Occupational Safety and Health, China Medical University, 
+Taichung, Taiwan.
+(309)Department of Public Health, University of Naples Federico II, Naples, 
+Italy.
+(310)Department of Health Promotion and Education, University of Ibadan, Ibadan, 
+Nigeria.
+(311)Pharmacoepidemiology Department, Sanofi, Cambridge, Massachusetts.
+(312)Division of Allergy and Infectious Diseases, University of Washington, 
+Seattle.
+(313)Department of Community Medicine, University of Ibadan, Ibadan, Nigeria.
+(314)Department of Community Medicine, University College Hospital, Ibadan, 
+Ibadan, Nigeria.
+(315)Faculty of Medicine, University of Belgrade, Belgrade, Serbia.
+(316)Department of Epidemiology, University of Kragujevac, Kragujevac, Serbia.
+(317)School of Pharmacy, Taipei Medical University, Taipei, Taiwan.
+(318)Faculty of Pharmacy, Ahmad Dahlan University, Yogyakarta, Indonesia.
+(319)H. Lee Moffitt Cancer Center and Research Institute, Tampa, Florida.
+(320)Department of Epidemiology and Preventive Medicine, Monash University, 
+Melbourne, Victoria, Australia.
+(321)Institute for Physical Activity and Nutrition, Deakin University, Burwood, 
+Victoria, Australia.
+(322)Sydney Medical School, University of Sydney, Sydney, New South Wales, 
+Australia.
+(323)Department of Clinical Pharmacy, MAHSA University, Bandar Saujana Putra, 
+Malaysia.
+(324)Department of General Surgery and Surgical-Medical Specialties, University 
+of Catania, Catania, Italy.
+(325)Department of Health Services Research, University of Tsukuba, Tsukuba, 
+Japan.
+(326)Department of Non-Communicable Disease Epidemiology, London School of 
+Hygiene and Tropical Medicine, London, England.
+(327)Research and Development Unit, Biomedical Research Networking Center for 
+Mental Health Network, Sant Boi de Llobregat, Spain.
+(328)Faculty of Medicine, University of Versailles Saint-Quentin-en-Yvelines, 
+Montigny-le-Bretonneux, France.
+(329)Institute of Comparative Economic Studies, Hosei University, Tokyo, Japan.
+(330)Department of Global Health, Economics and Policy, University of 
+Kragujevac, Kragujevac, Serbia.
+(331)Health Informatic Lab, Boston University, Boston, Massachusetts.
+(332)Department of Biochemistry, Government Medical College, Mysuru, India.
+(333)Urology Department, University of Florida, Jacksonville.
+(334)Department of Community Medicine, Banaras Hindu University, Varanasi, 
+India.
+(335)Department of Ophthalmology, Heidelberg University, Heidelberg, Germany.
+(336)Beijing Institute of Ophthalmology, Beijing Tongren Hospital, Beijing, 
+China.
+(337)Department of Community Medicine, Manipal Academy of Higher Education, 
+Mangalore, India.
+(338)Institute of Family Medicine and Public Health, University of Tartu, Tartu, 
+Estonia.
+(339)Minimally Invasive Surgery Research Center, Iran University of Medical 
+Sciences, Tehran, Iran.
+(340)Department of Genetics, Kermanshah University of Medical Sciences, 
+Kermanshah, Iran.
+(341)School of Management and Medical Informatics, Tabriz University of Medical 
+Sciences, Tabriz, Iran.
+(342)Institute for Prevention of Non-communicable Diseases, Qazvin University of 
+Medical Sciences, Qazvin, Iran.
+(343)Health Services Management Department, Qazvin University of Medical 
+Sciences, Qazvin, Iran.
+(344)Dermatology Department, King Faisal University, Hofuf, Saudi Arabia.
+(345)Public Health Division, Society for Education, Action and Research in 
+Community Health, Gadchiroli, India.
+(346)Manipal Academy of Higher Education, Manipal, India.
+(347)Department of Computer Science and Engineering, University of Kurdistan 
+Hewler, Hewler, Iraq.
+(348)Save Sight Institute, University of Sydney, Sydney, New South Wales, 
+Australia.
+(349)Sydney Eye Hospital, South Eastern Sydney Local Health District, Sydney, 
+New South Wales, Australia.
+(350)Institute for Epidemiology and Social Medicine, University of Münster, 
+Münster, Germany.
+(351)Department of Adult Health Nursing, Bahir Dar University, Bahir Dar, 
+Ethiopia.
+(352)Medical Research Council/Chief Scientist Office Social and Public Health 
+Sciences Unit, University of Glasgow, Glasgow, Scotland.
+(353)Surgery Research Unit, University of Oulu, Oulu, Finland.
+(354)Department of Molecular Medicine and Surgery, Karolinska Institute, 
+Stockholm, Sweden.
+(355)Department of Surface Engineering, John Paul II Catholic University of 
+Lublin, Lublin, Poland.
+(356)Drohobych Ivan Franko State Pedagogical University, Drohobych, Ukraine.
+(357)Department of Epidemiology and Biostatistics, University of Gondar, Gondar, 
+Faroe Islands.
+(358)School of Science and Technology, University of Georgia, Tbilisi, Georgia.
+(359)Department of Diagnostic and Interventional Radiology, New Hospitals LTD, 
+Tbilisi, Georgia.
+(360)Students Scientific Research Center, Tehran University of Medical Sciences, 
+Tehran, Iran.
+(361)Department of Public Health, Jordan University of Science and Technology, 
+Irbid, Jordan.
+(362)Department of Biophysics and Biochemistry, Baku State University, Baku, 
+Azerbaijan.
+(363)Russian Institute for Advanced Study, Moscow State Pedagogical University, 
+Moscow, Russia.
+(364)Department of Medical Microbiology and Immunology, United Arab Emirates 
+University, Al Ain, United Arab Emirates.
+(365)Epidemiology Department, Jazan University, Jazan, Saudi Arabia.
+(366)Department of Population Science, Jatiya Kabi Kazi Nazrul Islam University, 
+Mymensingh, Bangladesh.
+(367)Family Medicine Department, United Arab Emirates University, Al Ain, United 
+Arab Emirates.
+(368)Primary Care Department, NHS North West London, London, England.
+(369)Department of Health Policy and Management, Seoul National University, 
+Seoul, South Korea.
+(370)Institute of Health Policy and Management, Seoul National University, 
+Seoul, South Korea.
+(371)National Hepatology and Tropical Medicine Research Institute, Cairo 
+University, Cairo, Egypt.
+(372)Shahid Beheshti University of Medical Sciences, Tehran, Iran.
+(373)The Iranian Academy of Medical Sciences, Tehran, Iran.
+(374)Department of Preventive Medicine, Yonsei University, Seoul, South Korea.
+(375)School of Traditional Chinese Medicine, Xiamen University Malaysia, Sepang, 
+Malaysia.
+(376)School of Health Sciences, Kristiania University College, Oslo, Norway.
+(377)Department of Global Community Health and Behavioral Sciences, Tulane 
+University, New Orleans, Louisiana.
+(378)Department of Nursing and Health Promotion, Oslo Metropolitan University, 
+Oslo, Norway.
+(379)Department of Health Economics and Social Security, Jagiellonian University 
+Medical College, Krakow, Poland.
+(380)School of Population and Public Health, University of British Columbia, 
+Vancouver, British Columbia, Canada.
+(381)Arthritis Research Canada, Richmond, British Columbia, Canada.
+(382)Microbiology & Molecular Cell Biology Department, Eastern Virginia Medical 
+School, Norfolk.
+(383)Department of Internal and Pulmonary Medicine, Sheri Kashmir Institute of 
+Medical Sciences, Srinagar, India.
+(384)Kasturba Medical College, Udupi, India.
+(385)Biomedical Research Networking Center for Mental Health Network, San Juan 
+de Dios Sanitary Park, Sant Boi de Llobregat, Spain.
+(386)Catalan Institution for Research and Advanced Studies, Barcelona, Spain.
+(387)Faculty of Medicine, Gazi University, Ankara, Turkey.
+(388)University of Environment and Sustainable Development, Somanya, Ghana.
+(389)Department of Orthopaedics, Medanta Hospital, Lucknow, India.
+(390)Faculty of Health and Life Sciences, Coventry University, Coventry, 
+England.
+(391)Department of Medicine, McMaster University, Hamilton, Ontario, Canada.
+(392)Department of Pediatric Oncology, Hacettepe University, Ankara, Turkey.
+(393)Department of Clinical Sciences and Community Health, University of Milan, 
+Milan, Italy.
+(394)Department of Community and Family Medicine, University of Baghdad, 
+Baghdad, Iraq.
+(395)Unit of Genetics and Public Health, Institute of Medical Sciences, Las 
+Tablas, Panama.
+(396)Ministry of Health, Herrera, Panama.
+(397)Institute of Clinical Physiology, National Research Council, Pisa, Italy.
+(398)Pattern Recognition and Machine Learning Lab, Gachon University, Seongnam, 
+South Korea.
+(399)School of Pharmacy, Monash University, Bandar Sunway, Malaysia.
+(400)School of Pharmacy, Taylor's University Lakeside Campus, Subang Jaya, 
+Malaysia.
+(401)Office of Health Policy & Legislative Affairs, University of Texas, 
+Galveston.
+(402)Graduate School of Public Health, Ajou University, Suwon-si, South Korea.
+(403)Asbestos Diseases Research Institute, University of Sydney, Sydney, New 
+South Wales, Australia.
+(404)Faculty of Science, Universiti Brunei Darussalam, Bandar Seri Begawan, 
+Brunei.
+(405)Department of Medical Oncology, Peking Union Medical College, Beijing, 
+China.
+(406)Department of Health Promotion and Health Education, National Taiwan Normal 
+University, Taipei, Taiwan.
+(407)Lerner Research Institute, Cleveland Clinic, Cleveland, Ohio.
+(408)Department of Quantitative Health Science, Case Western Reserve University, 
+Cleveland, Ohio.
+(409)Laboratory for Process Engineering, Environment, Biotechnology and Energy, 
+University of Porto, Porto, Portugal.
+(410)School of Health, Polytechnic Institute of Porto, Portugal.
+(411)Department of General Surgery, Liverpool University Hospitals NHS 
+Foundation Trust, Liverpool, England.
+(412)Department of Surgery, University of Liverpool, Liverpool, England.
+(413)Ophthalmology Department, Ministry of Health and Population, Aswan, Egypt.
+(414)Department of Primary Care and Public Health, Imperial College London, 
+London, England.
+(415)Mass Communication Department, University of Sharjah, Sharjah, United Arab 
+Emirates.
+(416)Department of Ophthalmology, M M Joshi Eye Institute, Hubli, India.
+(417)Rabigh Faculty of Medicine, King Abdulaziz University, Jeddah, Saudi 
+Arabia.
+(418)Faculty of Public Health, Universitas Airlangga, Surabaya, Indonesia.
+(419)Indonesian Public Health Association, Surabaya, Indonesia.
+(420)Department of Midwifery, Hamadan University of Medical Sciences, Hamadan, 
+Iran.
+(421)National Centre for Disease Informatics and Research, Indian Council of 
+Medical Research, Bengaluru, India.
+(422)Department of Health Services Research and Policy, London School of Hygiene 
+and Tropical Medicine, London, England.
+(423)India Cancer Research Consortium, Indian Council of Medical Research, New 
+Delhi, India.
+(424)Peru Country Office, United Nations Population Fund, Lima, Peru.
+(425)Forensic Medicine Division, Imam Abdulrahman Bin Faisal University, Dammam, 
+Saudi Arabia.
+(426)Department of Reproductive Health and Population Studies, Bahir Dar 
+University, Bahir Dar, Ethiopia.
+(427)Department of Orthopaedic Surgery, Menoufia University Faculty of Medicine, 
+Shebin El-Kom, Egypt.
+(428)Clinical Microbiology and Parasitology Unit, Polyclinic "Dr. Zora 
+Profozic", Zagreb, Croatia.
+(429)University Centre Varazdin, University North, Varazdin, Croatia.
+(430)School of Public Health and Community Medicine, University of Gothenburg, 
+Gothenburg, Sweden.
+(431)Center for Innovation in Medical Education, Pomeranian Medical University, 
+Szczecin, Poland.
+(432)Pomeranian Medical University, Szczecin, Poland.
+(433)Department of Propedeutics of Internal Diseases and Arterial Hypertension, 
+Pomeranian Medical University, Szczecin, Poland.
+(434)Woman-Mother-Child Department, Lausanne University Hospital, Lausanne, 
+Switzerland.
+(435)Pacific Institute for Research and Evaluation, Calverton, Maryland.
+(436)School of Public Health, Curtin University, Perth, Western Australia, 
+Australia.
+(437)Department of Medical Immunology, Tehran University of Medical Sciences, 
+Tehran, Iran.
+(438)Department of Surgical Oncology, All India Institute of Medical Sciences, 
+Jodhpur, India.
+(439)Biotechnology Research Center, Tabriz University of Medical Sciences, 
+Tabriz, Iran.
+(440)Molecular Medicine Research Center, Tabriz University of Medical Sciences, 
+Tabriz, Iran.
+(441)Department of Biology, Salahaddin University-Erbil, Erbil, Iraq.
+(442)Internal Medicine Department, King Saud University, Riyadh, Saudi Arabia.
+(443)Department of Information Technology, Lebanese French University, Erbil, 
+Iraq.
+(444)Department of Anatomical Sciences, Zanjan University of Medical Sciences, 
+Zanjan, Iran.
+(445)Health Systems and Policy Research Unit, Ahmadu Bello University, Zaria, 
+Nigeria.
+(446)Department of Health Care Management, Technical University of Berlin, 
+Berlin, Germany.
+(447)Oncology Department, Appalachian Regional Healthcare, Hazard, Kentucky.
+(448)Internal Medicine, University of Kentucky, Lexington.
+(449)Faculty of Life Sciences and Medicine, King's College London, London, 
+England.
+(450)Clinical Epidemiology and Public Health Research Unit, Burlo Garofolo 
+Institute for Maternal and Child Health, Trieste, Italy.
+(451)Department of Computer Science and Engineering, Pabna University of Science 
+and Technology, Pabna, Bangladesh.
+(452)Department of Molecular Medicine, National Institute of Genetic Engineering 
+and Biotechnology, Tehran, Iran.
+(453)Social Determinants of Health Research Center, Kurdistan University of 
+Medical Sciences, Sanandaj, Iran.
+(454)Computer, Electrical, and Mathematical Sciences and Engineering Division, 
+King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.
+(455)University Hospital Center of Porto, University of Porto, Porto, Portugal.
+(456)Section of Plastic Surgery, University of Michigan School of Medicine, Ann 
+Arbor.
+(457)Department of Clinical Biochemistry, Babol University of Medical Sciences, 
+Babol, Iran.
+(458)Department of Clinical Biochemistry, Tarbiat Modares University, Tehran, 
+Iran.
+(459)Department of Epidemiology and Biostatistics, Wuhan University, Wuhan, 
+China.
+(460)College of Medicine and Public Health, Flinders University, Adeaide, South 
+Australia, Australia.
+(461)Research and Analytics Department, Initiative for Financing Health and 
+Human Development, Chennai, India.
+(462)Department of Research and Analytics, Bioinsilico Technologies, Chennai, 
+India.
+(463)Department of Nephrology, Manipal Academy of Higher Education, Manipal, 
+India.
+(464)Department of Education for Clinical Research, National Center for Child 
+Health and Development, Tokyo, Japan.
+(465)Laboratory of Public Health Indicators Analysis and Health Digitalization, 
+Moscow Institute of Physics and Technology, Dolgoprudny, Russia.
+(466)Experimental Surgery and Oncology Laboratory, Kursk State Medical 
+University, Kursk, Russia.
+(467)Suraj Eye Institute, Nagpur, India.
+(468)Department of Pharmacy Practice, Imam Abdulrahman Bin Faisal University, 
+Dammam, Saudi Arabia.
+(469)Discipline of Social and Administrative Pharmacy, University of Science, 
+Malaysia, Penang, Malaysia.
+(470)Mysore Medical College and Research Institute, Government Medical College, 
+Mysore, India.
+(471)Department of Disease Control and Environmental Health, Makerere 
+University, Kampala, Uganda.
+(472)Pharmaceutical Outcomes and Policy Department, University of Florida, 
+Gainesville.
+(473)Department of General Surgery, Carol Davila University of Medicine and 
+Pharmacy, Bucharest, Romania.
+(474)Department of General Surgery, Emergency Hospital of Bucharest, Bucharest, 
+Romania.
+(475)Department of Oncology, Victor Babes University of Medicine and Pharmacy, 
+Timisoara, Romania.
+(476)Estia Health Blakehurst, Estia Health, Sydney, New South Wales, Australia.
+(477)Institute for Global Health Innovations, Duy Tan University, Hanoi, 
+Vietnam.
+(478)International Islamic University Islamabad, Islamabad, Pakistan.
+(479)South African Medical Research Council, Cape Town, South Africa.
+(480)School of Public Health and Family Medicine, University of Cape Town, Cape 
+Town, South Africa.
+(481)Medical Research Council Clinical Trials Unit, University College London, 
+London, England.
+(482)Department of Gastroenterology, Cambridge University Hospitals, Cambridge, 
+England.
+(483)Unit of Microbiology and Public Health, Institute of Medical Sciences, Las 
+Tablas, Panama.
+(484)Department of Public Health, Ministry of Health, Herrera, Panama.
+(485)Center of Excellence in Reproductive Health Innovation, University of 
+Benin, Benin City, Nigeria.
+(486)Administrative and Economic Sciences Department, University of Bucharest, 
+Bucharest, Romania.
+(487)Department of International Cyber Education, Mongolian National University 
+of Medical Sciences, Ulaanbaatar, Mongolia.
+(488)Advisory Board, Ministry of Health, Ulaanbaatar, Mongolia.
+(489)Department of Community Health and Primary Care, University of Lagos, Idi 
+Araba, Nigeria.
+(490)Department of Family and Preventive Medicine, University of Utah, Salt Lake 
+City.
+(491)Translational Health Research Institute, Western Sydney University, Sydney, 
+New South Wales, Australia.
+(492)Department of Psychiatry and Behavioural Neurosciences, McMaster 
+University, Hamilton, Ontario, Canada.
+(493)Department of Psychiatry, University of Lagos, Lagos, Nigeria.
+(494)Community Prevention and Care Services, National AIDS Control Committee, 
+Abuja, Nigeria.
+(495)Mass Communication Department, Ajman University, Dubai, United Arab 
+Emirates.
+(496)Diplomacy and Public Relations Department, University of Human Development, 
+Sulaymaniyah, Iraq.
+(497)Department of Anatomic Pathology, Ekiti State University, Ado-Ekiti, 
+Nigeria.
+(498)Department of Anatomic Pathology, Ekiti State University Teaching Hospital, 
+Ado-Ekiti, Nigeria.
+(499)Noncommunicable Disease Prevention Unit, Ministry of Health, Bandar Seri 
+Begawan, Brunei.
+(500)Early Detection and Cancer Prevention Services, Pantai Jerudong Specialist 
+Centre, Bandar Seri Begawan, Brunei.
+(501)Department of Pharmacology and Therapeutics, University of Nigeria Nsukka, 
+Enugu, Nigeria.
+(502)Section of Sustainable Health, Umeå University, Umea, Sweden.
+(503)Health Systems Research Center, National Institute of Public Health, 
+Cuernavaca, Mexico.
+(504)Department of Project Management, National Research University Higher 
+School of Economics, Moscow, Russia.
+(505)Department of Medicine, University of Ibadan, Ibadan, Nigeria.
+(506)Department of Medicine, University College Hospital, Ibadan, Ibadan, 
+Nigeria.
+(507)Department of Respiratory Medicine, Jagadguru Sri Shivarathreeswara Academy 
+of Health Education and Research, Mysore, India.
+(508)Department of Medical Mycology and Parasitology, Shiraz University of 
+Medical Sciences, Shiraz, Iran.
+(509)Department of Health Metrics, Center for Health Outcomes and Evaluation, 
+Bucharest, Romania.
+(510)Department of Nutrition and Dietetics, Harokopio University, Athens, 
+Greece.
+(511)Vision and Eye Research Institute, Anglia Ruskin University, Cambridge, 
+England.
+(512)Institute of Health Services Research, Yonsei University, Seoul, South 
+Korea.
+(513)Department of Medical Humanities and Social Medicine, Kosin University, 
+Busan, South Korea.
+(514)Iran University of Medical Sciences, Tehran, Iran.
+(515)Department of Internal Medicine, Ochsner Medical Center, New Orleans, 
+Louisiana.
+(516)Department of Epidemiology, Human Genetics and Environmental Sciences, The 
+University of Texas Health Science Center at Houston School of Public Health, 
+Dallas.
+(517)Department of Epidemiology, University of Arkansas for Medical Sciences, 
+Little Rock.
+(518)Centre of Excellence, Khallikote University, Berhampur, India.
+(519)Research Division, Association for Biodiversity Conservation and Research, 
+Balasore, India.
+(520)Department of Health Policy, Manipal Academy of Higher Education, Manipal, 
+India.
+(521)Research Section, Nepal Health Research Council, Kathmandu, Nepal.
+(522)Faculty of Humanities and Social Sciences, Tribhuvan University, Kathmandu, 
+Nepal.
+(523)Associated Laboratory for Green Chemistry, University of Porto, Porto, 
+Portugal.
+(524)Department of Chemistry, University of Porto, Porto, Portugal.
+(525)Department of Development Studies, International Institute for Population 
+Sciences, Mumbai, India.
+(526)Basic Medical Sciences Department, Durban University of Technology, Durban, 
+South Africa.
+(527)Department of Biochemistry and Dietetics, Tabriz University of Medical 
+Sciences, Tabriz, Iran.
+(528)Urooncology Research Center, Tehran University of Medical Sciences, Tehran, 
+Iran.
+(529)Department of Dermatology, College of Medicine and Sagore Dutta Hospital, 
+Kolkata, India.
+(530)University Medical Center Groningen, University of Groningen, Groningen, 
+Netherlands.
+(531)School of Economics and Business, University of Groningen, Groningen, 
+Netherlands.
+(532)Department of Nutrition and Food Sciences, Maragheh University of Medical 
+Sciences, Maragheh, Iran.
+(533)Dietary Supplements and Probiotic Research Center, Alborz University of 
+Medical Sciences, Karaj, Iran.
+(534)Department of Biochemistry, Jagadguru Sri Shivarathreeswara University, 
+Mysuru, India.
+(535)National Institute of Infectious Diseases, Bucuresti, Romania.
+(536)Department of Infectious Diseases, Carol Davila University of Medicine and 
+Pharmacy, Bucharest, Romania.
+(537)Biomedical Engineering Department, Amirkabir University of Technology, 
+Tehran, Iran.
+(538)Department of Physics, Sharif University of Technology, Tehran, Iran.
+(539)College of Medicine, University of Central Florida, Orlando.
+(540)Manipal College of Dental Sciences, Manipal Academy of Higher Education, 
+Manipal, India.
+(541)Department of Medical Oncology, Cancer Institute, Chennai, India.
+(542)Department of Medicine, University of Alberta, Edmonton, Alberta, Canada.
+(543)Metabolomics and Genomics Research Center, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(544)Department of Natural Science, Middlesex University, London, England.
+(545)Department of Population Science and Human Resource Development, University 
+of Rajshahi, Rajshahi, Bangladesh.
+(546)School of Nursing and Healthcare Professions, Federation University 
+Australia, Berwick, Victoria, Australia.
+(547)School of Nursing and Midwifery, La Trobe University, Melbourne, Victoria, 
+Australia.
+(548)Future Technology Research Center, National Yunlin University of Science 
+and Technology, Yunlin, Taiwan.
+(549)Department of Internal Medicine, Harvard University, Boston, Massachusetts.
+(550)Department of Surgery, University of Texas Health Science Center at San 
+Antonio, San Antonio.
+(551)European Office for the Prevention and Control of Noncommunicable Diseases, 
+World Health Organization, Moscow, Russia.
+(552)Department of Cardiology, Emory University, Atlanta, Georgia.
+(553)Health Emergency Operation Center, Ministry of Health and Population, 
+Kathmandu, Nepal.
+(554)Central Department of Public Health, Institute of Medicine, Kathmandu, 
+Nepal.
+(555)Department of Pharmacology, University of Colombo, Colombo, Sri Lanka.
+(556)Department of Community Medicine, Manipal Academy of Higher Education, 
+Manipal, India.
+(557)Department of Oral Pathology, Srinivas Institute of Dental Sciences, 
+Mangalore, India.
+(558)Department of Computer Science, Boston University, Boston, Massachusetts.
+(559)Department of Immunology and Laboratory Sciences, Sirjan School of Medical 
+Sciences, Sirjan, Iran.
+(560)Department of Immunology, Kerman University of Medical Sciences, Kerman, 
+Iran.
+(561)School of Medicine, Western Sydney University, Campbelltown, New South 
+Wales, Australia.
+(562)Translational Health Research Institute, Western Sydney University, 
+Campbelltown, New South Wales, Australia.
+(563)Endocrinology and Metabolism Research Center, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(564)Network of Immunity in Infection, Malignancy and Autoimmunity, Universal 
+Scientific Education and Research Network, Tehran, Iran.
+(565)Dana-Farber Cancer Institute, Boston, Massachusetts.
+(566)Deparment of Pharmacology and Toxicology, University of Antioquia, 
+Medellin, Colombia.
+(567)Department of Global Health and Population, Harvard University, Boston, 
+Massachusetts.
+(568)Center for Indigenous Health Research, Wuqu' Kawoq Maya Health Alliance, 
+Tecpan, Guatemala.
+(569)Maurizio Bufalini Hospital, Cesena, Italy.
+(570)Golestan Research Center of Gastroenterology and Hepatology, Golestan 
+University of Medical Sciences, Gorgan, Iran.
+(571)Department of Internal Medicine, University of Botswana, Gaborone, 
+Botswana.
+(572)Oral and Maxillofacial Surgery, Jagadguru Sri Shivarathreeswara University, 
+Mysore, India.
+(573)Sharjah Institute for Medical Research, University of Sharjah, Sharjah, 
+United Arab Emirates.
+(574)Research and Development, Islamabad Diagnostic Center Pakistan, Islamabad, 
+Pakistan.
+(575)Biological Production Development, National Institute of Health, Islamabad, 
+Pakistan.
+(576)Applied Biomedical Research Center, Mashhad University of Medical Sciences, 
+Mashhad, Iran.
+(577)Biotechnology Research Center, Mashhad University of Medical Sciences, 
+Mashhad, Iran.
+(578)Department of Radiology, University of Southern California, Los Angeles.
+(579)Public Health and Community Medicine Department, Cairo University, Giza, 
+Egypt.
+(580)Digestive Diseases Research Institute, Tehran University of Medical 
+Sciences, Tehran, Iran.
+(581)Emergency Department, Brown University, Providence, Rhode Island.
+(582)Department of Entomology, Ain Shams University, Cairo, Egypt.
+(583)Department of Surgery, Marshall University, Huntington, West Virginia.
+(584)Department of Nutrition and Preventive Medicine, Case Western Reserve 
+University, Cleveland, Ohio.
+(585)Department of Pediatrics, University Hospitals Rainbow Babies & Children's 
+Hospital, Cleveland, Ohio.
+(586)Department of Pediatrics, Case Western Reserve University, Cleveland, Ohio.
+(587)School of Public Health and Health Management, University of Belgrade, 
+Belgrade, Serbia.
+(588)Division of Plastic and Reconstructive Surgery, McMaster University, 
+Hamilton, Ontario, Canada.
+(589)Colorectal Research Center, Iran University of Medical Sciences, Tehran, 
+Iran.
+(590)Faculty of Health & Social Sciences, Bournemouth University, Bournemouth, 
+England.
+(591)Department of Public Health Sciences, University of North Carolina at 
+Charlotte, Charlotte.
+(592)Market Access, Bayer, Istanbul, Turkey.
+(593)Department of Health Sciences, Federal University of Santa Catarina, 
+Araranguá, Brazil.
+(594)Department of Medical Statistics, Epidemiology and Medical Informatics, 
+University of Zagreb, Zagreb, Croatia.
+(595)Department of Epidemiology and Prevention of Chronic Noncommunicable 
+Diseases, Croatian Institute of Public Health, Zagreb, Croatia.
+(596)National Heart, Lung, and Blood Institute, National Institutes of Health, 
+Rockville, Maryland.
+(597)Department of Radiology and Interventional Neuroradiology, Isfahan 
+University of Medical Sciences, Isfahan, Iran.
+(598)Clinical Research Development Unit of Farshchian Heart Center, Hamedan 
+University of Medical Sciences, Hamadan, Iran.
+(599)Independent Consultant, Karachi, Pakistan.
+(600)Department of Oral Health, Non-Communicable Diseases Research Center, 
+Tehran, Iran.
+(601)Noncommunicable Diseases Committee, National Institute for Medical Research 
+Developmen, Tehran, Iran.
+(602)Symbiosis Medical College for Women, Symbiosis International University, 
+Pune, India.
+(603)University School of Management and Entrepreneurship, Delhi Technological 
+University, Delhi, India.
+(604)Centre for Medical Informatics, University of Edinburgh, Edinburgh, 
+Scotland.
+(605)Division of General Internal Medicine, Harvard University, Boston, 
+Massachusetts.
+(606)Department of Obstetrics and Gynaecology, Manipal Academy of Higher 
+Education, Mangalore, India.
+(607)Department of Biochemistry, Manipal University College Melaka, Melaka, 
+Malaysia.
+(608)Department of Forensic Medicine, Manipal Academy of Higher Education, 
+Mangalore, India.
+(609)University of Tokyo, Tokyo, Japan.
+(610)Cancer Research Center, Tehran University of Medical Sciences, Tehran, 
+Iran.
+(611)Cancer Biology Research Center, Tehran University of Medical Sciences, 
+Tehran, Iran.
+(612)Public Health Dentistry Department, Krishna Institute of Medical Sciences, 
+Karad, India.
+(613)Clinical Immunology and Hematology, Sofiamed University Hospital, Sofia, 
+Bulgaria.
+(614)Department of Genetics, Sofia University St. Kliment Ohridiski, Sofia, 
+Bulgaria.
+(615)Department of Health Education and Health Promotion, Kermanshah University 
+of Medical Sciences, Kermanshah, Iran.
+(616)School of Health, University of Technology Sydney, Sydney, New South Wales, 
+Australia.
+(617)Department of Hematology-Oncology, Baystate Medical Center, Springfield, 
+Massachusetts.
+(618)Department of Physical Education, Federal University of Santa Catarina, 
+Florianópolis, Brazil.
+(619)School of Medicine, University of Alabama at Birmingham, Birmingham.
+(620)Medicine Service Department of Veterans Affairs, Birmingham, Alabama.
+(621)Department of Midwifery, Haramaya University, Harar, Ethiopia.
+(622)Department No. 16, Moscow Research and Practical Centre on Addictions, 
+Moscow, Russia.
+(623)Therapeutic Department, Balashiha Central Hospital, Balashikha, Russia.
+(624)Asbestos Diseases Research Institute, Sydney, New South Wales, Australia.
+(625)Cochrane Iran Associate Centre, National Institute for Medical Research 
+Development, Iranian Ministry of Health and Medical Education, Tehran, Iran.
+(626)Department of Radiology, University of Alabama at Birmingham, Birmingham.
+(627)Department of Medicine, Democritus University of Thrace, Alexandroupolis, 
+Greece.
+(628)Schiller Institute, Boston College, Boston, Massachusetts.
+(629)Barcelona Institute for Global Health, Barcelona, Spain.
+(630)Nepal Health Research Council, Kathmandu, Nepal.
+(631)Department of Community Medicine, Ahmadu Bello University, Zaria, Nigeria.
+(632)Pediatric Services, King Hussein Cancer Center, Amman, Jordan.
+(633)Pediatrics, University of Jordan, Amman, Jordan.
+(634)Maternal and Child Health, Projahnmo Research Foundation, Dhaka, 
+Bangladesh.
+(635)Department of Medical Oncology, The Oncology Institute "Prof Dr Ion 
+Chiricuţă" Cluj-Napoca, Cluj-Napoca, Romania.
+(636)Department of Medical Oncology, Iuliu Hatieganu University of Medicine and 
+Pharmacy, Cluj-Napoca, Romania.
+(637)Faculty of Health and Public Administration, Semmelweis University, 
+Budapest, Hungary.
+(638)Department of Medicine, University of Valencia, Valencia, Spain.
+(639)Carlos III Health Institute, Biomedical Research Networking Center for 
+Mental Health Network, Madrid, Spain.
+(640)Cancer Control Center, Osaka International Cancer Institute, Osaka, Japan.
+(641)Johns Hopkins University, Baltimore, Maryland.
+(642)Research Center for Molecular Medicine, Hamadan University of Medical 
+Sciences, Hamadan, Iran.
+(643)Pathology Department, Alexandria University, Alexandria, Egypt.
+(644)Department of Surgery, National University of Singapore, Singapore, 
+Singapore.
+(645)Department of Pathology, University of Texas, Galveston.
+(646)College of Public Health, Medical and Veterinary Sciences, James Cook 
+University, Cairns, Queensland, Australia.
+(647)University of Gondar, Gondar, Ethiopia.
+(648)Department of Clinical Pharmacy, University of Gondar, Gondar, Ethiopia.
+(649)Department of Community and Family Medicine, Iran University of Medical 
+Sciences, Tehran, Iran.
+(650)Pediatric Intensive Care Unit, King Saud University, Riyadh, Saudi Arabia.
+(651)School of Public Health, Mekelle University, Mekelle, Ethiopia.
+(652)Southgate Institute for Health and Society, Flinders University, Adelaide, 
+South Australia, Australia.
+(653)School of Public Health, University of Adelaide, Adelaide, South Australia, 
+Australia.
+(654)Division of Pediatric Gastroenterology, Case Western Reserve University, 
+Cleveland, Ohio.
+(655)Department of Gastroenterology and Hepatology, Mayo Clinic, Scottsdale, 
+Arizona.
+(656)Department of Endocrinology, Diabetes and Metabolism, Christian Medical 
+College and Hospital, Vellore, India.
+(657)HIV/STI Surveillance Research Center and World Health Organization 
+Collaborating Center for HIV Surveillance, Kerman University of Medical 
+Sciences, Kerman, Iran.
+(658)Nutritional Epidemiology Research Team, National Institute for Health and 
+Medical Research Institut national de la santé et de la recherche médicale, 
+Paris, France.
+(659)Department of Health, Medicine and Human Biology, Sorbonne Paris Nord 
+University, Bobigny, France.
+(660)Department of Pathology and Legal Medicine, University of São Paulo, 
+Ribeirão Preto, Brazil.
+(661)Modestum LTD, London, England.
+(662)Institute for Risk Assessment Sciences, Utrecht University, Utrecht, 
+Netherlands.
+(663)Department of Health Economics, Hanoi Medical University, Hanoi, Vietnam.
+(664)Department of Molecular Medicine and Pathology, University of Auckland, 
+Auckland, New Zealand.
+(665)Clinical Hematology and Toxicology, Maurice Wilkins Centre, Auckland, New 
+Zealand.
+(666)School of Public Health and Social Work, Queensland University of 
+Technology, Brisbane, Queensland, Australia.
+(667)Health Informatics Department, Nursing and Midwifery Faculty, Hanoi Medical 
+University, Ha Noi, Vietnam.
+(668)Department of Community Medicine, All India Institute of Medical Sciences, 
+Nagpur, India.
+(669)Department of Epidemiology and Biostatistics, Haramaya University, 
+Haramaya, Ethiopia.
+(670)Department of Allied Health Sciences, Iqra National University, Peshawar, 
+Pakistan.
+(671)Pakistan Council for Science and Technology, Ministry of Science and 
+Technology, Islamabad, Pakistan.
+(672)Department of Pediatric Cardiology, Rush University, Chicago, Illinois.
+(673)Kasturba Medical College, Manipal Academy of Higher Education, Mangalore, 
+India.
+(674)Amity Institute of Biotechnology, Amity University Rajasthan, Jaipur, 
+India.
+(675)Alzahra Teaching Hospital, Tabriz University of Medical Sciences, Tabriz, 
+Iran.
+(676)Women's Reproductive Health Research Center, Tabriz University of Medical 
+Sciences, Tabriz, Iran.
+(677)Clinical Cancer Research Center, Milad General Hospital, Tehran, Iran.
+(678)Department of Microbiology, Islamic Azad University, Tehran, Iran.
+(679)Department of Medical and Surgical Sciences and Advanced Technologies, 
+University of Catania, Catania, Italy.
+(680)Department of Medical and Surgical Sciences, University of Bologna, 
+Bologna, Italy.
+(681)Occupational Health Unit, Sant'Orsola Malpighi Hospital, Bologna, Italy.
+(682)Department of Health Care Administration and Economics, National Research 
+University Higher School of Economics, Moscow, Russia.
+(683)Faculty of Information Technology, Ho Chi Minh City University of 
+Technology, Ho Chi Minh City, Vietnam.
+(684)Department of Neurosurgery, Erasmus University Medical Center, Rotterdam, 
+Netherlands.
+(685)Center for Experimental Microsurgery, Iuliu Hațieganu University of 
+Medicine and Pharmacy, Cluj-Napoca, Romania.
+(686)Cultures, Societies and Global Studies, Integrated Initiative for Global 
+Health, Northeastern University, Boston, Massachusetts.
+(687)School of Public Health, University of Nairobi, Nairobi, Kenya.
+(688)College of Medicine and Public Health, Flinders University, Adelaide, South 
+Australia, Australia.
+(689)Key Laboratory of Shaanxi Province for Craniofacial Precision Medicine 
+Research, Stomatological Hospital (College) of Xi'an Jiaotong University, Xi'an, 
+China.
+(690)Competence Center of Mortality-Follow-Up of the German National Cohort, 
+Federal Institute for Population Research, Wiesbaden, Germany.
+(691)Institute of Health and Society, University of Oslo, Oslo, Norway.
+(692)Department of Neurology, Technical University of Munich, Munich, Germany.
+(693)Adelaide Medical School, University of Adelaide, Adelaide, South Australia, 
+Australia.
+(694)Research and Development Division, The George Institute for Global Health, 
+New Delhi, India.
+(695)Cancer Epidemiology and Prevention Research, Alberta Health Services, 
+Calgary, British Columbia, Canada.
+(696)Department of Oncology, University of Calgary, Calgary, Alberta, Canada.
+(697)School of International Development and Global Studies, University of 
+Ottawa, Ottawa, Ontario, Canada.
+(698)George Institute for Global Health, University of Oxford, Oxford, England.
+(699)Department of Pharmacy, Debre Tabor University, Debre Tabor, Ethiopia.
+(700)Department of Epidemiology and Biostatistics, University of Gondar, Gondar, 
+Ethiopia.
+(701)Department of Neuropsychopharmacology, National Center of Neurology and 
+Psychiatry, Kodaira, Japan.
+(702)Department of Public Health, Juntendo University, Tokyo, Japan.
+(703)Department of Health Policy and Management, Jackson State University, 
+Jackson, Mississippi.
+(704)School of Medicine, Tsinghua University, Beijing, China.
+(705)Department of Environmental Health, Mazandaran University of Medical 
+Sciences, Sari, Iran.
+(706)Cancer Institute, Hacettepe University, Ankara, Turkey.
+(707)Department of Clinical Pharmacy and Outcomes Sciences, University of South 
+Carolina, Columbia.
+(708)Epidemiology and Cancer Registry Sector, Institute of Oncology Ljubljana, 
+Ljubljana, Slovenia.
+(709)Shahroud University of Medical Sciences, Shahroud, Iran.
+(710)Laboratory of Genetics and Genomics, Moscow Research and Practical Centre 
+on Addictions, Moscow, Russia.
+(711)Addictology Department, Russian Medical Academy of Continuous Professional 
+Education, Moscow, Russia.
+(712)Pediatrics Department, Russian Medical Academy of Continuous Professional 
+Education, Moscow, Russia.
+(713)Department of General Practice, University of Melbourne, Melbourne, 
+Victoria, Australia.
+(714)Victorian Comprehensive Cancer Centre, Melbourne, Victoria, Australia.
+(715)Bone Marrow Transplantation Center, Zhejiang University, Hangzhou, China.
+(716)Department of Epidemiology, Human Genetics, and Environmental Sciences, 
+University of Texas Health Science Center at Houston, Houston.
+(717)Departamento de Saúde Coletiva, Brasília University, Brasilia, Brazil.
+(718)Division of Hematology, University of Washington, Seattle.
+(719)Division of Pediatric Hematology-Oncology, University of Washington, 
+Seattle.
+
+IMPORTANCE: The Global Burden of Diseases, Injuries, and Risk Factors Study 2019 
+(GBD 2019) provided systematic estimates of incidence, morbidity, and mortality 
+to inform local and international efforts toward reducing cancer burden.
+OBJECTIVE: To estimate cancer burden and trends globally for 204 countries and 
+territories and by Sociodemographic Index (SDI) quintiles from 2010 to 2019.
+EVIDENCE REVIEW: The GBD 2019 estimation methods were used to describe cancer 
+incidence, mortality, years lived with disability, years of life lost, and 
+disability-adjusted life years (DALYs) in 2019 and over the past decade. 
+Estimates are also provided by quintiles of the SDI, a composite measure of 
+educational attainment, income per capita, and total fertility rate for those 
+younger than 25 years. Estimates include 95% uncertainty intervals (UIs).
+FINDINGS: In 2019, there were an estimated 23.6 million (95% UI, 22.2-24.9 
+million) new cancer cases (17.2 million when excluding nonmelanoma skin cancer) 
+and 10.0 million (95% UI, 9.36-10.6 million) cancer deaths globally, with an 
+estimated 250 million (235-264 million) DALYs due to cancer. Since 2010, these 
+represented a 26.3% (95% UI, 20.3%-32.3%) increase in new cases, a 20.9% (95% 
+UI, 14.2%-27.6%) increase in deaths, and a 16.0% (95% UI, 9.3%-22.8%) increase 
+in DALYs. Among 22 groups of diseases and injuries in the GBD 2019 study, cancer 
+was second only to cardiovascular diseases for the number of deaths, years of 
+life lost, and DALYs globally in 2019. Cancer burden differed across SDI 
+quintiles. The proportion of years lived with disability that contributed to 
+DALYs increased with SDI, ranging from 1.4% (1.1%-1.8%) in the low SDI quintile 
+to 5.7% (4.2%-7.1%) in the high SDI quintile. While the high SDI quintile had 
+the highest number of new cases in 2019, the middle SDI quintile had the highest 
+number of cancer deaths and DALYs. From 2010 to 2019, the largest percentage 
+increase in the numbers of cases and deaths occurred in the low and low-middle 
+SDI quintiles.
+CONCLUSIONS AND RELEVANCE: The results of this systematic analysis suggest that 
+the global burden of cancer is substantial and growing, with burden differing by 
+SDI. These results provide comprehensive and comparable estimates that can 
+potentially inform efforts toward equitable cancer control around the world.
+
+DOI: 10.1001/jamaoncol.2021.6987
+PMCID: PMC8719276
+PMID: 34967848 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Kocarnik 
+reported grants from the Bill and Melinda Gates Foundation and American Lebanese 
+Syrian Associated Charities as well as nonfinancial support from the Institute 
+for Health Metrics and Evaluation during the conduct of the study. Drs Lu, Xu, 
+Bisignano, Compton, Dean, Fu, Mohammed, and Henrikson reported grants from the 
+Bill and Melinda Gates Foundation during the conduct of the study. Dr Ancuceanu 
+reported personal fees and nonfinancial support from AbbVie; personal fees from 
+Sandoz and B. Braun; and consulting/speaking fees from UCB, Sandoz, AbbVie, 
+Zentiva, Teva, Laropharm, CEGEDIM, Angelini, B. Braun, Biessen Pharma, Hofigal, 
+AstraZeneca, and Stada. Dr Atorkey received research support from Hunter Medical 
+Research Research Institute. Dr Bhaskar reported grants from the NSW Ministry of 
+Health NSW Brain Clot Bank outside the submitted work and serving on the board 
+of directors for the Rotary Club of Sydney and International Rotary Fellowship 
+of Healthcare Professionals. Dr Conde reported being a cofounder of and 
+shareholder in TargTex S.A. Dr Dai reported grants from the Bill & Melinda Gates 
+Foundation and Bloomberg Philanthropies. Dr Filip reported financial support 
+from Avicenna Medical and Clinical Research Institute. Dr Ghith reported grants 
+from NovoNordisk Foundation outside the submitted work. Dr Haro reported 
+research support from Eli Lilly and Co. Dr J. Islam reported grants from the 
+American Society of Clinical Oncology outside the submitted work. Dr S. Islam 
+reported grants from NHMRC Emerging Leadership Fellowship and the National Heart 
+Foundation of Australia Fellowship and Vanguard Grant outside the submitted 
+work. Dr Ismail reported being a council member of the Malaysian Academy of 
+Pharmacy. Dr Katikireddi reported grants from the Medical Research Council and 
+the Scottish government Chief Scientist Office during the conduct of the study 
+as well as being a member of the steering group for Obesity Action Scotland. Dr 
+Kauppila reported grants from the Finnish Cancer Foundation, Sigrid Juselius 
+Foundation, and Päivikki and Sakari Sohlberg Foundation outside the submitted 
+work. Dr Loureiro reported grants from FCT Scientific and Norte Portugal 
+Regional Operational Programme through the European Regional Development Fund 
+outside the submitted work. Dr Moni reported grants from the University of 
+Queensland during the conduct of the study. Dr Radfar reported financial support 
+from Avicenna Medical and the Clinical Research Institute. Dr Rakovac reported 
+grants from the World Health Organization during the conduct of the study. Dr 
+Saylan reported being an employee of Bayer. Dr Sekerija reported personal fees 
+from Roche and Johnson & Johnson outside the submitted work. Dr Sheikh reported 
+grants from Health Data Research UK outside the submitted work. Dr Singh 
+reported consulting fees from Crealta/Horizon, Navigant, Spherix, MedIQ, Jupiter 
+Life Science, UBM LLC, Trio Health, Medscape, WebMD, Practice Point, National 
+Institutes of Health, American College of Rheumatology, Medisys, Fidia, PK Med, 
+Adept Field Solutions, Two Labs Inc, Clinical Care Options, Clearview Healthcare 
+Partners, Putnam Associates, and Focus Forward; stock options in TPT Global 
+Tech, Vaxart, Atyu, Adaptimmune Therapeutics, GeoVax Labs, Pieris 
+Pharmaceuticals, and Charlotte’s Web Holdings, Inc; nonfinancial support from 
+Outcomes Measures in Rheumatology; service on the US Food and Drug 
+Administration arthritis advisory committee, American College of Rheumatology's 
+annual meeting planning committee and quality of care committees and as chair of 
+the Veterans Affairs Rheumatology Field Advisory Committee and American College 
+of Rheumatology Meet-the-Professor, Workshop and Study Group subcommittee and 
+Criteria and Response Criteria subcommittee (cochair); and being the editor and 
+director of the University of Alabama at Birmingham Cochrane Musculoskeletal 
+Group Satellite Center on Network Meta-analysis. Dr Zhu reported grants from the 
+UTHealth Innovation for Cancer Prevention Research Training Program Predoctoral 
+Fellowship. Dr Force reported grants from the Bill and Melinda Gates Foundation 
+and St. Baldrick’s Foundation, financial support from the National Institutes of 
+Health Loan Repayment Award, and research support from the American Lebanese 
+Syrian Associated Charities. Dr Aujayeb reports grants, honoraria, and personal 
+fees from Rocket Medical PLC outside the submitted work. Dr Ausloos reports 
+grants from the Romanian National Authority for Scientific Research and 
+Innovation outside the submitted work. Dr Bärnighausen reports grants from the 
+European Union, German Research Foundation, National Institutes of Health, 
+German Ministry of Education and Research, Alexander von Humboldt Foundation, 
+Else-Kröner-Fresenius-Foundation, Wellcome Trust, Bill and Melinda Gates 
+Foundation, KfW, UNAIDS, and World Health Organization; consulting fees from 
+KfW; board participation in the National Institutes of Health’s Healthy Options 
+study, German National Committee, EDCTP Evaluation, Global Health Hub Germany, 
+and University of Pennsylvania Population Aging Research Center; and service as 
+a member of the UNAIDS Evaluation Expert Advisory Committee, National Institutes 
+of Health Study Section on Population and Public Health Approaches to HIV/AIDS, 
+and the US National Academies of Sciences, Engineering, and Medicine Committee 
+for the Evaluation of Human Resources for Health in the Republic of Rwanda under 
+the President’s Emergency Plan for AIDS Relief outside the submitted work. Dr 
+Bhagat reports personal fees from Elsevier and Springer outside the submitted 
+work. Dr Bleyer reports royalties or licenses from Springer Publishing, Germany; 
+consulting fees from Slack Publishing, and expert testimony with Bradley Drendel 
+& Jeanney outside the submitted work. Dr Braithwaite reports research support 
+from the National Institutes of Health/National Cancer Institute. Dr 
+Catalá-López reports board service with the International Agency for Research on 
+Cancer outside the submitted work. Dr Chaturvedi reports grants from the 
+National Institutes of Health and government of India outside the submitted 
+work. Dr Cortés reports research support from the Advanced Center for Chronic 
+Diseases and Centro de Desarrollo Urbano Sustentable (Agencia Nacional de 
+Investigación y Desarrollo Chile. Dr Driscoll reports expert testimony in 2019 
+and board membership with the Expert Advisory Group of the Australian 
+Mesothelioma Registry outside the submitted work. Dr El-Jaafary reports service 
+on the steering committee of the Movement Disorder Society Young Members group. 
+Dr Grosso reports research support from the University of Catania Osservatorio 
+Epidemiologico Regionale and University of Catania and grants from the Italian 
+Ministry of Health outside the submitted work. Dr Guha reports grants from the 
+the American Heart Association. Dr Gunasekera reports service as an assistant 
+secretary for Sri Lanka College of Oncology outside the submitted work. Dr Gupta 
+reports grants from the National Health and Medical Research Council, Australia 
+outside the submitted work. Dr Haider reports research support from Ohio 
+University and board service for the American Public Health Association outside 
+the submitted work. Dr Herteliu reports grants from the Romanian National 
+Authority for Scientific Research and Innovation and Ministry of Labour and 
+Social Justice, Romania outside the submitted work. Dr Hugo reports research 
+support from CAPES Higher Education Improvement Coordination Brazil. Dr Kahrizi 
+reports research support, grants, royalties/licenses, consulting fees, 
+honoraria, expert testimony, patents (planned, issued, or pending), board 
+service, and stock and stock options from Razi University outside the submitted 
+work. Dr G. Khan reports membership with the UAE Ministry of Health National 
+Immunization Task Advisory Group. Dr Koul reports research support from Sheri 
+Kashmir Institute of Medical Sciences. Dr La Vecchia reports grants or contracts 
+from Associazione Italiana per la Ricerca sul Cancro outside the submitted work. 
+Dr Miller reports grants from AB InBev Foundation outside the submitted work. Dr 
+Odukoya reports grants from the National Institutes of Health. Dr Pana reports 
+grants from the Romanian National Authority for Scientific Research and 
+Innovation outside the submitted word. Dr Panagiotakos reports research support 
+from the Hellenic Cardiology Society and Hellenic Atherosclerosis Society. Dr 
+Sanabria reports research support from the Bill and Melinda Gates Foundation, 
+patents with their institution and board service for the Department and Surgical 
+Services Lines outside the submitted work. Dr Silva reports research support 
+from Coordenação de Aperfeiçoamento de Pessoal de Nível Superior–Brasil and 
+CNPq. Dr Straif reports board service with the Collegium Ramazzini and ISEE 
+Europe Chapter as an elected member and nonfinancial support from the 
+International Agency for Research on Cancer outside the submitted work. Dr 
+Volovici reports personal fees from JAMA Network Open. Dr Yazie reports research 
+support from the Bill and Melinda Gates Foundation, American Lebanese Syrian 
+Associated Charities, and St. Baldrick’s Foundation. Dr Younis reports research 
+support from Jackson State University. No other disclosures were reported.
+
+
+7. Acta Orthop Traumatol Turc. 2021 Dec;55(6):527-534. doi: 
+10.5152/j.aott.2021.21239.
+
+Critical points and effectiveness of prophylactic C4/5 foraminotomy to prevent 
+C5 palsy after posterior cervical spine surgery.
+
+Takeuchi K(1), Yokoyama T(2), Wada K(3), Kumagai G(3), Sasaki E(3), Ishibashi 
+Y(3).
+
+Author information:
+(1)Department of Orthopedic Surgery, Hirosaki University School of Medicine, 5 
+Zaifu-cho, Hirosaki, Aomori, Japan;Department of Orthopedic Surgery, Odate 
+Municipal General Hospital, 3-1 Yutaka-cho, Odate, Akita, Japan.
+(2)Department of Orthopedic Surgery, Odate Municipal General Hospital, 3-1 
+Yutaka-cho, Odate, Akita, Japan.
+(3)Department of Orthopedic Surgery, Hirosaki University School of Medicine, 5 
+Zaifu-cho, Hirosaki, Aomori, Japan.
+
+OBJECTIVE: The aim of this study was to clarify the cut-off values of the spinal 
+canal parameters as risk factors for C5 palsy after posterior cervical spine 
+surgery with and without foraminotomy.
+METHODS: One hundred three consecutive patients (67 males, 36 females; mean age 
+= 66 years, age range = 27-87 years) with cervical myelopathy who underwent 
+posterior cervical spine surgery at our institution were retrospectively 
+reviewed and included in the study. The first consecutive 69 patients who 
+underwent posterior cervical spine surgery with prophylactic bilateral C4/5 
+foraminotomy were designated as the F (+) group. The subsequent 34 consecutive 
+patients who underwent posterior cervical spine surgery without prophylactic 
+bilateral C4/5 foraminotomy were designated as the F (-) group. All patients 
+were then divided into four subgroups. In the F (+) group, patients with C5 
+palsy were designated as the F (+) P (+) subgroup (n = 13), while those without 
+C5 palsy were designated as the F (+) P (-) subgroup (n = 56). In the F (-) 
+group, patients with C5 palsy were designated as the F (-) P (+) subgroup (n = 
+5), while those without C5 palsy were designated as the F (-)P(-) subgroup (n = 
+29). Receiver operating characteristic curves were used to investigate the 
+cut-off values of the spinal canal parameters for the development of 
+postoperative C5 palsy. The assessed spinal parameters were the gutter positions 
+(GP), laminar inclination angles (LIA), and postoperative cross-sectional areas 
+(CSA) of the dural sac. The risk ratios (RR) of the spinal canal parameters as 
+risk factors for C5 palsy were evaluated.
+RESULTS: The incidence of C5 palsy was similar between the F (+) group (18.8%) 
+and the F (-) group (14.7%). The cut-off values for each spinal canal parameter 
+in the F (+) group (GP: 0.82-0.84, LIA: 58.9-62.4°, and CSA: 189.5-200 mm2 ) 
+were similar to those in the F (-) group (0.81-0.89, 61.7-62.5°, and 197.5-199.5 
+mm2, respectively). In the RR results for C5 palsy, the LIA was highest in both 
+groups. The F (+) P (-) subgroup had significantly larger mean CSA at C4/5 and 
+C5/6 (202.3 mm2 and 200.9 mm2, respectively) than the F (-)P(-) subgroup (177.3 
+mm2 and 178.9 mm2, respectively) (P = 0.0181 and P = 0.0277, respectively). 
+Prophylactic C4/5 foraminotomy did not specifically prevent postoperative C5 
+palsy due to foraminal stenosis at C4/5.
+CONCLUSION: C4/5 foraminotomy should not be recommended for avoidance of C5 
+palsy. Although the bony spinal parameters were similar between the F (+) and F 
+(-) groups, the CSA in the F (+) group was significantly than that in the F (-) 
+group in the patients without C5 palsy.
+
+DOI: 10.5152/j.aott.2021.21239
+PMID: 34967742 [Indexed for MEDLINE]
+
+
+8. JAMA Netw Open. 2021 Dec 1;4(12):e2138801. doi: 
+10.1001/jamanetworkopen.2021.38801.
+
+Incidence of and Mortality From Amyotrophic Lateral Sclerosis in National 
+Football League Athletes.
+
+Daneshvar DH(1)(2)(3)(4), Mez J(4)(5)(6), Alosco ML(4)(5), Baucom ZH(4)(7), 
+Mahar I(4)(5), Baugh CM(8)(9), Valle JP(10), Weuve J(11), Paganoni 
+S(1)(2)(3)(12), Cantu RC(4)(5)(13)(14)(15), Zafonte RD(1)(2)(3)(16), Stern 
+RA(4)(5)(13)(17), Stein TD(1)(18)(19)(20), Tripodis Y(4)(7), Nowinski CJ(4)(14), 
+McKee AC(4)(5)(6)(18)(19)(20).
+
+Author information:
+(1)Department of Physical Medicine and Rehabilitation, Harvard Medical School, 
+Boston, Massachusetts.
+(2)Department of Physical Medicine and Rehabilitation, Massachusetts General 
+Hospital, Boston.
+(3)Department of Physical Medicine and Rehabilitation, Spaulding Rehabilitation 
+Hospital, Boston, Massachusetts.
+(4)Boston University Alzheimer's Disease and CTE Centers, Boston University 
+School of Medicine, Boston, Massachusetts.
+(5)Department of Neurology, Boston University School of Medicine, Boston, 
+Massachusetts.
+(6)Framingham Heart Study, Boston University School of Medicine, Boston, 
+Massachusetts.
+(7)Department of Biostatistics, Boston University School of Public Health, 
+Boston, Massachusetts.
+(8)Center for Bioethics and Humanities, University of Colorado Denver Anschutz 
+Medical Campus, Aurora.
+(9)Division of General Internal Medicine, University of Colorado School of 
+Medicine, Aurora.
+(10)Public Health Institute, California Department of Public Health, Richmond.
+(11)Department of Epidemiology, Boston University School of Public Health, 
+Boston, Massachusetts.
+(12)Sean M Healey & AMG Center for ALS, Department of Neurology, Massachusetts 
+General Hospital, Boston.
+(13)Department of Neurosurgery, Boston University School of Medicine, Boston, 
+Massachusetts.
+(14)Department of Neurosurgery, Emerson Hospital, Concord, Massachusetts.
+(15)Concussion Legacy Foundation, Boston, Massachusetts.
+(16)Department of Physical Medicine and Rehabilitation, Brigham and Women's 
+Hospital, Boston, Massachusetts.
+(17)Department of Anatomy & Neurobiology, Boston University School of Medicine, 
+Boston, Massachusetts.
+(18)Veterans Affairs Boston Healthcare System, Department of Veterans Affairs, 
+Boston, Massachusetts.
+(19)Department of Veterans Affairs Medical Center, Bedford, Massachusetts.
+(20)Department of Pathology and Laboratory Medicine, Boston University School of 
+Medicine, Boston, Massachusetts.
+
+IMPORTANCE: Amyotrophic lateral sclerosis (ALS) is a fatal neurodegenerative 
+disease; understanding ALS risk factors is a critical public health issue.
+OBJECTIVES: To evaluate the incidence of and mortality from ALS in National 
+Football League (NFL) athletes and to describe characteristics associated with 
+ALS within this cohort.
+DESIGN, SETTING, AND PARTICIPANTS: This population-based cohort study included 
+all 19 423 NFL athletes who debuted between 1960 and 2019 and played 1 or more 
+professional game. It was conducted between October 3, 2020, and July 19, 2021.
+EXPOSURE: Participation in the NFL, including playing 1 or more professional 
+games.
+MAIN OUTCOMES AND MEASURES: Cases of ALS and death information were identified 
+based on public records from NFL statistics aggregators, news reports, 
+obituaries, and National Death Index results. The standardized incidence ratio 
+and the standardized mortality ratio were calculated based on data acquired from 
+surveillance studies of ALS accounting for age, sex, and race. Secondary 
+analyses examined the association of body mass index, NFL career duration, race, 
+birth location, and markers of fame, using a nested case-control design, 
+matching athletes with ALS to athletes without ALS, by NFL debut year.
+RESULTS: A total of 19 423 male former and current NFL players (age range, 23-78 
+years) were included in this cohort study and were followed up for a cumulative 
+493 168 years (mean [SD] follow-up, 30.6 [13.7] years). Thirty-eight players 
+received a diagnosis of ALS, and 28 died during the study time frame, 
+representing a significantly higher incidence of ALS diagnosis (standardized 
+incidence ratio, 3.59; 95% CI, 2.58-4.93) and mortality (standardized mortality 
+ratio, 3.94; 95% CI, 2.62-5.69) among NFL players compared with the US male 
+population, adjusting for age and race. Among NFL athletes, nested-case-control 
+analyses found that those who received a diagnosis of ALS had significantly 
+longer careers (mean [SD] duration, 7.0 [3.9] years) than athletes without ALS 
+(mean [SD] duration, 4.5 [3.6] years; odds ratio, 1.2; 95% CI, 1.1-1.3). There 
+were no differences in ALS status based on proxies of NFL fame, body mass index, 
+position played, birth location, or race.
+CONCLUSIONS AND RELEVANCE: The age-, sex-, and race-adjusted incidence of and 
+mortality from ALS among all NFL players who debuted between 1960 and 2019 were 
+nearly 4 times as high as those of the general population. Athletes with a 
+diagnosis of ALS had longer NFL careers than those without ALS, suggesting an 
+association between NFL duration of play and ALS. The identification of these 
+risk factors for ALS helps to inform the study of pathophysiological mechanisms 
+responsible for this fatal neurodegenerative disease.
+
+DOI: 10.1001/jamanetworkopen.2021.38801
+PMCID: PMC8674746
+PMID: 34910152 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest Disclosures: Dr Mez 
+reported receiving grants from the National Institutes of Health (NIH)/National 
+Institute on Aging (NIA)/National Institute of Neurological Disorders and Stroke 
+(NINDS) during the conduct of the study. Dr Alosco reported receiving royalties 
+from Oxford University Press outside the submitted work; and grants from the 
+NIH. Dr Baugh reported receiving grants from Datalys Center for Sports Injury 
+Research and Prevention and personal fees from the University of Connecticut 
+(funded by a grant from the National Football Leauge [NFL] Foundation) for 
+serving as a consultant on a concussion legislation project with the University 
+of Connecticut, outside the submitted work. Dr Paganoni reported receiving 
+grants from Amylyx, Revalesio, Clene, Prilenia, UCB, Seelos, and Biohaven; and 
+personal fees from Orion and Cytokinetics outside the submitted work. Dr Cantu 
+reported serving as senior advisor to the NFL Head, Neck and Spine Committee; 
+serving as vice president of National Operating Committee on Standards for 
+Athletic Equipment and chair of the scientific advisory committee for National 
+Operating Committee on Standards for Athletic Equipment; being co-founder and 
+medical director of the Concussion Legacy Foundation; receiving royalties from 
+Houghton Mifflin Harcourt; and providing legal expert opinion (eg, the National 
+Collegiate Athletic Association [NCAA] and the National Hockey League). Dr 
+Zafonte reported receiving royalties from Springer/Demos Publishing for serving 
+as co-editor of the text Brain Injury Medicine; serving on the scientific 
+advisory board of Myomo, and onecare.ai; and evaluating patients in the 
+Massachusetts General Hospital Brain and Body-Trust Program, which is funded by 
+the NFL Players Association. Dr Stern reported receiving grants from the NIH 
+during the conduct of the study; personal fees from Biogen and Eli Lilly; and 
+stock options as a member of the board of directors from King-Devick 
+Technologies outside the submitted work; and is a member of Medical Science 
+Committee of the NCAA Student-Athlete Concussion Injury Litigation and a member 
+of the Mackey-White Health and Safety Committee, NFL Players Association; in 
+addition, Dr Stern had a patent with royalties paid from Psychological 
+Assessment Resources Inc for published neuropsychological tests. Dr Nowinski 
+reported receiving travel support from the NFL Players Association; being a 
+member of the NFL Players Association Mackey-White Health and Safety Committee; 
+and holding options in Oxeia Biopharmaceuticals and PreCon Health outside the 
+submitted work. No other disclosures were reported.
+
+
+9. Disabil Rehabil. 2022 Dec;44(26):8311-8324. doi:
+10.1080/09638288.2021.2012607.  Epub 2021 Dec 14.
+
+Development of a swallowing risk screening tool and best practice 
+recommendations for the management of oropharyngeal dysphagia following acute 
+cervical spinal cord injury: an international multi-professional Delphi 
+consensus.
+
+McRae J(1), Smith C(2), Beeke S(2), Emmanuel A(3); Members of the Delphi expert 
+panel group.
+
+Author information:
+(1)Centre for Allied Health, St George's University of London, London, UK.
+(2)Division of Psychology and Language Science, University College London, 
+London, UK.
+(3)Division of Medicine, University College London, London, UK.
+
+PURPOSE: International multi-professional expert consensus was sought to develop 
+best practice recommendations for clinical management of patients following 
+cervical spinal cord injury with oropharyngeal dysphagia and associated 
+complications. Additionally, risk factors for dysphagia were identified to 
+support the development of a screening tool.
+MATERIALS AND METHODS: A two-round Delphi study was undertaken with a 27-member 
+panel of expert professionals in cervical spinal cord injury and complex 
+dysphagia. They rated 85 statements across seven topic areas in round one, using 
+a five-point Likert scale with a consensus set at 70%. Statements not achieving 
+consensus were revised for the second round. Comparative group and individual 
+feedback were provided at the end of each round.
+RESULTS: Consensus was achieved for 50 (59%) statements in round one and a 
+further 12 (48%) statements in round two. Recommendations for best practice were 
+agreed for management of swallowing, respiratory function, communication, 
+nutrition and oral care. Twelve risk factors for dysphagia were identified for 
+components of a screening tool.
+CONCLUSIONS: Best practice recommendations support wider clinical management to 
+prevent complications and direct specialist care. Screening for risk factors 
+allows early dysphagia identification with the potential to improve clinical 
+outcomes. Further evaluation of the impact of these recommendations is 
+needed.Implications for RehabilitationDysphagia is an added complication 
+following cervical spinal cord injury (cSCI) affecting morbidity, mortality and 
+quality of life.Early identification of dysphagia risk allows focused 
+interventions that reduce associated nutritional and respiratory 
+impairments.Best practice recommendations based on expert consensus provide a 
+baseline of appropriate interventions, in the absence of empirical evidence.A 
+multi-professional approach to rehabilitation encourages a consistent and 
+coordinated approach to care across acute and rehabilitation settings.
+
+DOI: 10.1080/09638288.2021.2012607
+PMID: 34904488 [Indexed for MEDLINE]
+
+
+10. J Clin Neurosci. 2021 Dec;94:24-31. doi: 10.1016/j.jocn.2021.09.032. Epub
+2021  Oct 5.
+
+Radiological factors associated with the severity of corticospinal tract 
+dysfunctions for cervical spondylotic myelopathy: An analysis of the central 
+motor conduction time and kinematic CT myelography.
+
+Funaba M(1), Imajo Y(1), Suzuki H(1), Nagao Y(1), Sakamoto T(1), Nishida N(1), 
+Fujimoto K(1), Sakai T(1).
+
+Author information:
+(1)Department of Orthopedic Surgery, Yamaguchi University Graduate School of 
+Medicine, Yamaguchi, Japan.
+
+Patients with cervical spondylotic myelopathy (CSM) often exhibit symptoms in 
+clinical practice, particularly the elderly, whose lower extremity functions are 
+more likely to deteriorate; however, the underlying mechanisms currently remain 
+unclear. The present study aimed to elucidate the relationship between the 
+neurological severity of CSM based on an electrophysiological examination and 
+radiological findings. Eighty-six patients with CSM were examined using 
+kinematic CT myelography. The cross-sectional area of the spinal cord and 
+dynamic changes in the spinal cord were measured at the affected level. The 
+central motor conduction time (CMCT) using transcranial magnetic stimulation was 
+calculated as follows: motor evoked potential latency - (compound muscle action 
+potential latency + F latency - 1)/2 (ms). A multiple logistic regression 
+analysis was performed to identify the radiological parameters associated with 
+severe lower limb dysfunction. CMCT in the upper limbs correlated with spinal 
+cord compression during neck extension, while that in the lower limbs correlated 
+with a larger C2-7 sagittal vertical axis, cervical lordosis, a small C2-7 range 
+of motion (ROM), and spinal cord compression during neck flexion. In a multiple 
+logistic regression analysis, significant risk factors specific for severe lower 
+limb dysfunction were greater anterior spondylolisthesis during neck extension 
+(P = 0.006, OR: 2.53, 95%CI: 1.13-2.07) and small C2-7 ROM in neutral to flexion 
+(P = 0.035, OR: 0.67, 95%CI: 0.52-0.88). Imaging findings affect upper and lower 
+extremity functions in specific manners. Cervical stiffness or anterior 
+compression factors may be associated with the deterioration of lower limb 
+function.
+
+Copyright © 2021 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jocn.2021.09.032
+PMID: 34863445 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+11. Neurocrit Care. 2022 Jun;36(3):840-845. doi: 10.1007/s12028-021-01384-0. Epub
+ 2021 Nov 29.
+
+Impact of Enteral Albuterol on Bradycardic Events After Acute Cervical Spinal 
+Cord Injury.
+
+Lim-Hing K(1)(2), Massetti J(3)(4), Pajoumand M(5), Gupta S(4)(6), Jenkins R(7), 
+Hassan M(7), Paganelli P(7), Parikh G(7)(8), Chang WT(4)(8), Schwartzbauer 
+G(3)(4), Stein D(4)(6), Badjatia N(7)(4).
+
+Author information:
+(1)Department of Neurology, University of Maryland School of Medicine, 
+Baltimore, MD, USA. klimhing@northwell.edu.
+(2)Department of Pharmacy, University of Maryland Medical Center, University of 
+Maryland School of Medicine, Baltimore, MD, USA. klimhing@northwell.edu.
+(3)Department of Neurosurgery, University of Maryland School of Medicine, 
+Baltimore, MD, USA.
+(4)Program in Trauma, University of Maryland School of Medicine, Baltimore, MD, 
+USA.
+(5)Department of Pharmacy, University of Maryland Medical Center, University of 
+Maryland School of Medicine, Baltimore, MD, USA.
+(6)Department of Surgery, University of Maryland School of Medicine, Baltimore, 
+MD, USA.
+(7)Department of Neurology, University of Maryland School of Medicine, 
+Baltimore, MD, USA.
+(8)Department of Emergency Medicine, University of Maryland School of Medicine, 
+Baltimore, MD, USA.
+
+BACKGROUND: Acute cervical spinal cord injury (ACSCI) is commonly complicated by 
+spinal shock, resulting in hemodynamic instability characterized by bradycardia 
+and hypotension that can have fatal consequences. Current guidelines recommend 
+the use of intravenous beta and dopamine agonists, such as norepinephrine and 
+dopamine, respectively. We sought to determine whether enteral albuterol would 
+be a safe and feasible treatment for bradycardia without an increase in the 
+occurrence of known side effects of albuterol in patients with ACSCI.
+METHODS: A retrospective review of patients with ACSCI admitted to an intensive 
+care unit at a level I trauma center and treated with enteral albuterol was 
+conducted. Patients were excluded for the following reasons: pure beta blocker 
+use prior to injury, concurrent use of pacemaker, age of less than 18 years, or 
+age more than 75 years. As part of the standard of care, all patients underwent 
+mean arterial pressure (MAP) augmentation to reach a goal of greater than 85 mm 
+Hg during the first 7 days post injury. All eligible patient charts were 
+reviewed for demographic characteristics, daily minimum and maximum heart rate 
+and MAP, and concomitant vasoactive medication use. Bradycardia and tachycardia 
+were defined as heart rate less than 60 beats per minute (bpm) and greater than 
+100 bpm, respectively. Factors found to be associated with bradycardia on 
+univariate analysis were entered into a multivariable generalized estimating 
+equation analysis to determine factors independently associated with bradycardia 
+during the study period.
+RESULTS: There were 58 patients with cervical ASCI (age 45 ± 18 years, 76% men) 
+admitted between January 1, 2016, and December 31, 2017, that met the study 
+criteria. The mean time to initiation of albuterol was 1.5 ± 1.7 days post 
+injury, with a duration of 9.3 ± 4.5 days and a mean daily dosage of 
+7.8 ± 4.5 mg. Bradycardia was observed in 136 of 766 patient days (17%). There 
+were a few episodes of hyperglycemia (1%) and tachycardia (3%), but no episodes 
+of hypokalemia. In a multivariable analysis, female sex (P = 0.006) and American 
+Spinal Cord Injury Association grade A, B, or C (P < 0.001) were associated with 
+a higher risk of developing bradycardia, whereas dosage of albuterol (P = 0.009) 
+and norepinephrine use (P = 0.008) were associated with a lower risk of 
+developing bradycardia.
+CONCLUSIONS: Albuterol administration in ASCI is a safe and feasible treatment 
+for bradycardia, given that no significant side effects, such as hyperglycemia, 
+hypokalemia, or tachycardia, were observed. The administration of enteral 
+albuterol was well tolerated and, in a dose-dependent manner, associated with a 
+lower occurrence of bradycardia. Further prospective trials for the use of 
+enteral albuterol after SCI are warranted.
+
+© 2021. Springer Science+Business Media, LLC, part of Springer Nature and 
+Neurocritical Care Society.
+
+DOI: 10.1007/s12028-021-01384-0
+PMID: 34845597 [Indexed for MEDLINE]
+
+
+12. Neurosurg Rev. 2022 Apr;45(2):1675-1689. doi: 10.1007/s10143-021-01698-9.
+Epub  2021 Nov 30.
+
+Risk factors for the development of degenerative cervical myelopathy: a review 
+of the literature.
+
+Baucher G(1)(2), Taskovic J(3), Troude L(4), Molliqaj G(3), Nouri A(3), 
+Tessitore E(3).
+
+Author information:
+(1)Neurosurgical Unit, Geneva University Hospital, Geneva, Switzerland. 
+guillaume_baucher@hotmail.fr.
+(2)AP-HM, Hôpital Universitaire Nord, Neurochirurgie adulte, Chemin Des 
+Bourrely, 13015, Marseille, France. guillaume_baucher@hotmail.fr.
+(3)Neurosurgical Unit, Geneva University Hospital, Geneva, Switzerland.
+(4)AP-HM, Hôpital Universitaire Nord, Neurochirurgie adulte, Chemin Des 
+Bourrely, 13015, Marseille, France.
+
+Degenerative cervical myelopathy (DCM) encompasses various pathological 
+conditions causing spinal cord (SC) impairment, including spondylosis (multiple 
+level degeneration), degenerative disc disease (DDD), ossification of the 
+posterior longitudinal ligament (OPLL), and ossification of the ligamentum 
+flavum (OLF). It is considered the most common cause of SC dysfunction among the 
+adult population. The degenerative phenomena of DDD, spondylosis, OPLL and OLF, 
+is likely due to both inter-related and distinct factors. Age, cervical 
+alignment, and range of motion, as well as congenital factors such as cervical 
+cord-canal mismatch due to congenital stenosis, Klippel-Feil, Ehler-Danlos, and 
+Down syndromes have been previously reported as potential factors of risk for 
+DCM. The correlation between some comorbidities, such as rheumatoid arthritis 
+and movement disorders (Parkinson disease and cervical dystonia) and DCM, has 
+also been reported; however, the literature remains scare. Other 
+patient-specific factors including smoking, participation in contact sports, 
+regular heavy load carrying on the head, and occupation (e.g. astronauts) have 
+also been suggested as potential risk of myelopathy development. Most of the 
+identified DCM risk factors remain poorly studied however. Further researches 
+will be necessary to strengthen the current knowledge on the subject, especially 
+concerning physical labors in order to identify patients at risk and to develop 
+an effective treatment strategy for preventing this increasing prevalent 
+disorder.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s10143-021-01698-9
+PMID: 34845577 [Indexed for MEDLINE]
+
+
+13. Acta Neurochir (Wien). 2022 Jun;164(6):1623-1626. doi: 
+10.1007/s00701-021-05043-3. Epub 2021 Nov 26.
+
+New-generation tyrosine kinase inhibitor-associated asymptomatic cerebrovascular 
+stenosis: two illustrative cases.
+
+Hirayama A(1), Sorimachi T(2), Yokota K(2), Shigematsu H(2), Srivatanakul K(2), 
+Matsumae M(2).
+
+Author information:
+(1)Department of Neurosurgery, Tokai University School of Medicine, 143 
+Shimokasuya, Isehara, Kanagawa, 259-1193, Japan. a-hira@is.icc.u-tokai.ac.jp.
+(2)Department of Neurosurgery, Tokai University School of Medicine, 143 
+Shimokasuya, Isehara, Kanagawa, 259-1193, Japan.
+
+New-generation tyrosine kinase inhibitors (TKIs), nilotinib and ponatinib, for 
+chronic myelogenous leukemia (CML) have been reported to cause symptomatic 
+cerebral ischemia. Herein, we report two patients with asymptomatic cerebral 
+artery stenosis associated with these TKIs, as a previously unreported finding. 
+Both patients were in their 40 s and administered new-generation TKIs without 
+vascular risk factors. New-generation TKIs for CML can cause major 
+cerebrovascular stenosis without any symptoms. Examining the neck and 
+intracranial arteries using magnetic resonance angiography and carotid 
+ultrasonography may prevent future cerebral infarctions associated with these 
+TKIs.
+
+© 2021. The Author(s), under exclusive licence to Springer-Verlag GmbH Austria, 
+part of Springer Nature.
+
+DOI: 10.1007/s00701-021-05043-3
+PMID: 34825968 [Indexed for MEDLINE]
+
+
+14. Orthop Surg. 2022 Jan;14(1):10-17. doi: 10.1111/os.13172. Epub 2021 Nov 22.
+
+Risk Factors for Tracheostomy after Traumatic Cervical Spinal Cord Injury: A 
+10-Year Study of 456 Patients.
+
+Long PP(#)(1), Sun DW(#)(2), Zhang ZF(2).
+
+Author information:
+(1)The First Affiliated Hospital of Chongqing Medical University, Chongqing, 
+China.
+(2)Department of Orthopaedics, Xinqiao Hospital, Army Military Medical 
+University, Chongqing, China.
+(#)Contributed equally
+
+OBJECTIVES: To explore the difference between tracheostomy and non-tracheostomy 
+and identify the risk factors associated with the need for tracheostomy after 
+traumatic cervical spinal cord injury (TCSCI).
+METHODS: The demographic and injury characteristics of 456 TCSCI patients, 
+treated in the Xinqiao Hospital from 2010 to 2019, were retrospective analyzed. 
+Patients were divided into the tracheostomy group (n = 63) and the 
+non-tracheostomy group (n = 393). Variables included were age, gender,smoking 
+history, mechanism of injury, concomitant injury, American Spinal Injury 
+Association (ASIA) Impairment Scale, the neurological level of injury, Cervical 
+Spine Injury Severity Score (CSISS), surgery, and length of stay in ICU and 
+hospital. SPSS 25.0 (SPSS, Chicago, IL) was used for statistical analysis and 
+ROC curve drawing. Chi-square analysis was applied to find out the difference of 
+variables between the tracheostomy and non-tracheostomy groups. Univariate 
+logistic regression analysis (ULRA) and multiple logistic regression analysis 
+(MLRA) were used to identify risk factors for tracheostomy. The area under the 
+ROC curve (AUC) was used to evaluate the performance of these risk factors.
+RESULTS: Of 456 patients who met the inclusion criteria, 63 (13.8%) underwent 
+tracheostomy. There were differences in age (χ2 = 6.615, P = 0.032), mechanism 
+of injury (χ2 = 9.87, P = 0.036), concomitant injury (χ2 = 6.131, P 
+= 0.013),ASIA Impairment Scale (χ2 = 123.08, P < 0.01), the neurological level 
+of injury (χ2 = 34.74, P < 0.01), and CSISS (χ2 = 19.612, P < 0.01) between the 
+tracheostomy and non-tracheostomy groups. Smoking history, CSISS ≥ 7, AIS A and, 
+NLI ≥ C5 were identified as potential risk factors for tracheostomy by ULRA. 
+Smoking history (OR = 2.960, 95% CI: 1.524-5.750, P = 0.001), CSISS ≥ 7 
+(OR = 4.599, 95% CI: 2.328-9.085, P = 0.000), AIS A (OR = 14.213, 95% CI: 
+6.720-30.060, P = 0.000) and NLI ≥ C5 (OR = 8.312, 95% CI: 1.935-35.711, P 
+= 0.004) as risk factors for tracheostomy were determined by MLRA. The AUC for 
+the risk factors of tracheostomy after TCSCI was 0.858 (95% CI: 0.810-0.907).
+CONCLUSIONS: Smoking history, CSISS ≥ 7, AIS A and, NLI ≥ C5 were identified as 
+risk factors needing of tracheostomy in patients with TCSCI. These risk factors 
+may be important to assist the clinical decision of tracheostomy.
+
+© 2021 The Authors. Orthopaedic Surgery published by Chinese Orthopaedic 
+Association and John Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/os.13172
+PMCID: PMC8755884
+PMID: 34812567 [Indexed for MEDLINE]
+
+
+15. BMC Emerg Med. 2021 Nov 13;21(1):136. doi: 10.1186/s12873-021-00530-3.
+
+Timely intubation with early prediction of respiratory exacerbation in acute 
+traumatic cervical spinal cord injury.
+
+Yonemitsu T(1), Kinoshita A(2), Nagata K(3), Morishita M(2), Yamaguchi T(4), 
+Kato S(4).
+
+Author information:
+(1)Department of Emergency and Critical Care Medicine, Wakayama Medical 
+University, 811-1, Kimiidera, Wakayama, 641-8509, Japan. yonetwmed@gmail.com.
+(2)High Care Unit, Wakayama Medical University Hospital, 811-1, Kimiidera, 
+Wakayama, 641-8510, Japan.
+(3)Department of Orthopedic Surgery, Wakayama Medical University, 811-1, 
+Kimiidera, Wakayama, 641-8509, Japan.
+(4)Department of Emergency and Critical Care Medicine, Wakayama Medical 
+University, 811-1, Kimiidera, Wakayama, 641-8509, Japan.
+
+BACKGROUND: Early routine intubation in motor-complete cervical spinal cord 
+injury (CSCI) above the C5 level is a conventional protocol to prevent 
+unexpected respiratory exacerbation (RE). However, in the context of recent 
+advances in multidisciplinary respiratory management, the absolute indication 
+for intubation in patients with CSCI based on initial neurologic assessment is 
+controversial because of the drawbacks of intubation. This study aimed to 
+redetermine the most important predictor of RE following CSCI after admission 
+without routine intubation among patients admitted with motor-complete injury 
+and/or injury above the C5 level to ensure timely intubation.
+METHODS: We performed a retrospective review of patients with acute traumatic 
+CSCI admitted to our hospital without an initial routine intubation protocol 
+from January 2013 to December 2017. CSCI patients who developed RE (defined as 
+unexpected emergent intubation for respiratory resuscitation) were compared with 
+those who did not. Baseline characteristics and severity of trauma data were 
+collected. Univariate analyses were performed to compare treatment data and 
+clinical outcomes between the two groups. Further, multivariate logistic 
+regression was performed with clinically important independent variables: 
+motor-complete injury, neurologic level above C5, atelectasis, and copious 
+airway secretion (CAS).
+RESULTS: Among 58 patients with CSCI, 35 (60.3%) required post-injury intubation 
+and 1 (1.7%) died during hospitalization. Thirteen (22.4%) had RE 3.5 days 
+(mean) post-injury; 3 (37.5%) of eight patients with motor-complete CSCI above 
+C5 developed RE. Eleven of the 27 (40.7%) patients with motor-complete injury 
+and five of the 22 (22.7%) patients with neurologic injury above C5 required 
+emergency intubation at RE. Three of the eight CSCI patients with both risk 
+factors (motor-complete injury above C5) resulted in emergent RE intubation 
+(37.5%). CAS was an independent predictor for RE (odds ratio 7.19, 95% 
+confidence interval 1.48-42.72, P = 0.0144) in multivariate analyses.
+CONCLUSION: Timely intubation post-CSCI based on close attention to CAS during 
+the acute 3-day phase may prevent RE and reduce unnecessary invasive airway 
+control even without immediate routine intubation in motor-complete injury above 
+C5.
+
+© 2021. The Author(s).
+
+DOI: 10.1186/s12873-021-00530-3
+PMCID: PMC8590122
+PMID: 34773989 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare relevant to the contents of this article.
+
+
+16. Korean J Neurotrauma. 2021 Sep 3;17(2):126-135. doi:
+10.13004/kjnt.2021.17.e23.  eCollection 2021 Oct.
+
+Risk Factors and Radiologic Changes in Subsidence after Single-Level Anterior 
+Cervical Corpectomy: A Minimum Follow-Up of 2 Years.
+
+An TY(1), Kim JY(2)(3), Lee YS(4)(5).
+
+Author information:
+(1)Department of Neurosurgery, Gyeongsang National University Hospital, 
+Gyeongsang National University School of Medicine, Jinju, Korea.
+(2)Department of Anesthesiology, Pain and Critical Care Medicine, School of 
+Medicine, Kyungpook National University, Daegu, Korea.
+(3)Department of Anesthesiology, Pain and Critical Care Medicine, Kyungpook 
+National University Chilgok Hospital, Daegu, Korea.
+(4)Department of Neurosurgery, School of Medicine, Kyungpook National 
+University, Daegu, Korea.
+(5)Department of Neurosurgery, Kyungpook National University Chilgok Hospital, 
+Daegu, Korea.
+
+OBJECTIVE: Anterior cervical corpectomy using a titanium mesh cage may result in 
+delayed nonunion and thus a change in cervical alignment, and patients may 
+require revision surgery. We investigated the radiologic and clinical outcomes 
+of cervical corpectomy and the risk factors for subsidence.
+METHODS: We studied 74 patients who underwent single-level anterior cervical 
+corpectomy for cervical spondylotic myelopathy with or without ossification of 
+the posterior longitudinal ligament between 2007 and 2014. Graft subsidence was 
+considered present when there was a reduction in the anterior and posterior 
+heights by an average of 4 mm or more 2 years after the operation. We measured 
+cervical parameters before surgery, immediately after surgery, and 6, 12, and 24 
+months after surgery. The clinical outcomes were the neck and arm visual analog 
+scale scores and reoperation rate.
+RESULTS: In the subsidence group, these values gradually decreased over the 24 
+months. The radiologic parameters did not differ between the 2 groups for 24 
+months after the onset of subsidence. There were no differences in clinical 
+outcome or reoperation rate. In the analysis of the risk factors, subsidence 
+occurred with a large T1 slope and a large change in the C27 Cobb angle (p=0.020 
+and p=0.026, respectively).
+CONCLUSION: Subsidence gradually occurred after single-level anterior cervical 
+corpectomy for up to 24 months. However, the presence of subsidence did not 
+affect the radiologic and clinical outcomes. When the T1 slope was large and the 
+C27 Cobb angle change was severe, more subsidence occurred.
+
+Copyright © 2021 Korean Neurotraumatology Society.
+
+DOI: 10.13004/kjnt.2021.17.e23
+PMCID: PMC8558015
+PMID: 34760823
+
+Conflict of interest statement: Conflict of Interest: The authors have no 
+financial conflicts of interest.
+
+
+17. Front Oncol. 2021 Oct 21;11:765608. doi: 10.3389/fonc.2021.765608.
+eCollection  2021.
+
+Grade 4 Neutropenia Secondary to Immune Checkpoint Inhibition - A Descriptive 
+Observational Retrospective Multicenter Analysis.
+
+Zaremba A(1), Kramer R(2)(3)(4), De Temple V(1)(5), Bertram S(6), Salzmann M(7), 
+Gesierich A(8), Reinhardt L(9)(10), Baroudjian B(11), Sachse MM(12), 
+Mechtersheimer G(13), Johnson DB(14), Weppler AM(15), Spain L(15), Loquai C(16), 
+Dudda M(16), Pföhler C(17), Hepner A(18)(19), Long GV(20)(21)(22), Menzies 
+AM(20)(21)(22), Carlino MS(20)(23), Lebbé C(11), Enokida T(24), Tahara M(24), 
+Bröckelmann PJ(25), Eigentler T(26)(27), Kähler KC(28), Gutzmer R(5), Berking 
+C(2)(3)(4), Ugurel S(1), Stadtler N(1), Sucker A(1), Becker JC(1)(27), 
+Livingstone E(1), Meier F(9)(10)(27), Hassel JC(7), Schadendorf D(1)(27), Hanoun 
+M(29), Heinzerling L(2)(3)(4)(30), Zimmer L(1).
+
+Author information:
+(1)Department of Dermatology, Venerology and Allergology, University Hospital 
+Essen, Essen, Germany.
+(2)Department of Dermatology, Universitätsklinikum Erlangen, 
+Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Erlangen, Germany.
+(3)Deutsches Zentrum Immuntherapie (DZI) , Erlangen, Germany.
+(4)Comprehensive Cancer Center Erlangen-European Metropolitan Area of Nürnberg 
+(CCC ER-EMN), Erlangen, Germany.
+(5)Department of Dermatology, Mühlenkreiskliniken AöR, Ruhr University Bochum, 
+Minden, Germany.
+(6)Institute of Pathology, University Hospital Essen, Essen, Germany.
+(7)Skin Cancer Center, Department of Dermatology and National Center for Tumor 
+Diseases (NCT), University Hospital, Heidelberg, Germany.
+(8)Department of Dermatology, Venereology and Allergology, University Hospital 
+Würzburg, Würzburg, Germany.
+(9)Skin Cancer Center at the University Cancer Centre Dresden and National 
+Center for Tumor Diseases, Dresden, Germany.
+(10)Department of Dermatology, University Hospital Carl Gustav Carus, Technische 
+Universität (TU) Dresden, Dresden, Germany.
+(11)Université de Paris, Department of Dermatology, AP-HP Hôpital Saint Louis, 
+INSERM U976, Paris, France.
+(12)Department of Dermatology, Allergology and Phlebology, Bremerhaven 
+Reinkenheide Hospital, Bremerhaven, Germany.
+(13)Institute of Pathology, University Hospital Heidelberg, Heidelberg, Germany.
+(14)Vanderbilt University Medical Center, Department of Medicine, Division of 
+Hematology and Oncology, Nashville, TN, United States.
+(15)Medical Oncology Department, Peter MacCallum Cancer Centre, Melbourne, VIC, 
+Australia.
+(16)Department of Dermatology, University Medical Center, Mainz, Germany.
+(17)Department of Dermatology, Saarland University Medical Center, Homburg, 
+Germany.
+(18)Department of Medical Oncology, Melanoma Institute Australia, Sydney, NSW, 
+Australia.
+(19)Medical Oncology Service, Instituto do Cancer do Estado de Sao Paulo, Sao 
+Paulo, Brazil.
+(20)Melanoma Institute Australia, The University of Sydney, Sydney, NSW, 
+Australia.
+(21)Faculty of Medicine and Health, The University of Sydney, Sydney, NSW, 
+Australia.
+(22)Royal North Shore and Mater Hospitals, Sydney, NSW, Australia.
+(23)Westmead and Blacktown Hospitals, Sydney, NSW, Australia.
+(24)Department of Head and Neck Medical Oncology, National Cancer Center 
+Hospital East, Chiba, Japan.
+(25)Department I of Internal Medicine, Centre of Integrated Oncology Aachen Bonn 
+Cologne Duesseldorf (CIO ABCD), Faculty of Medicine and University Hospital of 
+Cologne, University of Cologne, Cologne, Germany.
+(26)Department of Dermatology, University Hospital Tübingen, Germany and Charité 
+- Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin and 
+Humboldt Universität zu Berlin, Department of Dermatology, Venerology and 
+Allergology, Berlin, Germany.
+(27)German Cancer Consortium (DKTK), Deutsches Krebsforschungszentrum (DKFZ), 
+Heidelberg, Germany.
+(28)Department of Dermatology, University Hospital Schleswig Holstein, Kiel, 
+Germany.
+(29)Department for Hematology and Stem Cell Transplantation, University Hospital 
+Essen, Essen, Germany.
+(30)Department of Dermatology and Allergy, Ludwig-Maximilians-Universität (LMU), 
+University Hospital, Munich, Germany.
+
+INTRODUCTION: Immune checkpoint inhibitors (ICI) are increasingly being used to 
+treat numerous cancer types. Together with improved recognition of toxicities, 
+this has led to more frequent identification of rare immune-related adverse 
+events (irAE), for which specific treatment strategies are needed. Neutropenia 
+is a rare hematological irAE that has a potential for a high mortality rate 
+because of its associated risk of sepsis. Prompt recognition and timely 
+treatment of this life-threatening irAE are therefore critical to the outcome of 
+patients with immune-related neutropenia.
+METHODS: This multicenter international retrospective study was conducted at 17 
+melanoma centers to evaluate the clinical characteristics, diagnostics, 
+treatment, and outcomes of melanoma patients with grade 4 neutropenia (<500 
+neutrophils/µl blood) treated with ICI between 2014 and 2020. Some of these 
+patients received metamizole in addition to ICI (ICI+/met+). Bone marrow 
+biopsies (BMB) of these patients were compared to BMB from non-ICI treated 
+patients with metamizole-induced grade 4 neutropenia (ICI-/met+).
+RESULTS: In total, 10 patients (median age at neutropenia onset: 66 years; seven 
+men) with neutropenia were identified, equating to an incidence of 0.14%. Median 
+onset of neutropenia was 6.4 weeks after starting ICI (range 1.4-49.1 weeks). 
+Six patients showed inflammatory symptoms, including fever (n=3), erysipelas 
+(n=1), pharyngeal abscess (n=1), and mucositis (n=1). Neutropenia was diagnosed 
+in all patients by a differential blood count and additionally performed 
+procedures including BMB (n=5). Nine of 10 patients received granulocyte 
+colony-stimulating factors (G-CSF) to treat their grade 4 neutropenia. Four 
+patients received systemic steroids (including two in combination with G-CSF, 
+and one in combination with G-CSF and additional ciclosporin A). Four patients 
+were treated with one or more antibiotic treatment lines, two with antimycotic 
+treatment, and one with additional antiviral therapy. Five patients received 
+metamizole concomitantly with ICI. One fatal outcome was reported. BMB indicated 
+a numerically lower CD4+ to CD8+ T cells ratio in patients with irNeutropenia 
+than in those with metamizole-induced neutropenia.
+CONCLUSION: Grade 4 neutropenia is a rare but potentially life-threatening side 
+effect of ICI treatment. Most cases were sufficiently managed using G-CSF; 
+however, adequate empiric antibiotic, antiviral, and antimycotic treatments 
+should be administered if neutropenic infections are suspected. 
+Immunosuppression using corticosteroids may be considered after other causes of 
+neutropenia have been excluded.
+
+Copyright © 2021 Zaremba, Kramer, De Temple, Bertram, Salzmann, Gesierich, 
+Reinhardt, Baroudjian, Sachse, Mechtersheimer, Johnson, Weppler, Spain, Loquai, 
+Dudda, Pföhler, Hepner, Long, Menzies, Carlino, Lebbé, Enokida, Tahara, 
+Bröckelmann, Eigentler, Kähler, Gutzmer, Berking, Ugurel, Stadtler, Sucker, 
+Becker, Livingstone, Meier, Hassel, Schadendorf, Hanoun, Heinzerling and Zimmer.
+
+DOI: 10.3389/fonc.2021.765608
+PMCID: PMC8567012
+PMID: 34746007
+
+Conflict of interest statement: AZ received travel support from Novartis, Sanofi 
+Genzyme, and Bristol-Myers Squibb, outside the submitted work. RK has received 
+speaker fees by NG-Akademie GmbH and Hollister Incorporated, outside the 
+submitted work. MS is an honoraria and/or travel grants from Abbvie, 
+Bristol-Myers Squibb, Merck, Merck Sharp & Dohme, Novartis, Pfizer and 
+Sanofi-Aventis. AG: Speaker´s honoraria from Bristol-Myers Squibb, MSD Sharp & 
+Dohme and Roche; intermittent advisory board relationships with Amgen, 
+Bristol-Myers Squibb, Novartis, MSD Sharp & Dohme, Pierre Fabre Pharmaceuticals, 
+Pfizer, Roche and Sanofi Genzyme; travel and congress fee support from 
+Bristol-Myers Squibb, MSD Sharp & Dohme, Novartis, Pierre Fabre Pharmaceuticals 
+and Roche. Clinical studies: Amgen, Array, Bristol-Myers Squibb, GSK, Novartis, 
+Merck, MSD Sharp & Dohme, Pfizer and Roche. BB received speaker fees for BMS, 
+MSD, Novartis. Travel accomodation: BMS, Pierre Fabre. MS is an honoria for 
+advisory board for Sanofi/Regneron and speaker fees für Novartis Pharma AG. GM 
+has received speaker fees from PharmaMar, outside the submitted work. DJ 
+received advisory board honoraria from BMS, Catalyst, Iovance, Jansen, Merck, 
+Novartis, Oncosec, and Pfizer, and research funding from BMS and Incyte. LS is 
+an honoraria for advisory boards & speaker fees from BMS. CaL received Advisory 
+board: Roche, Novartis, BMS, MSD, SunPharma, Biontech, Kyowa Kirin, Sanofi, 
+Pierre Fabre, Merck; Speakers fee: Roche, Novartis, BMS, MSD, SunPharma, 
+Biontech, Kyowa Kirin, Sanofi, Pierre Fabre, Merck; Travel reimbursement: Roche, 
+Novartis, BMS, MSD, SunPharma, Biontech, Kyowa Kirin, Sanofi, Pierre Fabre, 
+Merck. CP received honoraria (speaker honoraria or honoraria as a consultant) 
+and travel support from: Novartis, BMS, Roche, Merck Serono, MSD, Celgene, 
+AbbVie, Pierre Fabre, SUNPHARMA and LEO. GL is a consultant advisor for Aduro 
+Biotech Inc, Amgen Inc, Array Biopharma inc, Boehringer Ingelheim International 
+GmbH, Bristol-Myers Squibb, Evaxion Biotech A/S, Hexel AG, Highlight 
+Therapeutics S.L., Merck Sharpe & Dohme, Novartis Pharma AG, OncoSec, Pierre 
+Fabre, QBiotics Group Limited, Regeneron Pharmaceuticals Inc, SkylineDX B.V., 
+Specialised Therapeutics Australia Pty Ltd. AM is an honoraria for advisory 
+boards for BMS, MSD, Novartis, Roche, Pierre-Fabre, QBiotics. MC is a consultant 
+advisor for Amgen, BMS, Eisai, Ideaya, MSD, Nektar, Novartis, Oncosec, 
+Pierre-Fabre, Qbiotics, Regeneron, Roche, Merck and Sanofi, and received 
+honoraria from BMS, MSD, and Novartis. CeL received Honoraria: Roche; BMS; 
+Novartis; Amgen; MSD; Pierre Fabre; Pfizer; Incyte; Consulting or Advisory Role: 
+BMS; MSD; Novartis; Amgen; Roche; Merck Serono; Sanofi; Pierre Fabre; Speakers’ 
+Bureau: Roche; BMS; Novartis; Amgen; MSD; Research Funding: Roche; BMS; Travel, 
+Accommodations, Expenses: BMS; MSD; Novartis; Sanofi; Pierre Fabre; Other 
+Relationship: Avantis Medical Systems (board). MT received grants and personal 
+fees from MSD, Ono Pharmaceutical, BMS, Bayer, Eisai, Novartis, Pfizer, Rakuten 
+Medical, Merck Biopharma, personal fees from LOXO, Celgene, Amgen, outside the 
+submitted work. PB received research funding from BeiGene, BMS, MSD and Takeda; 
+advisory board honoraria from Takeda; speakers honoraria from BMS and travel 
+support from Celgene, all outside the submitted work. TEi received speaker fees 
+from Novartis, Pierre Fabre, MSD, Sanofi Genzyme, Alirall Hermal and 
+Bristol-Myers Squibb, outside the submitted work. KK has served as consultant 
+or/and has received honoraria from Amgen, Roche, Bristol Myers Squibb, Merck 
+Sharp and Dohme, Pierre Fabre, and Novartis, and received travel support from 
+Amgen, Merck Sharp and Dohme, Bristol Myers Squibb, Amgen, Pierre Fabre, Medac 
+and Novartis. RG: Invited speaker: Roche, BMS, MSD, Novartis, Amgen, Merck 
+Serono, Almirall Hermal, SUN, Sanofi, Pierre-Fabre. Advisory board: BMS, Roche, 
+Novartis, Almirall Hermal, MSD, Amgen, SUN, Sanofi, Pierre-Fabre, 4SC, Bayer, 
+MerckSerono, Pfizer, Immunocore. Research grants: Novartis, Pfizer, Johnson & 
+Johnson, Amgen, Merck-Serono, SUN Pharma, Sanofi. Travel/meeting support: Roche, 
+BMS, SUN, Merck-Serono, Pierre-Fabre, outside the submitted work. CB received 
+advisory board honoraria and/or speaker´s fees from Amgen, BMS, Immunocore, 
+Merck, MSD, Novartis, Pierre Fabre, Regeneron, Roche, and Sanofi-Aventis. SU 
+declares research support from Bristol Myers Squibb and Merck Serono; speakers 
+and advisory board honoraria from Bristol Myers Squibb, Merck Sharp & Dohme, 
+Merck Serono, Novartis and Roche, and travel support from Bristol Myers Squibb, 
+Merck Sharp & Dohme, and Pierre Fabre. JB is receiving speaker’s bureau 
+honoraria from Amgen, Pfizer, Recordati and Sanofi, is a paid 
+consultant/advisory board member/DSMB member for Almirall, Boehringer Ingelheim, 
+InProTher, ICON, MerckSerono, Pfizer, 4SC, and Sanofi/Regeneron. His group 
+receives research grants from Bristol-Myers Squibb, Merck Serono, HTG, IQVIA, 
+and Alcedis. EL served as consultant and/or has received honoraria from 
+Bristol-Myers Squibb, Merck Sharp & Dohme, Novartis, Medac, Pierre Fabre, 
+Sanofi, Sunpharma and travel support from Amgen, Merck Sharp & Dohme, 
+Bristol-Myers Squibb, Pierre Fabre, Sunpharma and Novartis, outside the 
+submitted work. FM has received travel support or/and speaker’s fees or/and 
+advisor’s honoraria by Novartis, Roche, BMS, MSD and Pierre Fabre and research 
+funding from Novartis and Roche. JH received research support from BMS; advisory 
+board honoraria from Pierre Fabre, Sanofi, Sun Pharma and MSD; speakers 
+honoraria from GSK, Amgen, BMS, MSD, Novartis, Roche, Sanofi and Almirall and 
+travel support from Pierre Fabre and 4SC. DS reports personal fees and 
+non-financial support from Roche/Genentech, grants, personal fees, non-financial 
+support and other from BMS, personal fees from Merck Sharp & Dohme, personal 
+fees and non-financial support from Merck Serono, grant, personal fees and 
+non-financial support from Amgen, personal fees from Immunocore, personal fees 
+from Incyte, personal fees from 4SC, personal fees from Pierre Fabre, personal 
+fees and non-financial support from Sanofi/Regeneron, personal fees from Array 
+BioPharma, personal fees from Pfizer, personal fees from Philogen, personal fees 
+from Regeneron, personal fees from Nektar, personal fees from Sandoz, grants, 
+personal fees and non-financial support from Novartis, personal fees and 
+non-financial support from SunPharma, Replimune, Helsinn, OncoSec and InFlaRx 
+outside the submitted work. LH reports Consultancy, speaker fees, travel grants 
+or research funding: BMS, MSD, Merck, Roche, Amgen, Curevac, Novartis, Sanofi, 
+Pierre Fabre. Clinical studies: BMS, MSD, Merck, Roche, Amgen, GSK, Curevac and 
+Novartis. LZ reports being a consultant and/or receiving honoraria from Roche, 
+Bristol-Myers Squibb, Merck Sharp & Dohme, Novartis, Pierre-Fabre, Sunpharma and 
+Sanofi; research funding to institution from Novartis; and travel support from 
+Merck Sharp & Dohme, Bristol-Myers Squibb, Amgen, Pierre-Fabre, Sanofi, 
+Sunpharma and Novartis, outside the submitted work. The remaining authors 
+declare that the research was conducted in the absence of any commercial or 
+financial relationships that could be construed as a potential conflict of 
+interest.
+
+
+18. Spec Care Dentist. 2022 May;42(3):299-303. doi: 10.1111/scd.12668. Epub 2021
+Nov  4.
+
+Fanconi anemia and hematopoietic stem cell transplant as risk factors for oral 
+squamous cell carcinoma: A case report with a 12-year follow-up.
+
+Macedo LFDSL(1), Domaneschi C(1), Miguita Luiz L(2), Peres MPSM(3), Franco 
+JB(3).
+
+Author information:
+(1)Department of Stomatology, School of Dentistry, University of Sao Paulo 
+(USP), São Paulo, Brazil.
+(2)Department of Pathology, Institute of Biological Science, Federal University 
+of Minas Gerais (UFMG), Belo Horizonte, Brazil.
+(3)Dentistry Division, Clinics Hospital of the School of Medicine, University of 
+Sao Paulo, São Paulo, Brazil.
+
+Fanconi anemia is a rare disorder resulting from defects in genes responsible 
+for DNA damage responses. It is characterized by congenital anomalies, aplastic 
+anemia, and a predisposition to cancer. Currently, hematopoietic stem cell 
+transplant (HSCT) is the only curative treatment available for bone marrow 
+failure; however, HSCT increases oral squamous cell carcinoma (OSCC) risk. Here 
+we report the case of a patient diagnosed with Fanconi anemia in childhood who 
+was treated with HSCT and later diagnosed with multiple OSCCs during a 12-year 
+follow-up. Despite multiple surgical interventions and radiotherapy regimens, 
+the patient`s health deteriorated. Management of individuals with Fanconi anemia 
+is challenging and must be provided by a multidisciplinary healthcare team to 
+ensure better staging, treatment planning, and coordination.
+
+© 2021 Special Care Dentistry Association and Wiley Periodicals LLC.
+
+DOI: 10.1111/scd.12668
+PMID: 34735020 [Indexed for MEDLINE]
+
+
+19. J Neuroimmunol. 2021 Dec 15;361:577747. doi: 10.1016/j.jneuroim.2021.577747. 
+Epub 2021 Oct 8.
+
+Risk factors for idiopathic myelitis at admission and predictors for late 
+diagnostic change.
+
+Dias L(1), Barbosa L(2), Martins F(3), Braz L(4), Guimarães J(4).
+
+Author information:
+(1)Department of Neurology, Centro Hospitalar Universitário de São João, E.P.E., 
+Porto, Portugal; Clinical Neurosciences and Mental Health Department, Faculty of 
+Medicine of the University of Porto, Portugal. Electronic address: 
+leonor.dias@chsj.min-saude.pt.
+(2)Clinical Neurosciences and Mental Health Department, Faculty of Medicine of 
+the University of Porto, Portugal.
+(3)Department of Psychiatry, Centro Hospitalar Universitário de São João, 
+E.P.E., Porto, Portugal.
+(4)Department of Neurology, Centro Hospitalar Universitário de São João, E.P.E., 
+Porto, Portugal; Clinical Neurosciences and Mental Health Department, Faculty of 
+Medicine of the University of Porto, Portugal.
+
+Immune-mediated myelopathy (IMM) diagnosis is challenging, and its etiology may 
+remain unclear despite extensive investigation. We evaluated diagnostic changes 
+in IMM patients during follow-up. We included 80 patients, 61.3% female, with 
+median follow-up time 62.5 months. Diagnoses at discharge were: 48.8% Multiple 
+Sclerosis-IMM (MS-IMM), 32.5% I-IMM, 11.3% Neuromyelitis Optica Spectrum 
+Disorders-IMM (NMOSD-IMM), 1.3% MOG encephalomyelitis (MOGAD), and 6.2% Others 
+IMM (O-IMM). Twenty-two  patients (27.5%) changed diagnosis (median 
+15.5  months): 68.8% MS-IMM, 12.5%  NMOSD-IMM, 3.8% MOGAD, 10.0% I-IMM, and 5.0% 
+O-IMM. Most patients that changed diagnosis were I-IMM. Predictive factors for 
+diagnostic change in I-IMM were: autonomous gait (p = 0.029), lesions suggestive 
+of MS (p = 0.039), higher number of lesions (p = 0.043), lesions length < 3 
+vertebral bodies (p = 0.033), cervical involvement (p = 0.038), and lower EDSS 
+at admission (p = 0.013). Etiologic reclassifications in IMM are common, 
+therefore patients require an appropriate follow-up time to increase diagnostic 
+accuracy.
+
+Copyright © 2021 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.jneuroim.2021.577747
+PMID: 34715592 [Indexed for MEDLINE]
+
+
+20. Clin Spine Surg. 2022 Apr 1;35(3):97-106. doi: 10.1097/BSD.0000000000001259.
+
+Pseudarthrosis of the Cervical Spine.
+
+Zuckerman SL(1)(2), Devin CJ(3).
+
+Author information:
+(1)Department of Neurosurgery, Vanderbilt University Medical Center, Nashville, 
+TN.
+(2)Department of Orthopedic Surgery, Columbia University Medical Center, New 
+York, NY.
+(3)Steamboat Orthopedic and Spine Institute, Steamboat Springs, CO.
+
+Pseudarthrosis of the cervical spine represents a common and challenging problem 
+for spine surgeons. Rates vary greatly from as low as 0%-20% to >60% and depend 
+heavily on patient factors, approach, and number of levels. While some patients 
+remain asymptomatic from pseudarthrosis, many require revision surgery due to 
+instability, continued neck pain, or radiculopathy/myelopathy. We aimed to 
+provide a practical, narrative review of cervical pseudarthrosis to address the 
+following areas: (1) definitions, (2) incidence, (3) risk factors, (4) 
+presentation and workup, (5) treatment decision-making, and (6) postoperative 
+care. It is our hope the current review provides a concise summary for how to 
+diagnose and treat challenging cervical nonunions.
+
+Copyright © 2021 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/BSD.0000000000001259
+PMID: 34711751 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
