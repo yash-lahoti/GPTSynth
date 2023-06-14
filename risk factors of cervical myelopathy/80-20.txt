@@ -1,0 +1,1208 @@
+1. Autophagy. 2022 Nov;18(11):2519-2536. doi: 10.1080/15548627.2022.2039994. Epub
+ 2022 Apr 6.
+
+Autophagopathies: from autophagy gene polymorphisms to precision medicine for 
+human diseases.
+
+Grosjean I(1), Roméo B(1), Domdom MA(1), Belaid A(2), D'Andréa G(1)(3), Guillot 
+N(1), Gherardi RK(4), Gal J(5), Milano G(6), Marquette CH(1)(7), Hung RJ(8), 
+Landi MT(9), Han Y(10), Brest P(1), Von Bergen M(11), Klionsky DJ(12), Amos 
+CI(10), Hofman P(1)(13), Mograbi B(1).
+
+Author information:
+(1)University Côte d'Azur, CNRS, INSERM, IRCAN, FHU-OncoAge, Centre Antoine 
+Lacassagne, France.
+(2)Université Côte d'Azur (UCA), INSERM U1065, C3M, Team 5, F-06204, France.
+(3)ENT and Head and Neck surgery department, Institut Universitaire de la Face 
+et du Cou, CHU de Nice, University Hospital, Côte d'Azur University, Nice, 
+France.
+(4)INSERM U955 Team Relais, Faculty of Health, Paris Est University, France.
+(5)University Côte d'Azur, Centre Antoine Lacassagne, Epidemiology and 
+Biostatistics Department, Nice, France.
+(6)Université Côte d'Azur, Centre Antoine Lacassagne, UPR7497, Nice, France.
+(7)University Côte d'Azur, FHU-OncoAge, Department of Pulmonary Medicine and 
+Oncology, CHU de Nice, Nice, France.
+(8)Lunenfeld-Tanenbaum Research Institute, Sinai Health System, Toronto, 
+Ontario, Canada; Division of Epidemiology, Dalla Lana School of Public Health, 
+University of Toronto, Toronto, Ontario, Canada.
+(9)Division of Cancer Epidemiology and Genetics, National Cancer Institute, 
+National Institutes of Health, Bethesda, MD, USA.
+(10)Institute for Clinical and Translational Research, Baylor College of 
+Medicine, Houston, TX, USA.
+(11)Helmholtz Centre for Environmental Research GmbH - UFZ, Dep. of Molecular 
+Systems Biology; University of Leipzig, Faculty of Life Sciences, Institute of 
+Biochemistry, Leipzig, Germany.
+(12)University of Michigan, Life Sciences Institute, Ann Arbor, MI, 48109, USA.
+(13)University Côte d'Azur, FHU-OncoAge, CHU de Nice, Laboratory of Clinical and 
+Experimental Pathology (LPCE) Biobank (BB-0033-00025), Nice, France.
+
+At a time when complex diseases affect globally 280 million people and claim 14 
+million lives every year, there is an urgent need to rapidly increase our 
+knowledge into their underlying etiologies. Though critical in identifying the 
+people at risk, the causal environmental factors (microbiome and/or pollutants) 
+and the affected pathophysiological mechanisms are not well understood. Herein, 
+we consider the variations of autophagy-related (ATG) genes at the heart of 
+mechanisms of increased susceptibility to environmental stress. A comprehensive 
+autophagy genomic resource is presented with 263 single nucleotide polymorphisms 
+(SNPs) for 69 autophagy-related genes associated with 117 autoimmune, 
+inflammatory, infectious, cardiovascular, neurological, respiratory, and 
+endocrine diseases. We thus propose the term 'autophagopathies' to group 
+together a class of complex human diseases the etiology of which lies in a 
+genetic defect of the autophagy machinery, whether directly related or not to an 
+abnormal flux in autophagy, LC3-associated phagocytosis, or any associated 
+trafficking. The future of precision medicine for common diseases will lie in 
+our ability to exploit these ATG SNP x environment relationships to develop new 
+polygenetic risk scores, new management guidelines, and optimal therapies for 
+afflicted patients.Abbreviations: ATG, autophagy-related; ALS-FTD, amyotrophic 
+lateral sclerosis-frontotemporal dementia; ccRCC, clear cell renal cell 
+carcinoma; CD, Crohn disease; COPD, chronic obstructive pulmonary disease; eQTL, 
+expression quantitative trait loci; HCC, hepatocellular carcinoma; HNSCC, head 
+and neck squamous cell carcinoma; GTEx, genotype-tissue expression; GWAS, 
+genome-wide association studies; LAP, LC3-associated phagocytosis; LC3-II, 
+phosphatidylethanolamine conjugated form of LC3; LD, linkage disequilibrium; 
+LUAD, lung adenocarcinoma; MAF, minor allele frequency; MAP1LC3/LC3: microtubule 
+associated protein 1 light chain 3; NSCLC, non-small cell lung cancer; OS, 
+overall survival; PtdIns3K CIII, class III phosphatidylinositol 3 kinase; 
+PtdIns3P, phosphatidylinositol-3-phosphate; SLE, systemic lupus erythematosus; 
+SNPs, single-nucleotide polymorphisms; mQTL, methylation quantitative trait 
+loci; ULK, unc-51 like autophagy activating kinase; UTRs, untranslated regions; 
+WHO, World Health Organization.
+
+DOI: 10.1080/15548627.2022.2039994
+PMCID: PMC9629091
+PMID: 35383530 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s).
+
+
+2. Arthritis Res Ther. 2022 Mar 31;24(1):79. doi: 10.1186/s13075-022-02767-0.
+
+Risk factor analysis of perioperative complications in patients with rheumatoid 
+arthritis undergoing primary cervical spine surgery.
+
+Sakuraba K(1)(2), Omori Y(3), Kai K(3), Terada K(4), Kobara N(4), Kamura S(4), 
+Fujimura K(3), Bekki H(4)(3), Ohta M(4)(3), Miyahara HA(4)(3), Fukushi JI(4)(3).
+
+Author information:
+(1)Department of Orthopaedic Surgery and Rheumatology, National Hospital 
+Organization Kyushu Medical Center, Jigyohama 1-8-1, Chuo-ku, Fukuoka, 810-8563, 
+Japan. sakurabaksy@yahoo.co.jp.
+(2)Clinical Research Center, National Hospital Organization Kyushu Medical 
+Center, Jigyohama 1-8-1, Chuo-ku, Fukuoka, 810-8563, Japan. 
+sakurabaksy@yahoo.co.jp.
+(3)Clinical Research Center, National Hospital Organization Kyushu Medical 
+Center, Jigyohama 1-8-1, Chuo-ku, Fukuoka, 810-8563, Japan.
+(4)Department of Orthopaedic Surgery and Rheumatology, National Hospital 
+Organization Kyushu Medical Center, Jigyohama 1-8-1, Chuo-ku, Fukuoka, 810-8563, 
+Japan.
+
+BACKGROUND: Rheumatoid arthritis (RA) often causes cervical spine lesions as the 
+disease condition progresses, which induce occipital neuralgia or cervical 
+myelopathy requiring surgical interventions. Meanwhile, patients with RA are 
+susceptible to infection or other complications in the perioperative period 
+because they frequently have comorbidities and use immunosuppressive 
+medications. However, the risk factors or characteristics of patients with RA 
+who experience perioperative complications after cervical spine surgery remain 
+unknown. A risk factor analysis of perioperative complications in patients with 
+RA who underwent primary cervical spine surgery was conducted in the present 
+study.
+METHODS: A total of 139 patients with RA who underwent primary cervical spine 
+surgery from January 2001 to March 2020 were retrospectively investigated. Age 
+and height, weight, serum albumin, serum C-reactive protein, American Society of 
+Anesthesiologists Physical Status (ASA-PS), Charlson comorbidity index, 
+medications used, cervical spine lesion, surgery time, bleeding volume, and 
+procedures were collected from medical records to compare the patients with 
+complications to those without complications after surgery. The risk factors for 
+perioperative complications were assessed by univariate and multivariate 
+logistic regression analysis.
+RESULTS: Twenty-eight patients (20.1%) had perioperative complications. 
+Perioperative complications were significantly associated with the following 
+factors [data presented as odds ratio]: lower height [0.928, p=0.007], higher 
+ASA-PS [2.296, p=0.048], longer operation time [1.013, p=0.003], more bleeding 
+volume [1.004, p=0.04], higher rates of vertical subluxation [2.914, p=0.015] 
+and subaxial subluxation (SAS) [2.507, p=0.036], occipito-cervical (OC) fusion 
+[3.438, p=0.023], and occipito-cervical/thoracic (long) fusion [8.021, p=0.002] 
+in univariate analyses. In multivariate analyses, lower height [0.915, p=0.005], 
+higher ASA-PS [2.622, p=0.045] and long fusion [7.289, p=0.008] remained risk 
+factors. High-dose prednisolone use [1.247, p=0.028], SAS [6.413, p=0.018], OC 
+fusion [17.93, p=0.034], and long fusion [108.1, p<0.001] were associated with 
+severe complications.
+CONCLUSIONS: ASA-PS and long fusion could be indicators predicting perioperative 
+complications in patients with RA after cervical spine surgery. In addition, 
+cervical spine lesions requiring OC fusion or long fusion and high-dose 
+prednisolone use were suggested to be risk factors for increasing severe 
+complications.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s13075-022-02767-0
+PMCID: PMC8969231
+PMID: 35361268 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+3. Reg Anesth Pain Med. 2022 Jul;47(7):401-407. doi: 10.1136/rapm-2021-103307.
+Epub  2022 Mar 28.
+
+Evaluating the incidence of spinal cord injury after spinal cord stimulator 
+implant: an updated retrospective review.
+
+Hussain N(1)(2), Gill J(2), Speer J(1), Abdel-Rasoul M(3), Abd-Elsayed A(4), 
+Khan S(5), Nguyen A(1), Simopoulos T(2), Weaver T(6).
+
+Author information:
+(1)Anesthesiology, Ohio State University Wexner Medical Center, Columbus, Ohio, 
+USA.
+(2)Department of Anesthesiology, Critical Care and Pain Medicine, Beth Israel 
+Deaconess Medical Center, Harvard Medical School, Boston, Massachusetts, USA.
+(3)Center for Biostatistics, Ohio State University Wexner Medical Center, 
+Columbus, Ohio, USA.
+(4)Department of Anesthesiology, University of Wisconsin Madison School of 
+Medicine and Public Health, Madison, Wisconsin, USA.
+(5)Orthopedics, Ohio State University Wexner Medical Center, Columbus, Ohio, 
+USA.
+(6)Anesthesiology, Ohio State University Wexner Medical Center, Columbus, Ohio, 
+USA Tristan.Weaver@osumc.edu.
+
+INTRODUCTION: While spinal cord stimulator implant is an increasingly safe 
+procedure, one of the most feared complications is spinal cord injury. Still, 
+literature regarding its incidence remains highly variable. This retrospective 
+analysis aims to evaluate the incidence of spinal cord injury after spinal cord 
+stimulator implant using a large-scale claims database.
+METHODS: The PearlDiver-Mariner database of national all payer claims was used 
+to identify patients who underwent spinal cord stimulator implant (percutaneous 
+or paddle) and developed subsequent spinal cord injury within 45 days. The 
+primary outcome was to determine the overall incidence of spinal cord injury 
+after spinal cord stimulator implant. Secondary outcomes included an evaluation 
+of potential factors associated with developing spinal cord injury using 
+univariable and multivariable regression analysis.
+RESULTS: A total of 71,172 patients who underwent a spinal cord stimulator 
+implant were included in the analysis, of which 52,070 underwent percutaneous 
+and 19,102 underwent paddle spinal cord stimulator lead implant. The overall 
+incidence of spinal cord injury after spinal cord stimulator implant (any lead 
+type) was found to be 0.42% (302 patients). The incidence of spinal cord injury 
+after percutaneous and paddle lead implants did not differ at 0.45% (233 
+patients) and 0.36% (69 patients)(p=0.12), respectively. Overall, variables 
+associated with a significantly increased OR (95% confidence interval) of 
+developing spinal cord injury included male gender by 1.31 times (1.04 to 
+1.65)(p=0.02); having a claim for low molecular weight heparin within 30 days by 
+3.99 times (1.47 to 10.82)(p<0.01); a diagnosis for osteoporosis within 1 year 
+by 1.75 times (1.15 to 2.66)(p<0.01); and a diagnosis of cervical or thoracic 
+spinal canal stenosis within 1 year by 1.99 (1.37 to 2.90)(p<0.001) and 4.00 
+(2.63 to 6.09)(p<0.0001) times, respectively.
+CONCLUSIONS: Overall, our results support the notion that spinal cord stimulator 
+implant continues to be a safe procedure for chronic pain patients. However, 
+risk factor mitigation strategies for the prevention of spinal cord injury after 
+spinal cord stimulator implant should be undertaken prior to performing the 
+procedure.
+
+© American Society of Regional Anesthesia & Pain Medicine 2022. No commercial 
+re-use. See rights and permissions. Published by BMJ.
+
+DOI: 10.1136/rapm-2021-103307
+PMID: 35347081 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: TW provides consulting 
+services to Medtronic and received research support from Medtronic, Boston 
+Scientific, SPR, and Heron Pharmaceuticals. AA-E is a consultant of Medtronic, 
+Avanos and Averitas. TS provides consulting services to Boston Scientific, 
+Spectra Medical and Nevro.
+
+
+4. Comput Math Methods Med. 2022 Mar 19;2022:4957275. doi: 10.1155/2022/4957275. 
+eCollection 2022.
+
+The Value of DTI Parameters in Predicting Postoperative Spinal Cord Function 
+Fluctuations in Patients with High Cervical Disc Tumors.
+
+Wang L(1).
+
+Author information:
+(1)Department of Neurosurgery, The First Affiliated Hospital of USTC, Division 
+of Life Sciences and Medicine, University of Science and Technology of China, 
+Hefei, Anhui 230036, China.
+
+OBJECTIVE: To explore the characteristics of magnetic resonance diffusion tensor 
+imaging (DTI) parameters in patients with high cervical spinal myeloma and the 
+evaluation of postoperative spinal cord function.
+METHODS: In recent years, 42 patients with high cervical spine myeloma were 
+selected as the observation group, and 42 healthy volunteers were selected as 
+the control group during the same period. The apparent dispersion coefficient 
+(ADC), the fractional anisotropy (FA), the number of fiber bundles (FT), and the 
+fiber bundle ratio (FTR) were compared between the two groups. The correlation 
+between the ADC, FA, FT, FTR, and the International Standard for Neurological 
+Classification of Spinal Cord Injury (ISNCSCI) score in the observation group 
+were analyzed. Spinal cord function was evaluated using the Japanese Orthopaedic 
+Association Score (JOA). Logistic regression model was used to analyze the 
+factors affecting the recovery of spinal cord function after surgery. The 
+receiver operating characteristic curve (ROC) was used to analyze the value of 
+ADC, FA, FT, FTR1, and FTR2 in predicting the recovery of spinal cord function.
+RESULTS: The ADCs of the lesion layer and lower layer of the observation group 
+were higher than the middle and lower layers of the control group, the FA and FT 
+were lower than the middle and lower layers of the control group, and FTR1 and 
+FTR2 were lower than those of the control group (P < 0.05). The ADC of the 
+lesion layer in the observation group was negatively correlated with ISNCSCI 
+score, and the FA, FT, FTR1, FTR2, and ISNCSCI scores were positively correlated 
+(P < 0.05). Three months after the operation, JOA was used to evaluate the 
+spinal cord function, which was excellent in 23 cases and poor in 19 cases. 
+Logistic regression model analysis showed that after the ISNCSCI score was 
+controlled, the increase in ADC and the decrease in FA, FT, FTR1, and FTR2 of 
+the lesion layer were independent risk factors for poor postoperative body 
+function recovery (P < 0.05). ROC analysis showed that the combination of ADC, 
+FA, FT, FTR1, and FTR2 of the lesion layer predicted the AUC of spinal cord 
+functional recovery was 0.941, which was better than the single prediction (P < 
+0.05).
+CONCLUSION: The abnormal DTI parameter values of patients with high cervical 
+spinal myeloma can better reflect the lack of spinal cord function, and they can 
+effectively predict the recovery of the patient's body function after surgery, 
+providing a reference for clinical diagnosis and treatment.
+
+Copyright © 2022 Lin Wang.
+
+DOI: 10.1155/2022/4957275
+PMCID: PMC8957441
+PMID: 35345520 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.
+
+
+5. World Neurosurg. 2022 Jun;162:e468-e474. doi: 10.1016/j.wneu.2022.03.030. Epub
+ 2022 Mar 12.
+
+The Relationship Between Preoperative Cervical Sagittal Balance and Clinical 
+Outcome of Acute Traumatic Central Cord Syndrome.
+
+Xu GY(1), Lu X(1), Zhang YX(1), Xu S(2), Yu QF(1), Song J(1), Jiang JY(3).
+
+Author information:
+(1)Department of Orthopaedics, Huashan Hospital, Fudan University, Shanghai, 
+China.
+(2)Department of Orthopaedics, Shanghai 5th Hospital, Fudan University, 
+Shanghai, China.
+(3)Department of Orthopaedics, Huashan Hospital, Fudan University, Shanghai, 
+China. Electronic address: jianyuanjiang@sina.com.
+
+OBJECTIVE: To explore the sagittal radiological parameters related to clinical 
+recovery of patients with acute traumatic central cord syndrome (ATCCS) and 
+determine the diagnostic value of related variables.
+METHODS: A retrospective review was performed of 104 patients with ATCCS. Six 
+cervical sagittal balance parameters were collected: Cobb angle, T1 slope, neck 
+tilt, thoracic inlet angle (TIA), C2-C7 sagittal vertex axis, T1 slope - C2-C7 
+Cobb angle. The patients were assigned to an ideal improvement group and poor 
+improvement group according to their recovery rate. Receiver operating 
+characteristic curve and area under the curve were used to evaluate the 
+significant results of logistic regression and the optimal diagnostic value.
+RESULTS: Preoperative and postoperative Japanese Orthopaedic Association scores 
+indicated a good recovery after surgical intervention. Radiological findings 
+revealed that neck tilt and TIA were risk factors for poor neurological 
+improvement of patients with ATCCS. Area under the curve (95% confidence 
+interval) values of neck tilt and TIA were 0.763 (0.660-0.866) and 0.749 
+(0.643-0.855), and cutoff values were 39.1° and 65.6°, respectively.
+CONCLUSIONS: Lower neck tilt and TIA are risk factors for poor outcomes in 
+patients with ATCCS after surgery. Neck tilt <39° and TIA <66° had significant 
+diagnostic value for poor prognosis.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2022.03.030
+PMID: 35292408 [Indexed for MEDLINE]
+
+
+6. Global Spine J. 2022 Mar 12:21925682221083926. doi: 10.1177/21925682221083926.
+ Online ahead of print.
+
+To Cross the Cervicothoracic Junction? Terminating Posterior Cervical Fusion 
+Constructs Proximal to the Cervicothoracic Junction Does Not Impart Increased 
+Risk of Reoperation in Patients With Cervical Spondylotic Myelopathy.
+
+Couch BK(1), Patel SS(1), Talentino SE(2), Buldo-Licciardi M(2), 
+Evashwick-Rogler TW(2), Oyekan AA(1), Gannon EJ(1), Shaw JD(1), Donaldson WF(1), 
+Lee JY(1).
+
+Author information:
+(1)Department of Orthopaedic Surgery, 6595University of Pittsburgh Medical 
+Center, Pittsburgh, PA, USA.
+(2)12317School of Medicine, University of Pittsburgh, Pittsburgh, PA, USA.
+
+STUDY DESIGN: Retrospective cohort study.
+OBJECTIVES: To evaluate the effect of caudal instrumentation level on revision 
+rates following posterior cervical laminectomy and fusion.
+METHODS: A retrospective review of a prospectively collected database was 
+performed. Minimum follow-up was one year. Patients were divided into two groups 
+based on the caudal level of their index fusion construct (Group 1-cervical and 
+Group 2- thoracic). Reoperation rates were compared between the two groups, and 
+preoperative demographics and radiographic parameters were compared between 
+patients who required revision and those who did not. Multivariate binomial 
+regression analysis was performed to determine independent risk factors for 
+revision surgery.
+RESULTS: One hundred thirty-seven (137/204) patients received fusion constructs 
+that terminated at C7 (Group 1), while 67 (67/204) received fusion constructs 
+that terminated at T1 or T2 (Group 2). The revision rate was 8.33% in the 
+combined cohort, 7.3% in Group 1, and 10.4% in Group 2. There was no significant 
+difference in revision rates between the 2 groups (P = .43). Multivariate 
+regression analysis did not identify any independent risk factors for revision 
+surgery.
+CONCLUSION: This study shows no evidence of increased risk of revision in 
+patients with fusion constructs terminating in the cervical spine when compared 
+to patients with constructs crossing the cervicothoracic junction. These 
+findings support terminating the fusion construct proximal to the 
+cervicothoracic junction when indicated.
+LEVEL OF EVIDENCE: III.
+
+DOI: 10.1177/21925682221083926
+PMID: 35285337
+
+
+7. Biomed Res Int. 2022 Mar 1;2022:8040437. doi: 10.1155/2022/8040437.
+eCollection  2022.
+
+MRI T2WI High Signal Is a Risk Factor for Perioperative Complications in 
+Patients with Cervical Spondylosis with Spinal Cord Compression: A Propensity 
+Matching Score Analysis.
+
+Huang S(1), Sun X(1), Chen L(1), Yi M(1), Liang T(1), Jiang J(1), Chen J(1), Liu 
+C(1), Zhan X(1).
+
+Author information:
+(1)Spine and Osteopathy Ward, The First Affiliated Hospital of Guangxi Medical 
+University, No. 6 Shuangyong Road, Nanning, Guangxi 530021, China.
+
+OBJECTIVE: The purpose of this study was to compare the perioperative 
+complications and clinical efficacy of patients with cervical spondylosis with 
+spinal cord compression (CSWSCC) with or without MRI T2WIHS (T2-weighted image 
+high signal) by means of propensity matching score grouping.
+METHODS: We analyzed a single-center data of 913 surgical patients with CSWSCC 
+by propensity matching score in this study, of which 326 patients had 
+preoperative cervical MRI T2WIHS. The patient's general condition and 
+perioperative indicators were collected. The MRI T2WIHS and normal groups were 
+paired 1 : 1 to eliminate selection bias by propensity matching score. Finally, 
+a total of 312 pairs were matched successfully. The results of perioperative 
+complications and other outcome variables were compared between the two groups 
+by Cox function analysis.
+RESULTS: The postoperative blood loss, operation time, blood transfusion volume, 
+systemic complications, local complications, volume of drainage, abnormal use of 
+antibiotic, length of hospital stay, and JOA (Japanese Orthopaedic Association) 
+improvement rate were analyzed. As the only complication with significant 
+statistical difference, the incidence of IRI (ischemia-reperfusion injury) in 
+patients with MRI T2WIHS was significantly higher. The length of hospital stay 
+was more significantly increased in patients with MRI T2WIHS; on the contrary, 
+the JOA improvement rate decreased significantly.
+CONCLUSION: This study confirmed that there was no significant difference in the 
+incidence of perioperative complications in CSWSCC patients with or without MRI 
+T2WIHS, except for the IRI. Moreover, the JOA improvement rate of patients 
+without MRI T2WIHS was significantly better, with the length of hospital stay 
+reduced.
+
+Copyright © 2022 Shengsheng Huang et al.
+
+DOI: 10.1155/2022/8040437
+PMCID: PMC8904088
+PMID: 35274025 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+8. Int J Spine Surg. 2022 Apr;16(2):222-232. doi: 10.14444/8207. Epub 2022 Mar
+10.
+
+Anterior 1-2 Level Cervical Corpectomy and Fusion for Degenerative Cervical 
+Disease: A Retrospective Study With Lordotic Porous Tantalum Cages. Long-Term 
+Changes in Sagittal Alignment and Their Clinical and Radiological Implications 
+After Cage Subsidence.
+
+Tome-Bermejo F(1)(2), Álvarez-Galovich L(3), Piñera-Parrilla ÁR(4), 
+Mengis-Palleck CL(3), Cervera-Irimia J(3), Rodríguez-Bercial A(5), Moreno-Mateo 
+F(2), Sutil-Blanco Á(2).
+
+Author information:
+(1)Department of Spine, Fundación Jiménez Díaz University Hospital, Madrid, 
+Spain felixtome@hotmail.com.
+(2)Department of Orthopaedic Surgery and Traumatology, Villalba General 
+University Hospital, Madrid, Spain.
+(3)Department of Spine, Fundación Jiménez Díaz University Hospital, Madrid, 
+Spain.
+(4)Department of Orthopaedic Surgery and Traumatology, Cabueñes University 
+Hospital, Asturias, Spain.
+(5)Department of Physical Medicine and Rehabilitation, Rey Juan Carlos 
+University Hospital, Madrid, Spain.
+
+BACKGROUND: Despite the advances in anterior cervical corpectomy and fusion 
+(ACCF) as a reconstructive surgical technique, the rate of complications related 
+to artificial implants remains high. The purpose of this study was to 
+investigate the long-term clinical course of ACCF with tantalum trabecular metal 
+(TTM)-lordotic implants. Focus is placed on the relevance and influence of 
+implant subsidence on sagittal alignment and the related clinical implications.
+METHODS: Retrospective, observational study of prospectively collected outcomes 
+including 56 consecutive patients with degenerative cervical disc disease 
+(myelopathy and/or radiculopathy). All patients underwent 1-level or 2-level 
+ACCF with TTM-lordotic implants. The mean duration of follow-up was 4.85 years.
+RESULTS: The fusion rate at the end of follow-up was 98.11% (52/53). Implant 
+subsidence occurred in 44 (83.01%) cases, including slight subsistence (<3 mm) 
+in 37 (69.81%) and severe subsidence (>3 mm) in 7 cases (13.2%). The greatest 
+degree of subsidence developed in the first 3 months postoperatively (P = 
+0.003). No patients presented a significant increase in implant subsidence 
+beyond the second year of follow-up. The most common site of severe subsidence 
+was the anterior region of the cranial end plate (4/7). At the end of follow-up, 
+C1-C7 lordosis and segmental-Cobb angle of the fused segment increased on 
+average by 5.06 ± 8.26 and 1.98 ± 6.02 degrees, respectively, though this 
+difference failed to reach statistical significance (P > 0.05). Visual analog 
+scale and Neck Disability Index scores improved at the conclusion of follow-up 
+(P < 0.05).
+CONCLUSIONS: ACCF with anterior cervical reconstruction using TTM-lordotic 
+implants and anterior cervical plating for treatment of cervical degenerative 
+disease has high fusion rates and good clinical outcome. The osteoconductive 
+properties of TTM provide immediate stabilization and eliminate the need for 
+bone grafts to ensure solid bone fusion. Before fusion occurs, asymptomatic 
+implant settlement into the vertebral body is inevitable. However, lack of 
+parallelism and reduced contact surface between the implant and the vertebral 
+end plate are major risk factors for severe further subsidence, which may 
+negatively affect the clinical outcomes.
+
+This manuscript is generously published free of charge by ISASS, the 
+International Society for the Advancement of Spine Surgery. Copyright © 2022 
+ISASS. To see more or order reprints or permissions, see http://ijssurgery.com.
+
+DOI: 10.14444/8207
+PMCID: PMC9930671
+PMID: 35273111
+
+Conflict of interest statement: Declaration of Conflicting Interests: Félix 
+Tomé-Bermejo reports that he received a speaker honorarium from Zimmer Biomet, 
+Spineart, and DePuy Synthes. Luis Álvarez-Galovich reports that he is on the 
+speaker’s bureau for Spineart, Zimmer Biomet, and Nuvasive. Ángel 
+Piñera-Parrilla reports that he has received a speaker honorarium from Spineart.
+
+
+9. World Neurosurg. 2022 Jun;162:e301-e308. doi: 10.1016/j.wneu.2022.03.005. Epub
+ 2022 Mar 5.
+
+Analysis of Functional Outcomes and Risk Factors for Facet Joint Distraction 
+During Anterior Cervical Discectomy and Fusion for Cervical Spondylotic 
+Myelopathy.
+
+Ye W(1), Wang Z(1), Zhu Y(1), Cai W(2).
+
+Author information:
+(1)Department of Orthopaedics, First Affiliated Hospital of Nanjing Medical 
+University, Nanjing, Jiangsu, China.
+(2)Department of Orthopaedics, First Affiliated Hospital of Nanjing Medical 
+University, Nanjing, Jiangsu, China. Electronic address: caiwhspine@sina.com.
+
+OBJECTIVE: This study aimed to clarify functional outcomes of facet joint 
+distraction (FJD) and identify specific risk factors for excessive FJD during 
+single-level anterior cervical discectomy and fusion (ACDF) for cervical 
+spondylotic myelopathy (CSM).
+METHODS: This study retrospectively analyzed 100 patients who underwent 
+single-level ACDF for CSM from January 2016 to May 2020. Anteroposterior and 
+lateral radiographs were obtained before surgery and 12 months after surgery. 
+Radiographic parameters including anterior intervertebral height (AIH), 
+posterior intervertebral height, facet joint gap, cage posterior depth (CPD), 
+upper vertebral length, cervical segmental Cobb angle (CSCA), C2-C7 Cobb angle, 
+and C2-C7 sagittal vertical axis were analyzed. Functional outcomes were 
+evaluated using the modified Japanese Orthopedic Association Score, visual 
+analog scale (VAS), and Neck Disability Index (NDI).
+RESULTS: Comparison between the appropriate FJD and excessive FJD groups showed 
+statistically significant differences in the NDI, VAS, CPD, and ΔAIH (P < 0.05). 
+Multivariate logistic regression analysis showed that independent factors 
+associated with excessive FJD were as follows: a ΔAIH > 2.28 mm (odds ratio 
+[OR] = 6.792, 95% confidence interval [CI] = 1.885-24.470, P = 0.003), CPD 
+> 12.45 mm (OR = 5.876, 95% CI = 1.828-18.895, P = 0.003), and post-CSCA < 0° 
+(OR = 6.251, 95% CI = 1.275-30.633, P = 0.024). Furthermore, receiver operating 
+characteristic curve analysis for the multilevel logistic regression model 
+produced an area under the curve of 0.783 (P < 0.001).
+CONCLUSION: Patients with an FJD of >0.905 mm had worse NDI and VAS pain scores, 
+but not a poorer modified Japanese Orthopedic Association Score recovery rate. 
+Our findings suggested that a ΔAIH > 2.28 mm, CPD > 12.45 mm, and post-CSCA < 0° 
+were independent risk factors for excessive FJD after single-level ACDF for CSM.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2022.03.005
+PMID: 35259505 [Indexed for MEDLINE]
+
+
+10. Eur Spine J. 2022 May;31(5):1283-1290. doi: 10.1007/s00586-022-07154-6. Epub 
+2022 Mar 7.
+
+Classification and regression tree (CART) model to assist clinical prediction 
+for tracheostomy in patients with traumatic cervical spinal cord injury: a 
+7-year study of 340 patients.
+
+Sun D(1), Zhao H(2), Zhang Z(3).
+
+Author information:
+(1)Department of Orthopedics, Xinqiao Hospital, Army Military Medical 
+University, 183 Xinqiao Street, Shapingba District, Chongqing, 400037, China.
+(2)The Affiliated Huaihai Hospital of Xuzhou Medical University, Xuzhou, China. 
+ZHQ13852005991@163.com.
+(3)Department of Orthopedics, Xinqiao Hospital, Army Military Medical 
+University, 183 Xinqiao Street, Shapingba District, Chongqing, 400037, China. 
+zhangz3@126.com.
+
+OBJECTIVE: To develop a classification and regression tree (CART) model to 
+predict the need of tracheostomy in patients with traumatic cervical spinal cord 
+injury (TCSCI) and to quantify scores of risk factors to make individualized 
+clinical assessments.
+METHODS: The clinical characteristics of patients with TCSCI admitted to our 
+hospital from January 2014 to December 2020 were retrospectively analyzed. The 
+demographic characteristics (gender, age, smoking history), mechanism of injury, 
+injury characteristics (ASIA impairment grades, neurological level of 
+impairment, injury severity score), preexisting lung disease and preexisting 
+medical conditions were statistically analyzed. The risk factors of tracheostomy 
+were analyzed by univariate logistic regression analysis (ULRA) and multiple 
+logistic regression analysis (MLRA). The CART model was established to predict 
+tracheostomy.
+RESULTS: Three hundred and forty patients with TCSCI met the inclusion criteria, 
+in which 41 patients underwent the tracheostomy. ULRA and MLRA showed that 
+age > 50, ISS > 16, NLI > C5 and AIS A were significantly associated with 
+tracheostomy. The CART model showed that AIS A and NLI > C5 were at the first 
+and second decision node, which had a significant influence on the decision of 
+tracheostomy. The final scores for tracheostomy from CART algorithm, composed of 
+age, ISS, NLI and AIS A with a sensitivity of 0.78 and a specificity of 0.96, 
+could also predict tracheostomy.
+CONCLUSION: The establishment of CART model provided a certain clinical guidance 
+for the prediction of tracheostomy in TCSCI. Quantifications of risk factors 
+enable accurate prediction of individual patient risk of need for tracheostomy.
+
+© 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00586-022-07154-6
+PMID: 35254531 [Indexed for MEDLINE]
+
+
+11. Radiat Oncol. 2022 Mar 5;17(1):48. doi: 10.1186/s13014-022-02018-1.
+
+Dosimetric parameters and absolute monocyte count can predict the prognosis of 
+acute hematologic toxicity in cervical cancer patients undergoing concurrent 
+chemotherapy and volumetric-modulated arc therapy.
+
+Xiang X(1)(2), Ding Z(3)(4), Zeng Q(3)(4), Feng L(3)(4), Qiu C(3)(4), Chen 
+D(3)(4), Lu J(3)(4), Li N(5)(6).
+
+Author information:
+(1)Department of Radiation Oncology, National Cancer Center/National Clinical 
+Research Center for Cancer/Cancer Hospital & Shenzhen Hospital, Chinese Academy 
+of Medical Sciences and Peking Union Medical College, Shenzhen, 518116, China. 
+xiangxiaoyong16@163.com.
+(2)Department of Radiation Oncology, National Cancer Center/National Clinical 
+Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences 
+and Peking Union Medical College, Beijing, 100021, China. 
+xiangxiaoyong16@163.com.
+(3)Department of Radiation Oncology, National Cancer Center/National Clinical 
+Research Center for Cancer/Cancer Hospital & Shenzhen Hospital, Chinese Academy 
+of Medical Sciences and Peking Union Medical College, Shenzhen, 518116, China.
+(4)Department of Radiation Oncology, National Cancer Center/National Clinical 
+Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences 
+and Peking Union Medical College, Beijing, 100021, China.
+(5)Department of Radiation Oncology, National Cancer Center/National Clinical 
+Research Center for Cancer/Cancer Hospital & Shenzhen Hospital, Chinese Academy 
+of Medical Sciences and Peking Union Medical College, Shenzhen, 518116, China. 
+lee_ak@163.com.
+(6)Department of Radiation Oncology, National Cancer Center/National Clinical 
+Research Center for Cancer/Cancer Hospital, Chinese Academy of Medical Sciences 
+and Peking Union Medical College, Beijing, 100021, China. lee_ak@163.com.
+
+PURPOSE: To explore clinical and dosimetric predictors of acute hematologic 
+toxicity (HT) in cervical cancer patients treated with concurrent chemotherapy 
+and volumetric-modulated arc therapy (VMAT).
+METHODS AND MATERIALS: We retrospectively reviewed the clinical data of 184 
+cervical cancer patients who had concurrent chemotherapy and VMAT. Hematological 
+parameters were collected during the treatment period. The total pelvic bone 
+(TPB) was delineated retrospectively for dose-volume calculations. To compare 
+the differences between two groups, the normality test findings were used to run 
+a paired-samples t-test or Wilcoxon signed-rank test. Pearson's correlation 
+analysis or Spearman's correlation was used to testing the correlation between 
+the two variables. Binary logistic regression analysis was used to analyze 
+associations between HT and possible risk factors. The receiver operating 
+characteristic curve(ROC) was used to evaluate the best cut-off point for 
+dosimetric planning constraints.
+RESULTS: The nadir of absolute monocyte count (AMC) was found to be positively 
+correlated with the nadir of absolute white blood cells (WBC) count (r = 0.5378, 
+95% CI 0.4227-0.6357, P < 0.0001) and the nadir of absolute neutrophil 
+count(ANC) (r = 0.5000, 95% CI 0.3794-0.6039, P < 0.0001). The AMC decreased and 
+increased before the ANC and WBC. In multivariate logistic regression analysis, 
+the chemotherapy regimens and the TPB_V20 were independent risk factors for 
+developing grade ≥ 3 HT. The optimal TPB_V20 cut-off value identified by ROC 
+curves and the Youden test was 71% (AUC = 0.788; 95% CI 0.722-0.845; P 
+value < 0.001).
+CONCLUSIONS: The changing trend of AMC can be used as an effective predictor for 
+the timing and severity of the ANC/WBC nadirs and prophylactic G-CSF 
+administration. Maintain TPB_V20 < 71% and selecting single-agent cisplatin or 
+carboplatin could significantly reduce grade ≥ 3 HT in cervical cancer patients 
+undergoing concurrent chemoradiotherapy.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s13014-022-02018-1
+PMCID: PMC8898435
+PMID: 35248087 [Indexed for MEDLINE]
+
+Conflict of interest statement: None of the authors have any conflicts of 
+interest to declare.
+
+
+12. Clin Spine Surg. 2022 Jul 1;35(6):E527-E533. doi:
+10.1097/BSD.0000000000001299.  Epub 2022 Feb 28.
+
+Patient Factors Impacting Baseline Motor Evoked Potentials (MEPs) in Patients 
+Undergoing Cervical Spine Surgery for Myelopathy or Radiculopathy.
+
+DiMaria S(1), Wilent WB(2), Nicholson KJ(1), Tesdahl EA(2), Valiuskyte K(2), Mao 
+J(1), Seger P(1), Singh A(1), Sestokas AK(2), Vaccaro AR(1).
+
+Author information:
+(1)Department of Orthopaedic Surgery, Rothman Orthopaedic Institute at Thomas 
+Jefferson University Hospital, Philadelphia, PA.
+(2)Medical Department, SpecialtyCare, Brentwood, TN.
+
+STUDY DESIGN: Retrospective review of 2532 adults who underwent elective surgery 
+for cervical radiculopathy or myelopathy with intraoperative neuromonitoring 
+(IONM) with motor evoked potentials (MEPs) between 2017 and 2019.
+OBJECTIVE: Evaluate attainability of monitorable MEPs across demographic, health 
+history, and patient-reported outcomes measure (PROM) factors.
+SUMMARY OF BACKGROUND DATA: When baseline IONM responses cannot be obtained, the 
+value of IONM on mitigating the risk of postoperative deficits is marginalized 
+and a clinical decision to proceed must be made based, in part, on the 
+differential diagnosis of the unmonitorable MEPs. Despite known associations 
+with baseline MEPs and anesthetic regimen or preoperative motor strength, little 
+is known regarding associations with other patient factors.
+METHODS: Demographics, health history, and PROM data were collected 
+preoperatively. MEP baseline responses were reported as monitorable or 
+unmonitorable at incision. Multivariable logistic regression estimated the odds 
+of having at least one unmonitorable MEP from demographic and health history 
+factors.
+RESULTS: Age [odds ratio (OR)=1.031, P <0.001], sex (male OR=1.572, P =0.007), a 
+primary diagnosis of myelopathy (OR=1.493, P =0.021), peripheral vascular 
+disease (OR=2.830, P =0.009), type II diabetes (OR=1.658, P =0.005), and 
+hypertension (OR=1.406, P =0.040) were each associated with increased odds of 
+unmonitorable MEPs from one or more muscles; a history of thyroid disorder was 
+inversely related (OR=0.583, P =0.027). P atients with unmonitorable MEPs 
+reported less neck-associated disability and pain ( P <0.036), but worse SF-12 
+physical health and lower extremity (LE) and upper extremity function ( P 
+<0.016). Compared with radiculopathy, unmonitorable MEPs in myelopathy patients 
+more often involved LE muscles. Cord function was monitorable in 99.1% of 
+myelopathic patients with no reported LE dysfunction and no history of 
+hypertension or diabetes.
+CONCLUSION: Myelopathy, hypertension, peripheral vascular disease, diabetes, 
+and/or symptomatic LE dysfunction increased the odds of having unmonitorable 
+baseline MEPs. Unmonitorable baseline MEPs was uncommon in patients without 
+significant LE weakness, even in the presence of myelopathy.
+
+Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/BSD.0000000000001299
+PMID: 35221326 [Indexed for MEDLINE]
+
+Conflict of interest statement: Dr Vaccaro has consulted or has done independent 
+contracting for DePuy, Medtronic, Stryker Spine, Globus, Stout Medical, Gerson 
+Lehrman Group, Guidepoint Global, Medacorp, Innovative Surgical Design, 
+Orthobullets, Ellipse, and Vertex. He has also served on the scientific advisory 
+board/board of directors/committees for Flagship Surgical, AO Spine, Innovative 
+Surgical Design, and Association of Collaborative Spine Research. Dr Vaccaro has 
+received royalty payments from Medtronic, Stryker Spine, Globus, Aesculap, 
+Thieme, Jaypee, Elsevier, and Taylor Francis/Hodder and Stoughton. He has 
+stock/stock option ownership interests in Replication Medica, Globus, Paradigm 
+Spine, Stout Medical, Progressive Spinal Technologies, Advanced Spinal 
+Intellectual Properties, Spine Medica, Computational Biodynamics, Spinology, In 
+Vivo, Flagship Surgical, Cytonics, Bonovo Orthopaedics, Electrocore, Gamma 
+Spine, Location Based Intelligence, FlowPharma, R.S.I., Rothman Institute and 
+Related Properties, Innovative Surgical Design, and Avaz Surgical. In addition, 
+Dr Vaccaro has also provided expert testimony. He has also served as deputy 
+editor/editor of Clinical Spine Surgery . The remaining authors declare no 
+conflict of interest.
+
+
+13. Global Spine J. 2022 Feb;12(1_suppl):39S-54S. doi: 10.1177/21925682211036071.
+
+Degenerative Cervical Myelopathy: Development and Natural History [AO Spine 
+RECODE-DCM Research Priority Number 2].
+
+Nouri A(1), Tessitore E(1), Molliqaj G(1), Meling T(1), Schaller K(1), Nakashima 
+H(2), Yukawa Y(3), Bednarik J(4), Martin AR(5), Vajkoczy P(6), Cheng JS(7), Kwon 
+BK(8), Kurpad SN(9), Fehlings MG(10), Harrop JS(11), Aarabi B(12), 
+Rahimi-Movaghar V(13), Guest JD(14), Davies BM(15)(16), Kotter MRN(15)(16), 
+Wilson JR(10).
+
+Author information:
+(1)Division of Neurosurgery, Geneva University Hospitals, University of Geneva, 
+Geneva, Switzerland.
+(2)Department of Orthopedic Surgery, Nagoya University Graduate School of 
+Medicine, Nagoya, Japan.
+(3)Department of Orthopedic Surgery, Wakayama Medical University, Wakayama, 
+Japan.
+(4)Department of Neurology, University Hospital Brno and Faculty of Medicine, 
+Masaryk University, Brno, Czech Republic.
+(5)Department of Neurosurgery, University of California Davis, Sacramento, CA, 
+USA.
+(6)Department of Neurosurgery, Charité Universitätsmedizin, Berlin, Germany.
+(7)Department of Neurosurgery, University of Cincinnati, Cincinnati, OH, USA.
+(8)Vancouver Spine Surgery Institute, Department of Orthopedics, The University 
+of British Columbia, Vancouver, British Columbia, Canada.
+(9)Department of Neurosurgery, Medical College of Wisconsin, Wauwatosa, WI, USA.
+(10)Division of Neurosurgery and Spine Program, University of Toronto, Ontario, 
+Canada.
+(11)Department of Neurological Surgery, Thomas Jefferson University, 
+Philadelphia, PA, USA.
+(12)Department of Neurosurgery, University of Maryland, Baltimore, MD, USA.
+(13)Department of Neurosurgery, Sina Trauma and Surgery Research Center, Tehran 
+University of Medical Sciences, Tehran, Iran.
+(14)Department of Neurosurgery and The Miami Project to Cure Paralysis, The 
+Miller School of Medicine, University of Miami, FL, USA.
+(15)Department of Neurosciences, University of Cambridge, Cambridge, United 
+Kingdom.
+(16)Myelopathy.org, International Charity for Degenerative Cervical Myelopathy, 
+United Kingdom.
+
+STUDY DESIGN: Narrative review.
+OBJECTIVES: To discuss the current understanding of the natural history of 
+degenerative cervical myelopathy (DCM).
+METHODS: Literature review summarizing current evidence pertaining to the 
+natural history and risk factors of DCM.
+RESULTS: DCM is a common condition in which progressive arthritic disease of the 
+cervical spine leads to spinal cord compression resulting in a constellation of 
+neurological symptoms, in particular upper extremity dysfunction and gait 
+impairment. Anatomical factors including cord-canal mismatch, congenitally fused 
+vertebrae and genetic factors may increase individuals' risk for DCM 
+development. Non-myelopathic spinal cord compression (NMSCC) is a common 
+phenomenon with a prevalence of 24.2% in the healthy population, and 35.3% among 
+individuals >60 years of age. Clinical radiculopathy and/or electrophysiological 
+signs of cervical cord dysfunction appear to be risk factors for myelopathy 
+development. Radiological progression of incidental Ossification of the 
+Posterior Longitudinal Ligament (OPLL) is estimated at 18.3% over 81-months and 
+development of myelopathy ranges between 0-61.5% (follow-up ranging from 40 to 
+124 months between studies) among studies. In patients with symptomatic DCM 
+undergoing non-operative treatment, 20-62% will experience neurological 
+deterioration within 3-6 years.
+CONCLUSION: Current estimates surrounding the natural history of DCM, 
+particularly those individuals with mild or minimal impairment, lack precision. 
+Clear predictors of clinical deterioration for those treated with non-operative 
+care are yet to be identified. Future studies are needed on this topic to help 
+improve treatment counseling and clinical prognostication.
+
+DOI: 10.1177/21925682211036071
+PMCID: PMC8859703
+PMID: 35174726
+
+Conflict of interest statement: Declaration of Conflicting Interests: The 
+author(s) declared no potential conflicts of interest with respect to the 
+research, authorship, and/or publication of this article.
+
+
+14. Int J Med Sci. 2022 Jan 9;19(2):299-309. doi: 10.7150/ijms.66533. eCollection
+ 2022.
+
+The Spectrum of Malignant Neoplasms among Liver Transplant Recipients: 
+Sociodemographic Factors, Mortality, and Hospital Burden.
+
+Haider M(1), Bapatla A(1), Ismail R(1), Chaudhary AJ(1), Iqbal S(1), Haider 
+SM(1).
+
+Author information:
+(1)Department of Internal Medicine, Detroit Medical Center/Wayne State 
+University-Sinai Grace Hospital, Detroit, USA.
+
+Objective: To determine the nationwide prevalence of malignant neoplasms 
+(excluding hepatocellular carcinoma-HCC) in hospitalized liver transplant 
+recipients and to study the hospital utilization, and mortality to the incidence 
+of malignancies. To the best of our knowledge, few epidemiological studies 
+addressed outcomes in post-liver transplant patients, such as the annual number 
+of hospitalizations, mortality, patient characteristics regarding malignancies. 
+Methods: NIS database was queried between 2016 and 2018 to retrieve records of 
+patients admitted with a principal or secondary diagnosis of liver transplant 
+following the International Classification of Diseases, tenth Revision (ICD-10). 
+The population was divided into case and control groups according to the 
+presence and absence of malignant neoplasm (MN) except for HCC. We also compared 
+the incidence of MN in LTX patients and non-LTX matched cohort. Results: A total 
+of 7.28% admissions were associated with malignant neoplasms (except HCC) in LTX 
+patients. Lymphomas, respiratory, gastrointestinal (excluding HCC), leukemia, 
+and head/neck were commonest cancers with estimated admission rates of 0.97%, 
+0.90%, 0.80%, 0.53%, and 0.49%, respectively. Lung cancer was the most frequent 
+malignant neoplasm among White and Black racial/ethnic groups (15.78% and 
+14.8%), whereas lymphoma was pervasive among Hispanics (20.3%). Lung cancer had 
+the highest in-hospital mortality (10.55%), followed by the cancer of the 
+nervous system (9.09%). The LTX and non-LTX cohort comparison showed that LTX 
+patients are at increased risk of head and neck cancers, skin cancers, 
+lymphomas, tumors, and Myelodysplastic syndrome. According to a multivariate 
+analysis, a statistically significant association existed between malignant 
+neoplasms in LTX patients and the following factors: increasing age (P < .001), 
+higher mortality (P < .001), females with 29% lesser odds than males (P < .001), 
+Black race and Hispanic ethnicity with 20% and 26% lesser odds as compared to 
+White (P < .05). Clinical factors included smoking, Alcoholic cirrhosis, 
+Hepatitis B, and Hepatitis C, were statistically significant risk factors of 
+post-liver transplantation malignancies. Conclusions: Malignancies were frequent 
+among elderly patients and predominantly in males. Lymphoproliferative diseases 
+were the most prevalent malignancy types, followed by respiratory/lung cancer- 
+which showed the highest mortality risk of all cancers. LTX patients are at 
+increased risk of head and neck cancers, skin cancers, lymphoma, tumors, and 
+Myelodysplastic syndrome compared to non-LTX patients.
+
+© The author(s).
+
+DOI: 10.7150/ijms.66533
+PMCID: PMC8795812
+PMID: 35165515 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing Interests: The authors have declared 
+that no competing interest exists.
+
+
+15. Medicine (Baltimore). 2022 Feb 4;101(5):e28743. doi: 
+10.1097/MD.0000000000028743.
+
+The influence of carotid atherosclerosis on surgical outcomes of patients with 
+cervical spondylotic myelopathy: A retrospective study.
+
+Li B(1), Liu S(2), Wang Y(3), Zhao J(4), Song Y(4), Xu W(4), Zhang C(4), Gao 
+C(4), Zhao Q(5), Wu D(4).
+
+Author information:
+(1)Health Management Center, The Second Hospital, Cheeloo College of Medicine, 
+Shandong University, Shandong, PR China.
+(2)Department of Radiology, Affiliated Hospital of Shandong University of 
+Traditional Chinese Medicine, Shandong, PR China.
+(3)Department of Cardiology, The Second Hospital, Cheeloo College of Medicine, 
+Shandong University,Shandong, PR China.
+(4)Department of Spine Surgery, The Second Hospital, Cheeloo College of 
+Medicine, Shandong University, Shandong, PR China.
+(5)Department of cardiovascular, Jinan Central Hospital, Cheeloo College of 
+Medicine, Shandong University, Shandong, PR China.
+
+The appearance of atherosclerosis in the carotid artery may be suggest the 
+possibility of atherosclerosis in the spinal cord artery, which can cause spinal 
+cord ischemia and further lead to neural element damage.According to the 
+inclusion and exclude standard, there are 137 patients with cervical spondylotic 
+myelopathy (CSM) incorporating retrospective analysis. These patients were 
+consecutively admitted into The Second Hospital- Cheeloo College of 
+Medicine-Shandong University from January 2016 to December 2018 and have 
+accepted surgical treatment. All patients were examined by color Doppler 
+ultrasound to detect carotid atherosclerosis before surgery. All patients were 
+divided into 2 groups according to the presence or absence of carotid 
+atherosclerosis: carotid atherosclerosis group (n = 88) and noncarotid 
+atherosclerosis group (n = 49). All patients were followed up for at least 
+12 months after surgery. Demographic and surgery-related data were collected and 
+analyzed to identify potential factors that affect the surgical outcomes in 
+CSM.The average age of carotid atherosclerosis group (51 males and 37 females), 
+and noncarotid atherosclerosis group (24 males and 25 females) were 
+62.02 ± 10.34 years (range, 38-85 years) and 49.61 ± 10.28 years (range, 
+26-67 years), respectively.In carotid atherosclerosis group: pre and 
+postoperative modify Japanese Orthopedic Association Scores (mJOA score) were 
+11.58 ± 1.82 and 14.36 ± 1.64; the recovery rate of mJOA score was 
+45.57% ± 13.28%. In noncarotid atherosclerosis group: pre and postoperative mJOA 
+score were 12.00 ± 2.11 and 15.04 ± 1.70; the recovery rate of mJOA score was 
+53.90% ± 13.22%. Univariate logistic regression analysis demonstrated that 
+gender (P = .004), age ≥65 years (P = .001), duration of symptoms ≥12 months 
+(P = .040), smoking history (P < .001), preoperative mJOA score ≤11 (P = .007) 
+and carotid atherosclerosis (P = .004) were related to poor surgical outcomes. 
+Multivariate logistic regression analysis showed significant correlations 
+between poor surgical outcomes and age ≥65 years (P = .047), smoking history 
+(P = .010), preoperative mJOA score ≤11 (P = .008) or carotid atherosclerosis 
+(P = .047).Carotid atherosclerosis may be a risk factor for poor surgical 
+outcomes in CSM.
+
+Copyright © 2022 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000028743
+PMCID: PMC8812591
+PMID: 35119027 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no funding and conflicts of 
+interests to disclose.
+
+
+16. J Spinal Cord Med. 2022 Feb 2:1-7. doi: 10.1080/10790268.2022.2027323. Online
+ ahead of print.
+
+Incidence and risk factors of pneumonia following acute traumatic cervical 
+spinal cord Injury.
+
+Hayashi T(1)(2), Fujiwara Y(3), Kawano O(2), Yamamoto Y(4), Kubota K(1)(2), 
+Sakai H(2), Masuda M(2), Morishita Y(2), Kobayakawa K(2), Yokota K(2), Kaneyama 
+H(2), Maeda T(2).
+
+Author information:
+(1)Department of Rehabilitation Medicine, Japan Organization of Occupational 
+Health and Safety, Spinal Injuries Center, Fukuoka, Japan.
+(2)Department of Orthopaedic Surgery, Japan Organization of Occupational Health 
+and Safety, Spinal Injuries Center, Fukuoka, Japan.
+(3)Nursing Department, Japan Organization of Occupational Health and Safety, 
+Spinal Injuries Center, Fukuoka, Japan.
+(4)Research Institute for Diseases of the Chest, Graduate School of Medical 
+Sciences, Kyushu University, Fukuoka, Japan.
+
+OBJECTIVES: To elucidate the incidence and risk factors for pneumonia after 
+acute traumatic cervical spinal cord injury (CSCI).
+DESIGN: Retrospective cohort study.Setting: Spinal injuries center in 
+Japan.Participants: Of 184 individuals who were admitted within 2 weeks after 
+acute traumatic cervical spinal injuries, 167 individuals who met the criteria 
+were included in this study.Interventions: The occurrence of pneumonia, degree 
+of dysphagia using the Dysphagia Severity Scale, patient age, history of 
+smoking, presence of tracheostomy, vital capacity, level of injury, and the 
+American Spinal Injury Association Impairment Scale (AIS) 2 weeks after injury 
+were assessed.Outcomes: Incidence of pneumonia were analyzed. Moreover, the risk 
+factors of pneumonia were evaluated using logistic regression analysis.
+RESULTS: From the 167 individuals who met the criteria, 30 individuals (18%) had 
+pneumonia; in 26 (87%) of these individuals, pneumonia was aspiration related, 
+defined as Dysphagia Severity Scale ≤ 4. The median occurrence of aspiration 
+pneumonia was 11.5 days after injury. A logistic regression analysis revealed 
+that severe AIS and severe Dysphagia Severity Scale scores were significant risk 
+factors of pneumonia after CSCI.
+CONCLUSIONS: It was highly likely that the pneumonias following CSCI were 
+related to aspiration based on the Dysphagia Severity Scale. In addition, most 
+of the patients developed aspiration pneumonia within 1 month after injury. 
+Aspiration and severe paralysis were significant risk factors for pneumonia. The 
+treatment of dysphagia in the acute phase should be considered an important 
+indicator to prevent pneumonia.
+
+DOI: 10.1080/10790268.2022.2027323
+PMID: 35108170
+
+
+17. J Neurosurg Spine. 2022 Jan 28:1-8. doi: 10.3171/2021.12.SPINE21874. Online 
+ahead of print.
+
+Social risk factors predicting outcomes of cervical myelopathy surgery.
+
+Rethorn ZD(1)(2), Cook CE(1)(3), Park C(4), Somers T(3), Mummaneni PV(5), Chan 
+AK(5), Pennicooke BH(6), Bisson EF(7), Asher AL(8), Buchholz AL(9), Bydon M(10), 
+Alvi MA(10), Coric D(8), Foley KT(11), Fu KM(12), Knightly JJ(13), Meyer S(13), 
+Park P(14), Potts EA(15), Shaffrey CI(4), Shaffrey M(9), Than KD(4), Tumialan 
+L(16), Turner JD(16), Upadhyaya CD(17), Wang MY(18), Gottfried O(4).
+
+Author information:
+(1)1Department of Orthopaedics, Duke University, Durham.
+(2)19Center of Innovation to Accelerate Discovery and Practice Transformation, 
+Durham VA Medical Center, Durham, North Carolina.
+(3)3Duke Clinical Research Institute, Duke University, Durham, North Carolina.
+(4)15Department of Neurosurgery, Duke University School of Medicine, Durham, 
+North Carolina.
+(5)4Department of Neurological Surgery, University of California, San Francisco, 
+California.
+(6)5Department of Neurosurgery, Washington University in St. Louis, Missouri.
+(7)6Department of Neurosurgery, Clinical Neurosciences Center, University of 
+Utah, Salt Lake City, Utah.
+(8)7Department of Neurosurgery, Carolina Neurosurgery and Spine Associates and 
+Neuroscience Institute, Carolinas HealthCare System, Charlotte, North Carolina.
+(9)8Department of Neurosurgery, University of Virginia Health System, 
+Charlottesville, Virginia.
+(10)9Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+(11)10Department of Neurosurgery, University of Tennessee and Semmes-Murphey 
+Clinic, Memphis, Tennessee.
+(12)11Department of Neurological Surgery, Weill Cornell Medicine, New York, New 
+York.
+(13)12Altair Health Spine and Wellness, Morristown, New Jersey.
+(14)13Department of Neurosurgery, University of Michigan, Ann Arbor, Michigan.
+(15)14Goodman Campbell Brain and Spine, Indianapolis, Indiana.
+(16)16Barrow Neurological Institute, Phoenix, Arizona.
+(17)17Saint Luke's Neurological and Spine Surgery, Kansas City, Missouri.
+(18)18Department of Neurological Surgery, University of Miami Miller School of 
+Medicine, Miami, Florida; and.
+
+OBJECTIVE: Combinations of certain social risk factors of race, sex, education, 
+socioeconomic status (SES), insurance, education, employment, and one's housing 
+situation have been associated with poorer pain and disability outcomes after 
+lumbar spine surgery. To date, an exploration of such factors in patients with 
+cervical spine surgery has not been conducted. The objective of the current work 
+was to 1) define the social risk phenotypes of individuals who have undergone 
+cervical spine surgery for myelopathy and 2) analyze their predictive capacity 
+toward disability, pain, quality of life, and patient satisfaction-based 
+outcomes.
+METHODS: The Cervical Myelopathy Quality Outcomes Database was queried for the 
+period from January 2016 to December 2018. Race/ethnicity, educational 
+attainment, SES, insurance payer, and employment status were modeled into unique 
+social phenotypes using latent class analyses. Proportions of social groups were 
+analyzed for demonstrating a minimal clinically important difference (MCID) of 
+30% from baseline for disability, neck and arm pain, quality of life, and 
+patient satisfaction at the 3-month and 1-year follow-ups.
+RESULTS: A total of 730 individuals who had undergone cervical myelopathy 
+surgery were included in the final cohort. Latent class analysis identified 2 
+subgroups: 1) high risk (non-White race and ethnicity, lower educational 
+attainment, not working, poor insurance, and predominantly lower SES), n = 268, 
+36.7% (class 1); and 2) low risk (White, employed with good insurance, and 
+higher education and SES), n = 462, 63.3% (class 2). For both 3-month and 1-year 
+outcomes, the high-risk group (class 1) had decreased odds (all p < 0.05) of 
+attaining an MCID score in disability, neck/arm pain, and health-related quality 
+of life. Being in the low-risk group (class 2) resulted in an increased odds of 
+attaining an MCID score in disability, neck/arm pain, and health-related quality 
+of life. Neither group had increased or decreased odds of being satisfied with 
+surgery.
+CONCLUSIONS: Although 2 groups underwent similar surgical approaches, the social 
+phenotype involving non-White race/ethnicity, poor insurance, lower SES, and 
+poor employment did not meet MCIDs for a variety of outcome measures. This 
+finding should prompt surgeons to proactively incorporate socially conscience 
+care pathways within healthcare systems, as well as to optimize community-based 
+resources to improve outcomes and personalize care for populations at social 
+risk.
+
+DOI: 10.3171/2021.12.SPINE21874
+PMID: 35090132
+
+
+18. Amyotroph Lateral Scler Frontotemporal Degener. 2022 Nov;23(7-8):592-600.
+doi:  10.1080/21678421.2022.2028167. Epub 2022 Jan 27.
+
+Environmental risk factors for amyotrophic lateral sclerosis: a case-control 
+study in Canada and France.
+
+Beaudin M(1)(2), Salachas F(3)(4), Pradat PF(3)(5)(6), Dupré N(1)(2).
+
+Author information:
+(1)Axe Neurosciences, CHU de Québec-Université Laval, Québec, Canada.
+(2)Department of Medicine, Faculty of Medicine, Université Laval, Quebec City, 
+Canada.
+(3)CNRS, INSERM, Laboratoire d'Imagerie Biomédicale, Sorbonne Université, Paris, 
+France.
+(4)ICM, Institut du Cerveau, Inserm, CNRS, Sorbonne Université, Hôpital 
+Pitié-Salpêtrière, Paris, France.
+(5)Département de Neurologie, APHP, Hôpital Pitié-Salpêtrière, Paris, France, 
+and.
+(6)Northern Ireland Centre for Stratified Medicine, Biomedical Sciences Research 
+Institute Ulster University, C-TRIC, Altnagelvin Hospital, Derry/Londonderry, 
+UK.
+
+Objective: To evaluate the association between amyotrophic lateral sclerosis 
+(ALS) and potential environmental risk factors, especially head traumas and 
+pesticides, in two populations from Canada and France.Methods: A case-control 
+study was performed in tertiary-care centers. Consecutive ALS cases were 
+recruited along with a control group from the same age distribution and region. 
+Participants answered a phone-administered questionnaire. Head trauma exposure 
+was censored at age of symptom onset, and a sensitivity analysis considering old 
+head traumas that occurred more than 3 years before onset was performed. 
+Univariate and multivariate logistic regression were used to estimate odds 
+ratios (ORs) and their 95% confidence intervals (CIs).Results: A total of 404 
+ALS cases and 381 controls completed the questionnaire. Previous head trauma was 
+more frequently reported by cases (adjusted OR 1.50 (1.05-2.18)) with a 
+dose-response relationship. This association was driven by a strong effect in 
+men (adjusted OR 2.06 (1.22-3.55)) and was consistent for old traumas, but there 
+was no association in women. For pesticides, a previous high-risk occupation was 
+associated with ALS (adjusted OR 2.08 (1.36-3.24)), although reported 
+occupational exposure to pesticides was not statistically significant in the 
+multivariate model (adjusted OR 1.67 (0.97-2.97)). Past electrocution was 
+associated with ALS (adjusted OR 1.79 (CI 1.13-2.87)), especially spinal-onset 
+ALS. Residential exposure to pesticides, neck trauma, and welding were not 
+associated with ALS.Conclusions: Head trauma is a risk factor for ALS in men 
+only. Previous occupation at high risk for pesticides exposure and electrocution 
+are also risk factors for ALS.
+
+DOI: 10.1080/21678421.2022.2028167
+PMID: 35084274 [Indexed for MEDLINE]
+
+
+19. Dis Markers. 2022 Jan 17;2022:5389162. doi: 10.1155/2022/5389162. eCollection
+ 2022.
+
+Decreased Adiponectin Levels Are a Risk Factor for Cognitive Decline in Spinal 
+Cord Injury.
+
+Liu FJ(1), Xu HH(2), Yin Y(3), Chen YZ(1), Xie LY(1), Li HZ(1), Wang DD(1), Shi 
+B(1).
+
+Author information:
+(1)Bone Biomechanics Engineering Laboratory of Shandong Province, Shandong 
+Medicinal Biotechnology Center (School of Biomedical Sciences), Neck-Shoulder 
+and Lumbocrural Pain Hospital of Shandong First Medical University, Shandong 
+First Medical University & Shandong Academy of Medical Sciences, Jinan, 250062 
+Shandong Province, China.
+(2)Department of Trauma Bone Surgery, The Affiliated Hospital of Shandong 
+University of TCM, Jinan, 250014 Shandong Province, China.
+(3)Department of Acupuncture, The Affiliated Hospital of Shandong University of 
+TCM, Jinan, 250014 Shandong Province, China.
+
+OBJECTIVE: Spinal cord injury (SCI) has become popular in recent years, and 
+cognitive decline is a common complication. Adiponectin is a common protein 
+hormone involved in the course of many diseases, but its relationship with SCI 
+has not yet been elucidated. The purpose of our prospective study is to explore 
+whether adiponectin can be used as a biomarker of cognitive decline in SCI.
+METHODS: A total of 64 healthy volunteers and 92 patients with acute SCI were 
+recruited by us. Serum adiponectin levels, demographic data (age and gender), 
+lifestyle (smoking and drinking), medical history (diabetes and hypertension), 
+and clinical baseline data (low-density lipoprotein, high-density lipoprotein, 
+and fasting blood glucose) were recorded. Three months after enrollment, we used 
+the Montreal Cognitive Assessment (MoCA) to evaluate cognitive function. Based 
+on a quarter of the serum adiponectin levels, SCI patients were divided into 4 
+groups, and the differences in their MoCA scores were compared. In addition, we 
+used multivariate linear regression to predict the risk factors of the MoCA 
+score.
+RESULTS: The serum adiponectin level (6.1 ± 1.1 μg/ml) of SCI patients was 
+significantly lower than that of the healthy control group (6.7 ± 0.9 μg/ml), 
+and there was a significant difference between the two (p < 0.001). The group 
+with higher serum adiponectin levels after 3 months of spinal cord injury had 
+higher MoCA scores. Multivariate regression analysis showed that serum 
+adiponectin level is a protective factor for cognitive function after SCI (β = 
+0.210, p = 0.043).
+CONCLUSIONS: Serum adiponectin levels can be used as an independent predictor of 
+cognitive function in patients with acute SCI.
+
+Copyright © 2022 Fan-jie Liu et al.
+
+DOI: 10.1155/2022/5389162
+PMCID: PMC8786530
+PMID: 35082930 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflict of interest.
+
+
+20. J Neurosurg Spine. 2022 Jan 21:1-10. doi: 10.3171/2021.11.SPINE211260. Online
+ ahead of print.
+
+High-impact chronic pain transition in surgical recipients with cervical 
+spondylotic myelopathy.
+
+Cook CE(1)(2)(3), George SZ(1)(2), Asher AL(4), Bisson EF(5), Buchholz AL(6), 
+Bydon M(7), Chan AK(8), Haid RW(9), Mummaneni PV(8), Park P(10), Shaffrey 
+CI(11), Than KD(11), Tumialan LM(12), Wang MY(13), Gottfried ON(11).
+
+Author information:
+(1)1Department of Orthopaedics, Duke University, Durham, North Carolina.
+(2)2Duke Clinical Research Institute, Duke University, Durham, North Carolina.
+(3)3Department of Population Health Sciences, Durham, North Carolina.
+(4)4Department of Neurosurgery, Carolina Neurosurgery and Spine Associates and 
+Neuroscience Institute, Carolinas HealthCare System, Charlotte, North Carolina.
+(5)5Department of Neurosurgery, Clinical Neurosciences Center, University of 
+Utah, Salt Lake City, Utah.
+(6)6Department of Neurosurgery, University of Virginia Health System, 
+Charlottesville, Virginia.
+(7)7Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+(8)8Department of Neurological Surgery, University of California, San Francisco, 
+California.
+(9)9PPG Atlanta Brain and Spine Care, Atlanta, Georgia.
+(10)10Department of Neurosurgery, University of Michigan, Ann Arbor, Michigan.
+(11)11Department of Neurosurgery, Duke University School of Medicine, Durham, 
+North Carolina.
+(12)12Barrow Neurological Institute, Phoenix, Arizona; and.
+(13)13Department of Neurological Surgery, University of Miami Miller School of 
+Medicine, Miami, Florida.
+
+OBJECTIVE: High-impact chronic pain (HICP) is a recently proposed metric that 
+indicates the presence of a severe and troubling pain-related condition. Surgery 
+for cervical spondylotic myelopathy (CSM) is designed to halt disease transition 
+independent of chronic pain status. To date, the prevalence of HICP in 
+individuals with CSM and their HICP transition from presurgery is unexplored. 
+The authors sought to define HICP prevalence, transition, and outcomes in 
+patients with CSM who underwent surgery and identify predictors of these HICP 
+transition groups.
+METHODS: CSM surgical recipients were categorized as HICP at presurgery and 3 
+months if they exhibited pain that lasted 6-12 months or longer with at least 
+one major activity restriction. HICP transition groups were categorized and 
+evaluated for outcomes. Multivariate multinomial modeling was used to predict 
+HICP transition categorization.
+RESULTS: A majority (56.1%) of individuals exhibited HICP preoperatively; this 
+value declined to 15.9% at 3 months (71.6% reduction). The presence of HICP was 
+also reflective of other self-reported outcomes at 3 and 12 months, as most 
+demonstrated notable improvement. Higher severity in all categories of 
+self-reported outcomes was related to a continued HICP condition at 3 months. 
+Both social and biological factors predicted HICP translation, with social 
+factors being predominant in transitioning to HICP (from none preoperatively).
+CONCLUSIONS: Many individuals who received CSM surgery changed HICP status at 3 
+months. In a surgical population where decisions are based on disease 
+progression, most of the changed status went from HICP preoperatively to none at 
+3 months. Both social and biological risk factors predicted HICP transition 
+assignment.
+
+DOI: 10.3171/2021.11.SPINE211260
+PMID: 35061992

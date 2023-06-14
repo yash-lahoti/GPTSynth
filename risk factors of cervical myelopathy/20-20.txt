@@ -1,0 +1,1130 @@
+1. Clin Neurol Neurosurg. 2023 Apr;227:107637. doi:
+10.1016/j.clineuro.2023.107637.  Epub 2023 Feb 19.
+
+Prognostic and risk factors for the surgical efficacy of central spinal cord 
+syndrome in patients with preexisting degenerative cervical spinal cord 
+compression.
+
+Lu C(1), Wang X(1), Wang Z(1), Duan W(1), Wang K(1), Chen Z(1), Wu H(1), Jian 
+F(2).
+
+Author information:
+(1)Division of Spine, Department of Neurosurgery, Xuanwu Hospital, Capital 
+Medical University, Beijing, China; Neurospine Center, China International 
+Neuroscience Institute (CHINA-INI), National Center for Neurological Disorders, 
+Beijing, China; Research Center of Spine and Spinal Cord, Beijing Institute of 
+Brain Disorders, Capital Medical University, Beijing, China; Lab of Spinal Cord 
+Injury and Functional Reconstruction, China International Neuroscience Institute 
+(CHINA-INI), Beijing, China.
+(2)Division of Spine, Department of Neurosurgery, Xuanwu Hospital, Capital 
+Medical University, Beijing, China; Neurospine Center, China International 
+Neuroscience Institute (CHINA-INI), National Center for Neurological Disorders, 
+Beijing, China; Research Center of Spine and Spinal Cord, Beijing Institute of 
+Brain Disorders, Capital Medical University, Beijing, China; Lab of Spinal Cord 
+Injury and Functional Reconstruction, China International Neuroscience Institute 
+(CHINA-INI), Beijing, China. Electronic address: jianfengzeng@xwh.ccmu.edu.cn.
+
+OBJECTIVES: To analyze the prognostic and risk factors related to surgical 
+treatment of central spinal cord syndrome (CSS) and to find out the optimal 
+timing of operative management.
+METHODS: From January 2011 to January 2019, a consecutive series of 128 patients 
+with CSS confirmed by magnetic resonance imaging (MRI) were retrospectively 
+analyzed including their clinical records and radiologic data from a 
+prospectively maintained database in a single center.
+RESULTS: According to the prognosis evaluated by the modified Japanese 
+Orthopedic Association (mJOA), American Spinal Injury Association (ASIA) motor 
+score (AMS), and ASIA impairment scale (AIS) grade, the overall postoperative 
+outcome was good. Finally, it was found that surgical timing, presence of 
+myelopathy or not at baseline, AMS at admission, and compression ratio were 
+independent factors affecting the prognosis. Surgery as soon as possible after 
+the occurrence of CSS is still advocated.
+CONCLUSION: Cervical myelopathy at baseline, compression ratio, and AMS score on 
+admission were independent prognostic factors for the surgical treatment of CSS. 
+If surgical indications are clear, early surgical intervention should be 
+actively considered.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.clineuro.2023.107637
+PMID: 36857885 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interest The authors declare that 
+they have no conflict of interest.
+
+
+2. Acta Neurochir (Wien). 2023 May;165(5):1133-1140. doi: 
+10.1007/s00701-023-05515-8. Epub 2023 Mar 1.
+
+Life expectancy in patients with degenerative cervical myelopathy is currently 
+reduced but can be restored with timely treatment.
+
+Davies BM(1)(2)(3), Stubbs D(4), Gillespie CS(5), Grodzinski B(4), Venkatesh 
+A(5), Guilfoyle M(5), Kotter MRN(5)(6), Laing R(5).
+
+Author information:
+(1)Department of Clinical Neurosurgery, University of Cambridge, Cambridge, UK. 
+Bd375@cam.ac.uk.
+(2)University Department of Anaesthesiae, University of Cambridge, Cambridge, 
+UK. Bd375@cam.ac.uk.
+(3), Myelopathy.Org, Cambridge, UK. Bd375@cam.ac.uk.
+(4)University Department of Anaesthesiae, University of Cambridge, Cambridge, 
+UK.
+(5)Department of Clinical Neurosurgery, University of Cambridge, Cambridge, UK.
+(6), Myelopathy.Org, Cambridge, UK.
+
+PURPOSE: Degenerative cervical myelopathy is a progressive slow-motion spinal 
+cord injury. Surgery is the mainstay of treatment. Baseline disability predicts 
+surgical recovery; therefore, timely treatment is critical to restoring 
+function. However, current challenges mean most patients present with advanced 
+disease and are instead left with life changing disabilities. While short-term 
+mortality is rarely reported, the long-term effects of this on life expectancy 
+are unknown, including whether function could be modifiable with timely 
+treatment. This article investigates the effect of DCM on life expectancy.
+METHODS: The survival of patients from an observational study of patients 
+undergoing surgery from 1994 to 2007 was compared to their expected survival 
+using a gender- and aged -matched cohort. Comparisons were made by one sample 
+log-rank test and standardised mortality ratios. Factors associated with 
+survival were explored using a Cox regression analysis, including disease 
+severity.
+RESULTS: A total of 357 patients were included in the analysis. After a median 
+follow-up of 15.3 years, 135 of 349 patients had died; 114.7 deaths would have 
+been expected. The DCM cohort had an increased risk of death compared to the 
+non-DCM cohort (standardised mortality ratio 1.18 [95% CI: 1.02-1.34]. Age at 
+operation 1.08 (95% CI: 1.07 to 1.1, p < 0.001) and severe DCM 1.6 (95% CI: 1.06 
+to 2.3, p = 0.02) were associated with worse survival (N = 287). In those 
+surviving at least 2 years after surgery, only severe DCM was associated with 
+conditional survival (HR 1.6, 95% CI 1.04 2.4, p = 0.03).
+CONCLUSION: Life expectancy is reduced in those undergoing surgery for DCM. This 
+is driven by premature mortality among those left with severe disability. As 
+disability can be reduced with timely treatment, these findings reinforce the 
+need for collective and global action to raise awareness of DCM and enable early 
+diagnosis.
+
+© 2023. The Author(s).
+
+DOI: 10.1007/s00701-023-05515-8
+PMCID: PMC10140127
+PMID: 36856831 [Indexed for MEDLINE]
+
+
+3. Spine (Phila Pa 1976). 2023 Feb 28. doi: 10.1097/BRS.0000000000004610. Online 
+ahead of print.
+
+Preoperative Range of Motion in Extension May Influence Postoperative Cervical 
+Kyphosis After Laminoplasty.
+
+Ren HL(1), Shen X(1), Ding RT(1), Cai HB(2), Zhang GL(2).
+
+Author information:
+(1)Division of Spinal Surgery, Department of Orthopaedics, Nanfang Hospital, 
+Southern Medical University.
+(2)Department of Radiology, Nanfang Hospital, Southern Medical University. 1838 
+North Guangzhou Avenue, Guangzhou 510515, China.
+
+STUDY DESIGN: Retrospective observational study.
+OBJECTIVE: To investigate factors associated with cervical kyphosis after 
+laminoplasty.
+SUMMARY OF BACKGROUND DATA: Many factors are reportedly associated with the 
+deterioration of cervical curvature after laminoplasty, including cervical 
+lordosis angle, cervical spine range of motion (ROM), T1 slope, and C2-7 
+sagittal vertical axis. Post-laminoplasty kyphosis or deterioration of cervical 
+curvature is likely caused by multiple factors. There is currently no consensus 
+on these issues.
+METHODS: Data of patients treated with laminoplasty for degenerative cervical 
+myelopathy at our institution during 2008-2018 were reviewed. The following 
+variables were collected for each patient: age and sex; follow-up time; surgery 
+involving C3 (yes or no); surgery involving C7 (yes or no); distribution of 
+segments operated on; number of laminae operated on; flexion, extension, and 
+total ROM; cervical lordotic angle; longitudinal distance index; curvature 
+index; C2-7 sagittal vertical axis; and T1 slope. Logistic regression analysis 
+was used to assess possible risk factors for postoperative kyphosis. Receiver 
+operating characteristic curves were constructed to determine the cut-off values 
+of risk factors.
+RESULTS: The study cohort comprised 151 patients. Logistic regression analysis 
+indicated that sex, number of laminae operated on, and preoperative extension 
+ROM were significantly associated with postoperative cervical kyphosis (P<0.05). 
+There was significantly greater postoperative kyphosis in women than in men; the 
+more segments operated on, the greater the risk of postoperative kyphosis, and 
+the larger the preoperative extension ROM, the lower the risk of 
+post-laminoplasty kyphosis. Receiver operating curve analysis showed that the 
+cut-off value for preoperative extension ROM is 22.1°.
+CONCLUSION: Preoperative extension ROM may be associated with the development of 
+postoperative kyphosis. The cut-off value of preoperative extension ROM that 
+suggested the prospect of postoperative kyphosis in our sample was 22.1°.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/BRS.0000000000004610
+PMID: 36856549
+
+
+4. Injury. 2023 Apr;54(4):1144-1150. doi: 10.1016/j.injury.2023.02.039. Epub 2023
+ Feb 22.
+
+Spinal injury in major trauma: Epidemiology of 1104 cases from an Italian first 
+level trauma center.
+
+Spota A(1), Giorgi PD(2), Cioffi SPB(3), Altomare M(4), Schirò GR(2), Legrenzi 
+S(2), Villa FG(5), Chiara O(6), Cimbanassi S(6).
+
+Author information:
+(1)Acute care surgery and trauma, ASST GOM Niguarda, Milan, Italy; Tissue Bank 
+and Therapy, ASST GOM Niguarda, Milan, Italy. Electronic address: 
+andrea.spota@ospedaleniguarda.it.
+(2)Trauma and Orthopaedics, ASST GOM Niguarda, Milan, Italy.
+(3)Acute care surgery and trauma, ASST GOM Niguarda, Milan, Italy.
+(4)Acute care surgery and trauma, ASST GOM Niguarda, Milan, Italy; Tissue Bank 
+and Therapy, ASST GOM Niguarda, Milan, Italy.
+(5)Neurosurgery, ASST GOM Niguarda, Milan, Italy.
+(6)Acute care surgery and trauma, ASST GOM Niguarda, Milan, Italy; Department of 
+Pathophysiology and Transplantation, Università degli Studi di Milano, Milan, 
+Italy.
+
+INTRODUCTION: Traumatic spinal injuries are frequent and their management is 
+debated, especially in major trauma patients. This study aims to describe a 
+large population of major trauma patients with vertebral fractures to improve 
+prevention measures and fracture management.
+PATIENTS AND METHODS: Retrospective analysis of 6274 trauma patients 
+prospectively collected between October 2010 and October 2020. Collected data 
+include demographics, mechanism of trauma, type of imaging, fracture morphology, 
+associated injuries, injury severity score (ISS), survival, and death timing. 
+The statistical analysis focused on mechanism of trauma and the search of 
+predictive factors for critical fractures.
+RESULTS: Patients showed a mean age of 47 years and 72.5% were males. Trauma 
+included 59.9% of road accidents and 35.1% of falls. 30.7% patients had at least 
+a severe fracture, while 17.2% had fractures in multiple spinal regions. 13.7% 
+fractures were complicated by spinal cord injury (SCI). The mean ISS of the 
+total population was 26.4 (SD 16.3), with 70.7% patients having an ISS≥16. There 
+is a higher rate of severe fractures in fall cases (40.1%) compared to RA (21.9% 
+to 26.3%). The probability of a severe fracture increased by 164% in the case of 
+fall and by 77% in presence of AIS≥3 associated injury of head/neck while 
+reduced by 34% in presence of extremities associated injuries. Multiple level 
+injuries increased with ISS rise and in the case of extremities associated 
+injuries. The probability of a severe upper cervical fracture increased by 5.95 
+times in the presence of facial associated injuries. The mean length of stay was 
+24.7 days and 9.6% of patients died.
+CONCLUSIONS: In Italy, road accidents are still the most frequent trauma 
+mechanism and cause more cervico-thoracic fractures, while falls cause more 
+lumbar fractures. Spinal cord injuries represent an indicator of more severe 
+trauma. In motorcyclists or fallers/jumpers, there is a higher risk of severe 
+fractures. When a spinal injury is diagnosed, the probability of a second 
+vertebral fracture is consistent. These data could help the decisional workflow 
+in the management of major trauma patients with vertebral injury.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.injury.2023.02.039
+PMID: 36849304 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest All authors 
+declare that they have no conflicts of interest.
+
+
+5. Top Spinal Cord Inj Rehabil. 2023 Winter;29(1):108-117. doi: 
+10.46292/sci22-00022. Epub 2023 Feb 15.
+
+Health Care Utilization and Cost Associated With Urinary Tract Infections in a 
+Privately Insured Spinal Cord Injury Population.
+
+Herrity AN(1)(2)(3)(4), Castillo C(2)(4)(5), Isakov RV(4), Anele UA(4)(6), Wang 
+D(1)(2)(4), Boakye M(1)(2)(4), Ugiliweneza B(1)(2)(4)(7).
+
+Author information:
+(1)Kentucky Spinal Cord Injury Research Center, University of Louisville, 
+Louisville, Kentucky.
+(2)Department of Neurological Surgery, University of Louisville, Louisville, 
+Kentucky.
+(3)Department of Physiology, University of Louisville, Louisville, Kentucky.
+(4)University of Louisville School of Medicine, Louisville, Kentucky.
+(5)Division of Physical Medicine and Rehabilitation, University of Louisville, 
+Louisville, Kentucky.
+(6)Department of Urology, University of Louisville, Louisville, Kentucky.
+(7)Department of Health Management and Systems Sciences, University of 
+Louisville, Louisville, Kentucky.
+
+BACKGROUND: Urinary tract infections (UTIs) are the most common secondary 
+medical complication following spinal cord injury (SCI), significantly impacting 
+health care resource utilization and costs.
+OBJECTIVES: To characterize risk factors and health care utilization costs 
+associated with UTIs in the setting of SCI.
+METHODS: IBM's Marketscan Database from 2000-2019 was utilized to identify 
+individuals with traumatic SCI. Relevant ICD-9 and ICD-10 codes classified 
+individuals into two analysis groups: having ≥ 1 UTI episode or no UTI episodes 
+within 2 years following injury. Demographics (age, sex), insurance type, 
+comorbidities, level of injury (cervical, thoracic, lumbar/sacral), and health 
+care utilization/payments were evaluated.
+RESULTS: Of the 6762 individuals retained, 1860 had ≥ 1 UTI with an average of 
+three episodes (SD 2). Younger age, female sex, thoracic level of injury, 
+noncommercial insurance, and having at least one comorbidity were associated 
+with increased odds of UTI. Individuals with a UTI in year 1 were 11 times more 
+likely to experience a UTI in year 2. As expected, those with a UTI had a higher 
+rate and associated cost of hospital admission, use of outpatient services, and 
+prescription refills. UTIs were associated with 2.48 times higher cumulated 
+health care resource use payments over 2 years after injury.
+CONCLUSIONS: In addition to bladder management-related causes, several factors 
+are associated with an increased risk of UTIs following SCI. UTI incidence 
+substantially increases health care utilization costs. An increased 
+understanding of UTI-associated risk factors may improve the ability to identify 
+and manage higher risk individuals with SCI and ultimately optimize their health 
+care utilization.
+
+©2023 American Spinal Injury Association.
+
+DOI: 10.46292/sci22-00022
+PMCID: PMC9936897
+PMID: 36819926 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interest The authors report no 
+conflicts of interest.
+
+
+6. J Neurosurg Spine. 2023 Feb 17;38(5):530-539. doi: 10.3171/2023.1.SPINE221078.
+ Print 2023 May 1.
+
+Characteristics of patients who return to work after undergoing surgery for 
+cervical spondylotic myelopathy: a Quality Outcomes Database study.
+
+Bergin SM(1), Michalopoulos GD(2), Shaffrey CI(1), Gottfried ON(1), Johnson 
+E(1), Bisson EF(3), Wang MY(4), Knightly JJ(5), Virk MS(6), Tumialán LM(7), 
+Turner JD(7), Upadhyaya CD(8), Shaffrey ME(9), Park P(10), Foley KT(10), Coric 
+D(11), Slotkin JR(12), Potts EA(13), Chou D(14), Fu KG(6), Haid RW(15), Asher 
+AL(11), Bydon M(2), Mummaneni PV(14), Than KD(1).
+
+Author information:
+(1)1Department of Neurosurgery, Division of Spine, Duke University, Durham, 
+North Carolina.
+(2)2Department of Neurologic Surgery, Mayo Clinic, Rochester, Minnesota.
+(3)3Department of Neurological Surgery, University of Utah, Salt Lake City, 
+Utah.
+(4)5Department of Neurological Surgery, University of Miami, Florida.
+(5)6Atlantic Neurosurgical Specialists, Morristown, New Jersey.
+(6)7Department of Neurosurgery, Weill Cornell Medical Center, New York, New 
+York.
+(7)8Barrow Neurological Institute, Phoenix, Arizona.
+(8)9Marion Bloch Neuroscience Institute, Saint Luke's Health System, Kansas 
+City, Missouri.
+(9)10Department of Neurosurgery, University of Virginia, Charlottesville, 
+Virginia.
+(10)11Semmes-Murphey Clinic, University of Tennessee College of Medicine, 
+Memphis, Tennessee.
+(11)12Neuroscience Institute, Carolinas Healthcare System and Carolina 
+Neurosurgery & Spine Associates, Charlotte, North Carolina.
+(12)13Geisinger Health, Danville, Pennsylvania.
+(13)14Goodman Campbell Brain and Spine, Indianapolis, Indiana; and.
+(14)4Department of Neurological Surgery, University of California, San 
+Francisco, California.
+(15)15Atlanta Brain and Spine Care, Atlanta, Georgia.
+
+OBJECTIVE: Return to work (RTW) is an important surgical outcome for patients 
+who are employed, yet a significant number of patients with cervical spondylotic 
+myelopathy (CSM) who are employed undergo cervical spine surgery and fail to 
+RTW. In this study, the authors investigated factors associated with failure to 
+RTW in the CSM population who underwent cervical spine surgery and who were 
+considered to have a good surgical outcome yet failed to RTW.
+METHODS: This study retrospectively analyzed prospectively collected data from 
+the cervical myelopathy module of a national spine registry, the Quality 
+Outcomes Database. The CSM data set of the Quality Outcomes Database was queried 
+for patients who were employed at the time of surgery and planned to RTW 
+postoperatively. Distinct multivariable logistic regression models were fitted 
+with 3-month RTW as an outcome for the overall population to identify risk 
+factors for failure to RTW. Good outcomes were defined as patients who had no 
+adverse events (readmissions or complications), who had achieved 30% improvement 
+in Neck Disability Index score, and who were satisfied (North American Spine 
+Society satisfaction score of 1 or 2) at 3 months postsurgery.
+RESULTS: Of the 409 patients who underwent surgery, 80% (n = 327) did RTW at 3 
+months after surgery. At 3 months, 56.9% of patients met the criteria for a good 
+surgical outcome, and patients with a good outcome were more likely to RTW 
+(88.1% vs 69.2%, p < 0.01). Of patients with a good outcome, 11.9% failed to RTW 
+at 3 months. Risk factors for failing to RTW despite a good outcome included 
+preoperative short-term disability or leave status (OR 3.03 [95% CI 1.66-7.90], 
+p = 0.02); a higher baseline Neck Disability Index score (OR 1.41 [95% CI 
+1.09-1.84], p < 0.01); and higher neck pain score at 3 months postoperatively 
+(OR 0.81 [95% CI 0.66-0.99], p = 0.04).
+CONCLUSIONS: Most patients with CSM who undergo spine surgery reenter the 
+workforce within 3 months from surgery, with RTW rates being higher among 
+patients who experience good outcomes. Among patients with good outcomes who 
+were employed, failure to RTW was associated with being on preoperative 
+short-term disability or leave status prior to surgery as well as higher neck 
+pain scores at baseline and at 3 months postoperatively.
+
+DOI: 10.3171/2023.1.SPINE221078
+PMID: 36805526 [Indexed for MEDLINE]
+
+
+7. Mult Scler Relat Disord. 2023 Mar;71:104566. doi: 10.1016/j.msard.2023.104566.
+ Epub 2023 Feb 12.
+
+Predictive factors of multiple sclerosis relapse after the first demyelinating 
+event: A 5-year follow-up.
+
+Kolčava J(1), Pelíšek O(2), Vlčková E(3).
+
+Author information:
+(1)Faculty of Medicine, Masaryk University, Brno, Czech Republic; Department of 
+Neurology, University Hospital Brno, Czech Republic.
+(2)Faculty of Medicine, Masaryk University, Brno, Czech Republic.
+(3)Faculty of Medicine, Masaryk University, Brno, Czech Republic; Department of 
+Neurology, University Hospital Brno, Czech Republic. Electronic address: 
+vlckova.eva@fnbrno.cz.
+
+There is a growing need to discover the characteristics that predict prognostic 
+factors after the first demyelinating event. In this study of 141 patients that 
+met the 2017 McDonald criteria, a higher number of oligoclonal bands, cervical 
+spinal cord demyelinating lesions, and sensory involvement were identified as 
+independent predictors of the second demyelinating event during the 5-year 
+follow-up period in patients who experienced the first demyelinating event. The 
+identification of the aforementioned risk variables will make it possible to 
+identify patients who are more likely to exhibit early second demyelinating 
+event, implying more frequent monitoring and consideration of early application 
+of highly effective disease-modifying treatment.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.msard.2023.104566
+PMID: 36805172 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+have no conflicts of interest to declare.
+
+
+8. Medicine (Baltimore). 2023 Feb 17;102(7):e32974. doi: 
+10.1097/MD.0000000000032974.
+
+The role of esophageal area for dysphagia after anterior cervical corpectomy 
+fusion: Change trends and risk factors.
+
+Ma Y(1), Sang P(2), Chen B(2).
+
+Author information:
+(1)Department of Gastroenterology, Lihuili Hospital of Ningbo Medical Center, 
+Ningbo, Zhejiang, PR China.
+(2)Department of Orthopedic Surgery, Lihuili Hospital of Ningbo Medical Center, 
+Ningbo, Zhejiang, PR China.
+
+The objective of this study is to assess the change trends of perioperative 
+esophageal area for anterior cervical corpectomy fusion (ACCF) and to analyze 
+the risk factors of the area for postoperative dysphagia. We retrospectively 
+analyzed 309 patients who underwent ACCF due to degenerative cervical diseases 
+between November 2015 and September 2019 at our hospital. Patients were divided 
+into 2 groups named the dysphagia group and the normal swallowing function 
+group, according to the swallowing function after ACCF. The esophageal area was 
+measured at T1 level using computed tomography axial plane images before and 
+after surgery (1 week, 1 month, 8 months, and 12 months), in order to assess the 
+change trends of esophageal area perioperatively and analyze risk factors of the 
+area for dysphagia after ACCF. The area was highest at 1 week after surgery and 
+would be decreased over time in both groups, which was recovered to the 
+preoperative levels in 12 months after surgery. The incidence of dysphagia after 
+ACCF was 41.1%. In the dysphagia group, 127 patients (mean age 59.299 years) had 
+dysphagia after ACCF. In the normal-swallowing function group, 182 patients 
+(mean age 59.8352 years) had normal swallowing function after ACCF. The 
+preoperative esophageal area was larger in the dysphagia group than in the 
+normal-swallowing function group. Preoperative esophageal area was correlated 
+with postoperative dysphagia (odds ratio: 1.3457, 95% confidence interval: 
+1.106-1.637). When the esophageal area at preoperation was above 3.388 cm2, the 
+risk of postoperative dysphagia was higher. The esophageal area was the biggest 
+at 1 week postoperatively, significantly decreased over time and would be 
+recovered to the normal size at 12 months after surgery. Preoperative esophageal 
+area should be considered when evaluating the risk factor for dysphagia after 
+ACCF.
+
+Copyright © 2023 the Author(s). Published by Wolters Kluwer Health, Inc.
+
+DOI: 10.1097/MD.0000000000032974
+PMCID: PMC9936008
+PMID: 36800619 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+disclose.
+
+
+9. BMC Neurol. 2023 Feb 14;23(1):70. doi: 10.1186/s12883-023-03114-9.
+
+An interval of clinically silent gastrointestinal bleed in dysautonomic spinal 
+cord injury: a case report.
+
+Margo TE(1), McMullin PR(2), Kaddouh F(3).
+
+Author information:
+(1)Long School of Medicine, University of Texas Health Science Center at San 
+Antonio, San Antonio, TX, USA. teddymargo@me.com.
+(2)Long School of Medicine, University of Texas Health Science Center at San 
+Antonio, San Antonio, TX, USA.
+(3)Neurosurgery Department, University of Texas Health Science Center at San 
+Antonio, San Antonio, TX, USA.
+
+BACKGROUND: Gastrointestinal bleed (GIB) has high incidence in traumatic spinal 
+cord injured (tSCI) patients and can frequently be life-threatening, especially 
+early post-injury. Several risk factors often compound bleeding risk, some are 
+unique to this patient population. Normally, clinical suspicion for GIB arises 
+from symptoms like coffee-ground emesis, hematemesis, melena or even 
+hematochezia. A hemoglobin drop may be a late sign. Due to tSCI, however, 
+patients often experience neurogenic bowels and dysautonomia, which may delay 
+symptom presentation and complicate timely diagnosis of GIB. We report a case of 
+an almost clinically silent GI bleed in the context of acute cervical tSCI.
+CASE PRESENTATION: A 21-year-old female presented with cervical cord transection 
+at C-7 in the setting of motor vehicle rollover, for which surgical 
+decompression was performed. During the acute injury phase, she also received a 
+10-day course of dexamethasone for symptomatic COVID-19 pneumonia. Two weeks 
+after injury, she underwent percutaneous endoscopic gastrostomy (PEG) placement 
+which demonstrated normal gastric and duodenal anatomy. One week later, a large 
+spike (10x) in blood urea nitrogen: creatinine (BUN: Cr) ratio raised concern 
+for GIB, but hemoglobin remained stable, and stool color remained unchanged. The 
+following day, a gastroenterology consult was requested under increased 
+suspicion of GIB from a sudden 3.5 g/dL hemoglobin drop. The patient received 
+blood transfusion and pantoprazole. An upper endoscopy was performed, revealing 
+three small duodenal ulcers. Melanotic stool ensued afterwards.
+CONCLUSIONS: Due to dysautonomia, clinical presentation of GIB can be 
+significantly delayed in the tSCI patient population, leaving them vulnerable to 
+succumb to illness. This case illustrates the possibility of an interval in 
+which the patient was bleeding, with the sole indicator being an elevated BUN. 
+Our case calls for closer monitoring of and vigilance for tSCI patients, and 
+possibly employment of different strategies to reduce the incidence and enhance 
+early detection of GIB in tSCI patients to subsequently decrease the morbidity 
+and mortality associated with it.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12883-023-03114-9
+PMCID: PMC9925924
+PMID: 36788525 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare that they have no 
+disclosures.
+
+
+10. Orthop Surg. 2023 Apr;15(4):1008-1020. doi: 10.1111/os.13679. Epub 2023 Feb
+13.
+
+Development of a Dynamic Nomogram for Predicting the Probability of Satisfactory 
+Recovery after 6 Months for Cervical Traumatic Spinal Cord Injury.
+
+Yan X(1), He Y(1), Jia M(1), Yang J(2), Huang K(1), Zhang P(1), Lai J(1), Chen 
+M(1), Fan S(1), Li S(1), Fan Z(1), Teng H(1).
+
+Author information:
+(1)Department of Spine Surgery, The First Affiliated Hospital of Wenzhou Medical 
+University, Wenzhou, China.
+(2)Department of Pediatric Allergy and Immunology, The Second Affiliated 
+Hospital and Yuying Children's Hospital of Wenzhou Medical University, Wenzhou, 
+China.
+
+OBJECTIVE: Cervical traumatic spinal cord injury (CTSCI) is a seriously 
+disabling disease that severely affects the physical and mental health of 
+patients and imposes a huge economic burden on patients and their families. 
+Accurate identification of the prognosis of CTSCI patients helps clinicians to 
+design individualized treatment plans for patients. For this purpose, a dynamic 
+nomogram was developed to predict the recovery of CTSCI patients after 6 months.
+METHODS: We retrospectively included 475 patients with CTSCI in our institution 
+between March 2013 and January 2022. The outcome variable of the current study 
+was a satisfactory recovery of patients with CTSCI at 6 months. Univariate 
+analyses and univariate logistic regression analyses were used to assess the 
+factors affecting the prognosis of patients with CTSCI. Subsequently, variables 
+(P < 0.05) were included in the multivariate logistic regression analysis to 
+evaluate these factors further. Eventually, a nomogram model was constructed 
+according to these independent risk factors. The concordance index (C-index) and 
+the calibration curve were utilized to assess the model's predictive ability. 
+The discriminating capacity of the prediction model was measured by the receiver 
+operating characteristic (ROC) area under the curve (AUC). One hundred nine 
+patients were randomly selected from 475 patients to serve as the center's 
+internal validation test cohort.
+RESULTS: The multivariate logistic regression model further screened out six 
+independent factors that impact the recovery of patients with CTSCI. Including 
+admission to the American Spinal Injury Association Impairment Scale (AIS) 
+grade, the length of high signal in the spinal cord, maximum spinal cord 
+compression (MSCC), spinal segment fractured, admission time, and hormonal 
+therapy within 8 h after injury. A nomogram prediction model was developed based 
+on the six independent factors above. In the training cohort, the AUC of the 
+nomogram that included these predictors was 0.879, while in the test cohort, it 
+was 0.824. The nomogram C-index incorporating these predictors was 0.872 in the 
+training cohort and 0.813 in the test cohort, while the calibration curves for 
+both cohorts also indicated good consistency. Furthermore, this nomogram was 
+converted into a Web-based calculator, which provided individual probabilities 
+of recovery to be generated for individuals with CTSCI after 6 months and 
+displayed in a graphical format.
+CONCLUSION: The nomogram, including ASIA grade, the length of high signal in the 
+spinal cord, MSCC, spinal segment fractured, admission time, and hormonal 
+therapy within 8 h after injury, is a promising model to predict the probability 
+of content recovery in patients with CTSCI. This nomogram assists clinicians in 
+stratifying patients with CTSCI, enhancing evidence-based decision-making, and 
+individualizing the most appropriate treatment.
+
+© 2023 The Authors. Orthopaedic Surgery published by Tianjin Hospital and John 
+Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/os.13679
+PMCID: PMC10102307
+PMID: 36782280 [Indexed for MEDLINE]
+
+
+11. Eur Spine J. 2023 Apr;32(4):1275-1281. doi: 10.1007/s00586-023-07563-1. Epub 
+2023 Feb 12.
+
+Dropped head syndrome: a treatment strategy and surgical intervention.
+
+Miyamoto H(1), Ikeda T(2), Aoyama S(2), Toriumi K(2), Akagi M(2).
+
+Author information:
+(1)Department of Orthopedic Surgery, Kindai University Hospital, 377-2 
+Ohno-higashi, Osaka-Sayama, Osaka, 589-851, Japan. hiroshimiyamoto@hotmail.com.
+(2)Department of Orthopedic Surgery, Kindai University Hospital, 377-2 
+Ohno-higashi, Osaka-Sayama, Osaka, 589-851, Japan.
+
+PURPOSE: The pathology of dropped head syndrome (DHS) is diverse, and reports of 
+surgery for DHS are scarce. We aimed to describe surgery for DHS and to 
+investigate the surgical outcomes thereof.
+METHODS: We enrolled 40 consecutive patients (six males and 34 females; average 
+age at surgery, 72.0 years) with DHS who underwent correction surgeries at a 
+single institute. Short fusion (SF), with the extent of fixation mainly at the 
+cervical region, was performed for 27 patients; long fusion (LF), involving the 
+cervical and thoracic spine, for 13. Clinical and radiological outcomes were 
+investigated, and factors analyzed using the Japanese Orthopedic Association 
+Cervical Myelopathy Evaluation Questionnaire (JOACMEQ).
+RESULTS: All patients were able to gaze horizontally at the follow-up. Instances 
+of five transient C5 palsy results, and five distal junctional kyphosis results 
+were found, but no revisions were reported due to recurrence. Patients whose T1 
+slope-20° was smaller than the C2-7 angle postoperatively exhibited better 
+clinical outcomes in the three domains of the JOACMEQ, regardless of the extent 
+of fixation.
+CONCLUSION: For cases where the T1 slope is relatively small, and approximately 
+10° of cervical lordosis is predicted to be obtained postoperatively, SF is 
+appropriate. Alternatively, for cases with higher T1 slope, obtaining a cervical 
+lordosis over 20° has a risk of postoperative complications. For such cases, it 
+is an option to perform an LF involving the cervical and thoracic spine.
+
+© 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00586-023-07563-1
+PMID: 36781488 [Indexed for MEDLINE]
+
+
+12. Spine (Phila Pa 1976). 2023 Mar 1;48(5):310-320. doi: 
+10.1097/BRS.0000000000004552. Epub 2022 Dec 1.
+
+Deterioration After Surgery for Degenerative Cervical Myelopathy: An 
+Observational Study From the Canadian Spine Outcomes and Research Network.
+
+Evaniew N(1)(2), Burger LD(1), Dea N(3), Cadotte DW(1), Bailey CS(4), Christie 
+SD(5), Fisher CG(3), Rampersaud YR(6), Paquet J(7), Singh S(4), Weber MH(8), 
+Attabib N(9), Johnson MG(10), Manson N(9), Phan P(11), Nataraj A(12), Wilson 
+JR(6), Hall H(6), McIntosh G(13), Jacobs WB(1); Canadian Spine Outcomes and 
+Research Network (CSORN).
+
+Author information:
+(1)University of Calgary Spine Program, University of Calgary, Calgary, AB, 
+Canada.
+(2)McCaig Institute for Bone and Joint Health, University of Calgary, Calgary, 
+AB, Canada.
+(3)Combined Neurosurgery and Orthopaedic Spine Program, University of British 
+Columbia, Vancouver, BC, Canada.
+(4)Department of Surgery, Western University, London, ON, Canada.
+(5)Division of Neurosurgery, Dalhousie University, Halifax, NS, Canada.
+(6)Department of Surgery, University of Toronto, Toronto, ON, Canada.
+(7)Department of Orthopaedics, Centre Hospitalier Universitaire de Quebec, 
+Quebec, QC, Canada.
+(8)Division of Orthopaedics, McGill University, Montreal, QC, Canada.
+(9)Canada East Spine Centre, Saint John, NB, Canada.
+(10)Department of Surgery, University of Manitoba, Winnipeg, MB, Canada.
+(11)Division of Orthopaedic Surgery, University of Ottawa, Ottawa, ON, Canada.
+(12)Division of Neurosurgery, University of Alberta, Edmonton, AB, Canada.
+(13)Canadian Spine Society, Toronto, ON, Canada.
+
+STUDY DESIGN: A Prospective cohort study.
+OBJECTIVE: To investigate the incidence, etiology, and outcomes of patients who 
+experience neurological deterioration after surgery for Degenerative Cervical 
+Myelopathy (DCM).
+SUMMARY OF BACKGROUND DATA: Postoperative neurological deterioration is one of 
+the most undesirable complications that can occur after surgery for DCM.
+METHODS: We analyzed data from the Canadian Spine Outcomes and Research Network 
+DCM prospective cohort study. We defined postoperative neurological 
+deterioration as any decrease in modified Japanese Orthopaedic Association 
+(mJOA) score by at least one point from baseline to three months after surgery. 
+Adverse events were collected using the Spinal Adverse Events Severity protocol. 
+Secondary outcomes included patient-reported pain, disability, and 
+health-related quality of life.
+RESULTS: Among a study cohort of 428 patients, 50 (12%) deteriorated by at least 
+one mJOA point after surgery for DCM (21 by one point, 15 by two points, and 14 
+by three points or more). Significant risk factors included older age, female 
+sex, and milder disease. Among those who deteriorated, 13 experienced 
+contributing intraoperative or postoperative adverse events, six had alternative 
+non-DCM diagnoses, and 31 did not have an identifiable reason for deterioration. 
+Patients who deteriorated had significantly lower mJOA scores at one year after 
+surgery [13.5 (SD 2.7) vs. 15.2 (SD 2.2), P <0.01 and those with larger 
+deteriorations were less likely to recover their mJOA to at least their 
+preoperative baseline, but most secondary measures of pain, disability, and 
+health-related quality of life were unaffected.
+CONCLUSIONS: The incidence of deterioration of mJOA scores after surgery for DCM 
+was approximately one in 10, but some deteriorations were unrelated to actual 
+spinal cord impairment and most secondary outcomes were unaffected. These 
+findings can inform patient and surgeon expectations during shared 
+decision-making, and they demonstrate that the interpretation of mJOA scores 
+without clinical context can sometimes be misleading.
+
+Copyright © 2022 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/BRS.0000000000004552
+PMID: 36730060 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest.
+
+
+13. Tohoku J Exp Med. 2023 Mar 24;259(4):293-300. doi: 10.1620/tjem.2023.J005.
+Epub  2023 Jan 26.
+
+Videofluoroscopic Dysphagia Scale as an Additional Indicator of Gastrostomy in 
+Patients with Amyotrophic Lateral Sclerosis with Dysphagia.
+
+Shijo T(1), Ikeda R(2), Suzuki N(1), Ohta J(2), Suzuki J(2), Hirano-Kawamoto 
+A(2), Kato K(2), Ikeda K(1), Izumi R(1), Mitsuzawa S(3), Warita H(1), Kato M(3), 
+Aoki M(1), Katori Y(2).
+
+Author information:
+(1)Department of Neurology, Tohoku University Graduate School of Medicine.
+(2)Department of Otolaryngology-Head and Neck Surgery, Tohoku University 
+Graduate School of Medicine.
+(3)Department of Neurology, Shodo-kai Southern Tohoku General Hospital.
+
+Pseudobulbar palsy and bulbar palsy cause dysphagia in patients with amyotrophic 
+lateral sclerosis (ALS). Dysphagia in patients with ALS not only increases the 
+risk of aspiration and pneumonia but also leads to malnutrition and weight loss, 
+which are poor prognostic factors. Gastrostomy is the preferred route of feeding 
+and nutritional support in patients with dysphagia. However, there are no 
+established standards to determine the ideal timing of gastrostomy for patients 
+with ALS. Therefore, we used the videofluoroscopic dysphagia scale (VDS), which 
+objectively quantifies swallowing function, in videofluoroscopic swallowing 
+study (VFSS) to investigate whether this scale at diagnosis can be a useful 
+predictor for the timing of gastrostomy. We retrospectively evaluated 22 
+patients with ALS who were diagnosed at our hospital. We assessed the VDS scores 
+in all patients within 3 months of diagnosis. A decline in the ALS functional 
+rating scale revised (ALSFRS-R) scores was used as an indicator of disease 
+progression. As a result, we found that the VDS score of the pharyngeal phase 
+and the total VDS score were significantly correlated with the ΔALSFRS-R scores. 
+These scores were also associated with the existing indicators for the timing of 
+gastrostomy, i.e., decreased body weight and percent-predicted forced vital 
+capacity. We demonstrated the noninferiority of the VDS scores relative to the 
+existing indicators. In addition, the VDS score of the pharyngeal phase was 
+significantly correlated with the time from diagnosis to gastrostomy. The VDS 
+score could estimate the timing of gastrostomy in patients with ALS with 
+dysphagia at diagnosis.
+
+DOI: 10.1620/tjem.2023.J005
+PMID: 36696983 [Indexed for MEDLINE]
+
+
+14. Front Surg. 2023 Jan 6;9:1011100. doi: 10.3389/fsurg.2022.1011100.
+eCollection  2022.
+
+Medium to long term follow-up of survival and quality of life in patients with 
+primary tumors of the cervical spine: Experience From a large single center.
+
+Xu N(1)(2)(3), Chang S(1)(2)(3), Liu X(1)(2)(3), Jiang L(1)(2)(3), Yu 
+M(1)(2)(3), Wu F(1)(2)(3), Dang L(1)(2)(3), Zhou H(1)(2)(3), Li Y(1)(2)(3), Wang 
+Y(1)(2)(3), Liu X(1)(2)(3), Wu Y(1)(2)(3), Wei F(1)(2)(3), Liu Z(1)(2)(3).
+
+Author information:
+(1)Department of Orthopedics, Peking University Third Hospital, Beijing, China.
+(2)Beijing Key Laboratory of Spinal Disease Research, Peking University Third 
+Hospital, Beijing, China.
+(3)Engineering Research Center of Bone and Joint Precision Medicine, Ministry of 
+Education, Peking University Third Hospital, Beijing, China.
+
+OBJECTIVES: To evaluate the survival and medium to long term health-related 
+quality of life (HRQoL) of patients with primary cervical spinal tumors in a 
+cross-sectional study and to identify any significant associations with 
+demographic or clinical characteristics.
+METHODS: Patients diagnosed with primary cervical spinal tumors were 
+retrospectively enrolled and their clinical, radiologic, and follow-up data 
+(specifically the EQ-5D questionnaire) were collected. Univariate and 
+multivariate Cox time-dependent regression analyses were performed to examine 
+the significance of certain variables on overall survival. Univariate and 
+multivariate logistic regression analyses were conducted to identify variables 
+significant for overall HRQoL and each dimension of the EQ-5D.
+RESULTS: A total of 341 patients were enrolled in the study with a mean 
+follow-up of 70 months. The diagnosis was benign in 246 cases, malignant in 84, 
+and unconfirmed in 11. The 5-year overall survival rate was 86% and the 10-year 
+overall survival rate was 65%. Multivariate analysis suggested that surgical 
+treatment (P = 0.002, hazard ratio [HR] = 0.431, 95% CI. [0.254, 0.729]), benign 
+and malignant tumors [P < 0.001, HR = 2.788, 95% CI. (1.721, 4.516)], tumor and 
+surrounding normal tissue boundary [P = 0.010, HR = 1.950, 95% CI. (1.171, 
+3.249)], and spinal instability [P = 0.031, HR = 1.731, 95% CI. (1.051, 2.851)] 
+still had significant effects on survival.
+CONCLUSIONS: In this cross-sectional study, we evaluated the survival period and 
+medium and long-term health-related quality of life of patients with primary 
+tumors of the cervical spine, and analyzed the significant related factors of 
+tumor clinical characteristics. Surgery, myelopathy, malignancy, spinal pain 
+relieved by lying down or supine position, and tumor infiltration on MRI were 
+significant predictors for overall survival. Enneking stage and age were 
+significant predictors for HRQoL.
+
+© 2023 Xu, Chang, Liu, Jiang, Yu, Wu, Dang, Zhou, Li, Wang, Liu, Wu, Wei and 
+Liu.
+
+DOI: 10.3389/fsurg.2022.1011100
+PMCID: PMC9852619
+PMID: 36684347
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+15. Cureus. 2022 Dec 13;14(12):e32480. doi: 10.7759/cureus.32480. eCollection
+2022  Dec.
+
+Predictors of 30-Day Readmission Following Cervical Laminoplasty in 3,085 
+Patients: An American College of Surgeons National Surgical Quality Improvement 
+Program (ACS-NSQIP) Database Study.
+
+Kim J(1), Ammanuel SG(2), Page PS(1), Josiah DT(3).
+
+Author information:
+(1)Neurological Surgery, University of Wisconsin School of Medicine and Public 
+Health, Madison, USA.
+(2)Neurological Surgery, University of Wisconsin Hospitals and Clinics, Madison, 
+USA.
+(3)Neurosurgery, University of Wisconsin, Madison, USA.
+
+Background Cervical laminoplasty is a surgical alternative to laminectomy and 
+fusion for treating multi-level cervical spondylotic myelopathy. There is 
+limited evidence evaluating readmission incidence and risk factors following 
+cervical laminoplasty. Here, we provide a retrospective review evaluating 
+preoperative risk for 30-day readmission following cervical laminoplasty. 
+Methodology The American College of Surgeons National Surgical Quality 
+Improvement Program (ACS-NSQIP) database was used to identify patients 
+undergoing laminoplasty as defined by Current Procedural Terminology codes 63050 
+and 63051. Patients were then categorized based on whether 30-day readmission 
+occurred, and preoperative risk factors were examined. Continuous and 
+categorical variables were analyzed using Student's t-test or Fisher's exact 
+test. Multivariate regression analysis was performed for each variable, with 
+p-values of <0.05 considered significant. Results In total, 3,085 patients were 
+identified as undergoing posterior cervical laminoplasty. Of these, 2,938 
+patients did not require readmission, and 147 patients were readmitted, 
+representing a 4.77% 30-day readmission rate. For all patients, sepsis (odds 
+ratio (OR) = 5.58, p = 0.03), dialysis (OR = 3.46, p = 0.01), American Society 
+of Anesthesiologists class >2 (OR = 1.69, p = 0.011), and hypertension (OR = 
+1.51, p = 0.04) were predictive of readmission. A subgroup analysis was 
+performed for all geriatric patients (aged >65). In total, 1,353 patients were 
+identified, of whom 76 were readmitted, demonstrating a readmission rate of 
+5.62%. For the elderly patients, hypertension (OR = 1.98, confidence interval 
+(CI) = 1.04-3.75, p = 0.04) and independent status (OR = 0.39, CI = 0.21-0.74, p 
+= 0.004) were predictive of readmission. Conclusions Assessment of predictors 
+for readmission is important for patient education and setting appropriate 
+clinical expectations for surgeons and providers. Preoperative hypertension, 
+dialysis, and sepsis were risk factors for 30-day readmission following cervical 
+laminoplasty, with functional status being a unique risk factor for elderly 
+patients.
+
+Copyright © 2022, Kim et al.
+
+DOI: 10.7759/cureus.32480
+PMCID: PMC9835871
+PMID: 36644040
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+16. Global Spine J. 2023 Jan 10:21925682221150908. doi:
+10.1177/21925682221150908.  Online ahead of print.
+
+Accuracy of Realigned K-line for Predicting Surgical Outcomes After Laminoplasty 
+in Patients With Degenerative Cervical Myelopathy.
+
+Duan Q(1)(2), Liang G(2), Chen C(2), Ye Y(2), Zheng X(2), Liang C(2), Chang 
+Y(1)(2).
+
+Author information:
+(1)The Second School of Clinical Medicine, Southern Medical University, 
+Guangzhou, China.
+(2)Department of Spine, Guangdong Provincial People's Hospital (Guangdong 
+Academy of Medical Sciences), Southern Medical University, Guangzhou, China.
+
+STUDY DESIGN: A prospective cohort study.
+OBJECTIVES: To report a new index, the realigned K-line, for predicting surgical 
+outcomes after laminoplasty in patients with degenerative cervical myelopathy 
+(DCM).
+METHODS: One hundred twenty-eight patients with DCM undergoing laminoplasty were 
+enrolled from January 2018 to April 2021 in our department. A realigned K-line 
+was defined as the line connecting the midpoints of the spinal cord between C2 
+and C7 on realigned T1-weighted magnetic resonance imaging. The minimum interval 
+between the anterior compression factors of the spinal cord and the realigned 
+K-line (INTrea), and the modified K-line (INTmod) were measured. A logistic 
+regression analysis was performed to identify factors associated with 
+unsatisfactory surgical outcomes. The receiver operating characteristic (ROC) 
+curve and the area under the curve (AUC) was applied to evaluate the reliability 
+of the multivariate logistic regression model.
+RESULTS: Univariate analysis showed that the score for the bladder function 
+section of the Japanese Orthopedic Association Cervical Myelopathy Evaluation 
+Questionnaire, numeric rating scale scores for arm pain, and INTrea might be 
+related to the Japanese Orthopaedic Association (JOA) recovery rate (RR) not 
+achieving the minimal clinically important difference (MCID) (P < .05). Only 
+INTrea (odds ratio = .744, P < .05) was an independent preoperative factor 
+related to the JOA RR not achieving the MCID (area under the curve, .743). A 
+cutoff of 5.0 mm for INTrea had an accuracy of 71.9% and specificity of 80.3% 
+for predicting the JOA RR not achieving the MCID.
+CONCLUSIONS: INTrea is an independent preoperative risk factor related to the 
+JOA RR not achieving the MCID in patients with DCM. A cutoff point of 5.0 mm is 
+most appropriate for alerting spine surgeons to a high likelihood of the JOA RR 
+not achieving the MCID.
+
+DOI: 10.1177/21925682221150908
+PMID: 36626180
+
+
+17. Clin Neurol Neurosurg. 2023 Jan;224:107577. doi:
+10.1016/j.clineuro.2022.107577.  Epub 2022 Dec 26.
+
+Tracheostomy in traumatic cervical spinal cord injury: Early versus late 
+tracheostomy.
+
+Sun D(1), Liu K(2), Jian Y(3), Zhang Z(4), Zhao H(5).
+
+Author information:
+(1)Department of Orthopedics, Xinqiao Hospital, Army Medical University, 
+Chongqing, China. Electronic address: VIPSunDavid@126.com.
+(2)Department of Orthopedics, Xinqiao Hospital, Army Medical University, 
+Chongqing, China. Electronic address: libin1611@163.com.
+(3)Department of Orthopedics, Xinqiao Hospital, Army Medical University, 
+Chongqing, China. Electronic address: jianyb18@126.com.
+(4)Department of Orthopedics, Xinqiao Hospital, Army Medical University, 
+Chongqing, China. Electronic address: zhangz3@126.com.
+(5)Huaihai Hospital of Xuzhou Medical University, Xuzhou, China. Electronic 
+address: ZHQ13852005991@163.com.
+
+OBJECTIVE: The purpose of this study was to characterize the relationship 
+between predictors and the time of tracheostomy after traumatic cervical spinal 
+cord injury (TCSCI).
+METHODS: Five hundred twenty-six patients with TCSCI treated between 
+January,2012 and December, 2021 were retrospectively reviewed. Patients were 
+subdivided into two groups: early tracheostomy (≤7 days from initiation of 
+endotracheal intubation) and late tracheostomy. Comparisons between early 
+tracheostomy and late tracheostomy were statistically analyzed. Logistic 
+regression analysis was applied to identify independent predictors of 
+tracheostomy and calculate probability for different grades of combining 
+predictors to predict tracheostomy. Spearman's correlation coefficient was used 
+to evaluate the association between the grade of combining predictors and the 
+time to tracheostomy.
+RESULTS: Among 526 eligible patients, 63(12.0%) had a tracheostomy performed. 
+Compared with late tracheostomy group, patients in early tracheostomy group had 
+higher ISS, more severe neurological status while fewer In-hospital LOS days and 
+ICU LOS days. By Logistic regression analysis, severe American Spinal Injury 
+Association Impairment Scale (AIS A), the neurological level of injury (NLI>C5), 
+higher Injury Severity Score (ISS>16) and advanced age (over 50 years old) were 
+identified as independent predictors for tracheostomy. Depending on the 
+likelihood of tracheostomy, the combining predictors were graded into five 
+categories. As the value of probability was higher than 50%, Grade I-III made 
+optimistic predictions about tracheostomy. According to Spearman's correlation 
+analysis, early tracheostomy had a strong association with Grade I, while late 
+tracheostomy was closely correlated with Grade III.
+CONCLUSIONS: Factors related to the decision of tracheostomy were ASIA 
+impairment scale, neurological level of injury, injury severity score and age. 
+The grades of combining predictors could support indication for predicting the 
+time of tracheostomy.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.clineuro.2022.107577
+PMID: 36580737 [Indexed for MEDLINE]
+
+
+18. Spine (Phila Pa 1976). 2023 Apr 1;48(7):492-500. doi: 
+10.1097/BRS.0000000000004569. Epub 2022 Dec 28.
+
+Utilization Trends of Intraoperative Neuromonitoring for Anterior Cervical 
+Discectomy and Fusion in New York State.
+
+Zelenty WD(1), Paek S(2), Dodo Y(1)(3), Sarin M(1), Shue J(1), Soffin E(1), Lebl 
+DR(1), Cammisa FP(1), Girardi FP(1), Sokunbi G(1), Sama AA(1), Hughes AP(1).
+
+Author information:
+(1)Orthopaedic Surgery, Spine Care Institute, Hospital for Special Surgery, New 
+York, NY.
+(2)Geisinger Commonwealth School of Medicine, Scranton, PA.
+(3)Department of Orthopedic Surgery, School of Medicine, Showa University 
+Hospital, Tokyo, Japan.
+
+STUDY DESIGN: Retrospective cohort analysis.
+OBJECTIVE: To elucidate trends in the utilization of intraoperative 
+neuromonitoring (IONM) during anterior cervical discectomy and fusion (ACDF) 
+procedures in NY state using the Statewide Planning and Research Cooperative 
+System and to determine if utilization of IONM resulted in a reduction in 
+postoperative neurological deficits.
+SUMMARY OF BACKGROUND DATA: IONM has been available to spinal surgeons for 
+several decades. It has become increasingly prevalent in all facets of spinal 
+surgery including elective ACDF procedures. The utility of IONM for preventing a 
+neurological deficit in elective spine procedures has recently been called into 
+question.
+MATERIALS AND METHODS: The Statewide Planning and Research Cooperative System 
+database were accessed to perform a retrospective cohort study comparing 
+monitored versus unmonitored ACDF procedures between 2007 and 2018 as defined by 
+the International Classification of Disease-9 and 10 Procedural Coding System 
+(ICD-9 PCS, ICD-10 PCS) codes. Patient demographics, medical history, surgical 
+intervention, pertinent in-hospital events, and urban versus rural medical 
+centers (as defined by the United States Office of Management and Budget) were 
+recorded. Propensity-score-matched comparisons were used to identify factors 
+related to the utilization of IONM and risk factors for neurological deficits 
+after elective ACDF.
+RESULTS: A total of 70,838 [15,092 monitored (21.3%) and 55,746 (78.7%) 
+unmonitored] patients' data were extracted. The utilization of IONM since 2007 
+has increased in a linear manner from 0.9% of cases in 2007 to 36.7% by 2018. 
+Overall, baseline characteristics of patients who were monitored during cases 
+differed significantly from unmonitored patients in age, race/ethnicity, 
+insurance type, presence of myelopathy or radiculopathy, and Charlson 
+Comorbidity Index; however, only race/ethnicity was statistically significant 
+when analyzed using propensity-score-matched. When comparing urban and rural 
+medical centers, there is a significant lag in the adoption of the technology 
+with no monitored cases in rural centers until 2012 with significant 
+fluctuations in utilization compared with steadily increasing utilization among 
+urban centers. From 2017 to 2018, reporting of neurological deficits after 
+surgery resembled literature-established norms. Pooled analysis of these years 
+revealed that the incidence of neurological complications occurred more 
+frequently in monitored cases than in unmonitored (3.0% vs. 1.4%, P < 0.001).
+CONCLUSIONS: The utility of IONM for elective ACDF remains uncertain; however, 
+it continues to gain popularity for routine cases. For medical centers that lack 
+similar resources to centers in more densely populated regions of NY state, 
+reliable access to this technology is not a certainty. In our analysis of 
+intraoperative neurological complications, it seems that IONM is not protective 
+against neurological injury.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/BRS.0000000000004569
+PMID: 36576864 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors report no conflicts of interest.
+
+
+19. Beijing Da Xue Xue Bao Yi Xue Ban. 2022 Dec 18;54(6):1208-1213. doi: 
+10.19723/j.issn.1671-167X.2022.06.025.
+
+[Ruxolitinib as an effective treatment for panniculitis associated 
+hemophagocytic syndrome: A report of 2 cases and literature review].
+
+[Article in Chinese]
+
+Li GM(1)(2), Jin YB(2), Gan YZ(2), Chen C(2), Jia Y(2), Li C(2).
+
+Author information:
+(1)Department of Rheumatology, Linyi Traditional Chinese Medicine Hospital, 
+Linyi 276003, Shandong, China.
+(2)Department of Rheumatology and Immunology, Peking University People's 
+Hospital, Beijing 100044, China.
+
+Hemophagocytic syndrome (HPS) is a severe disease characterized by excessive 
+release of inflammatory cytokines caused by abnormal activation of lymphocytes 
+and macrophages, which can cause multiple organ damage and even death. 
+Panniculitis is a disease characterized by inflammation of subcutaneous adipose 
+tissue. We effectively treated 2 patients with panniculitis-associated HPS with 
+ruxolitinib. Case 1: A 70-year-old male started with intermittent plantar 
+swelling and pain, and then developed leukocytosis, mild anemia, multiple red 
+maculopapules with painless subcutaneous nodules on the forehead, neck and 
+bilateral lower legs. The patient was treated with prednisone and leflunomide 
+for improvement. After that, repeated fever and rash occurred again. After 
+admission to our hospital, we found his leukocyte and hemoglobin decreased, 
+ferritin raised, fibrinogen and natural killer (NK) cell activity decreased, and 
+hemophagocytic cells were found in bone marrow aspiration. The skin pathology 
+was consistent with non-suppurative nodular panniculitis. He was diagnosed with 
+nodular panniculitis associa-ted HPS. He was treated with glucocorticoid, 
+cyclosporine, etoposide and gamma globule, but the disease was not completely 
+controlled. After adjusting etoposide to ruxolitinib, his symptoms and abnormal 
+laboratory findings returned to normal. After 2 months he stopped using 
+ruxolitinib due to repeated infections. During the follow-up, though the 
+prednisone dose was tapered, his condition was stable. Case 2: A 46-year-old 
+female patient developed from intermittent fever, erythematous nodular rash with 
+tenderness, leukopenia, and abnormal liver function. antibiotic therapy was 
+ineffective. She improved after glucocorticoid treatment, and relapsed after 
+glucocorticoid reduction. There were fever, limb nodules, erythema with 
+ulcerative necrosis, intermittent abdominal pain when she came to our hospital. 
+Blood examination showed that her white blood cells, red blood cells and 
+platelets were decreased, fibrinogen was decreased, triglyceride was increased, 
+ferritin and soluble interleukin-2 receptor(SIL-2R/sCD25) were significantly 
+raised, and hemophagocytic cells were found in bone marrow aspiration. It was 
+found that Epstein-Barr virus DNA was transiently positive, skin Staphylococcus 
+aureus infection, and pulmonary Aspergillus flavus infection, but C-reactive 
+protein (CRP) and erythrocyte sedimentation rate (ESR) were normal, and no 
+evidence of tumor and other infection was found. Skin pathology was considered 
+panniculitis. The diagnosis was panniculitis, HPS and complicated infection. 
+Antibiotic therapy and symptomatic blood transfusion were given first, but the 
+disease was not controlled. Later, dexamethasone was given, and the condition 
+improved, but the disease recurred after reducing the dose of dexamethasone. Due 
+to the combination of multiple infections, the application of etoposide had a 
+high risk of infection spread. Ruxolitinib, dexamethasone, and anti-infective 
+therapy were given, and her condition remained stable after dexamethasone 
+withdrawal. After 2 months of medication, she stopped using ruxolitinib. One 
+week after stopping using ruxolitinib, she developed fever and died after 2 
+weeks of antibiotic therapy treatment in a local hospital. In conclusion, 
+panniculitis and HPS are related in etiology, pathogenic mechanism and clinical 
+manifestations. Abnormal activation of Janus-kinase and signal transduction 
+activator of transcription pathway and abnormal release of inflammatory factors 
+play an important role in the pathogenesis of the two diseases. The report 
+suggests that ruxolitinib is effective and has broad prospects in the treatment 
+of panniculitis associated HPS.
+
+DOI: 10.19723/j.issn.1671-167X.2022.06.025
+PMCID: PMC9761834
+PMID: 36533357 [Indexed for MEDLINE]
+
+
+20. Acta Neuropathol. 2023 Feb;145(2):219-233. doi: 10.1007/s00401-022-02527-z.
+Epub  2022 Dec 5.
+
+Brain and spinal cord arteriolosclerosis and its associations with 
+cerebrovascular disease risk factors in community-dwelling older adults.
+
+Oveisgharan S(1)(2), Kim N(3)(4), Agrawal S(3)(5), Yu L(3)(4), Leurgans S(3)(4), 
+Kapasi A(3)(6), Arfanakis K(3)(5)(7), Bennett DA(3)(4), Schneider JA(3)(4)(6), 
+Buchman AS(3)(4).
+
+Author information:
+(1)Rush Alzheimer's Disease Center, Rush University Medical Center, 1750 W 
+Harrison, Suite 1000, Chicago, IL, USA. shahram_oveisgharan@rush.edu.
+(2)Department of Neurological Sciences, Rush University Medical Center, Chicago, 
+IL, USA. shahram_oveisgharan@rush.edu.
+(3)Rush Alzheimer's Disease Center, Rush University Medical Center, 1750 W 
+Harrison, Suite 1000, Chicago, IL, USA.
+(4)Department of Neurological Sciences, Rush University Medical Center, Chicago, 
+IL, USA.
+(5)Department of Diagnostic Radiology and Nuclear Medicine, Rush University 
+Medical Center, Chicago, IL, USA.
+(6)Department of Pathology, Rush University Medical Center, Chicago, IL, USA.
+(7)Department of Biomedical Engineering, Illinois Institute of Technology, 
+Chicago, IL, USA.
+
+Arteriolosclerosis is common in older brains and related to cognitive and motor 
+impairment. We compared the severity of arteriolosclerosis and its associations 
+with cerebrovascular disease risk factors (CVD-RFs) in multiple locations in the 
+brain and spinal cord. Participants (n = 390) were recruited in the context of a 
+longitudinal community-based clinical-pathological study, the Rush Memory and 
+Aging Project. CVD-RFs were assessed annually for an average of 8.7 (SD = 4.3) 
+years before death. The annual assessments included systolic (SBP) and diastolic 
+(DBP) blood pressure, diabetes mellitus (DM), low- and high-density lipoprotein 
+cholesterol, triglyceride, body mass index, and smoking. Postmortem pathological 
+assessments included assessment of arteriolosclerosis severity using the same 
+rating scale in three brain locations (basal ganglia, frontal, and parietal 
+white matter regions) and four spinal cord levels (cervical, thoracic, lumbar 
+and sacral levels). A single measure was used to summarize the severity of 
+spinal arteriolosclerosis assessments at the four levels due to their high 
+correlations. Average age at death was 91.5 (SD = 6.2) years, and 73% were 
+women. Half showed arteriolosclerosis in frontal white matter and spinal cord 
+followed by parietal white matter (38%) and basal ganglia (27%). The severity of 
+arteriolosclerosis in all three brain locations showed mild-to-moderate 
+correlations. By contrast, spinal arteriolosclerosis was associated with brain 
+arteriolosclerosis only in frontal white matter. Higher DBP was associated with 
+more severe arteriolosclerosis in all three brain locations. DM was associated 
+with more severe arteriolosclerosis only in frontal white matter. Controlling 
+for DBP, higher SBP was inversely associated with arteriolosclerosis in parietal 
+white matter. Blood cholesterol and triglyceride, high body mass index, or 
+smoking were not related to the severity of arteriolosclerosis in any brain 
+region. None of the CVD-RFs were associated with the severity of spinal 
+arteriolosclerosis. These data indicate that severity of arteriolosclerosis and 
+its associations with CVD-RFs may vary in different CNS locations.
+
+© 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00401-022-02527-z
+PMCID: PMC10183107
+PMID: 36469116 [Indexed for MEDLINE]
+
+Conflict of interest statement: Relevant conflicts of interest/financial 
+disclosures: No conflicts to report.

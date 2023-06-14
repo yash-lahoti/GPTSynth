@@ -1,14 +1,17 @@
 import csv
+import os
 import re
 import urllib.request
 from time import sleep
+import numpy as np
 
 
-def pubmed_extract_data(query, num_samp=30):
+def pubmed_extract_data(query, num_pulls=4, total_abstract_count=200):
 
     # common settings between esearch and efetch
     base_url = 'http://eutils.ncbi.nlm.nih.gov/entrez/eutils/'
     db = 'db=pubmed'
+    os.makedirs(query, exist_ok=True)
 
     # esearch settings
     search_eutil = 'esearch.fcgi?'
@@ -23,11 +26,13 @@ def pubmed_extract_data(query, num_samp=30):
     search_data = f.read().decode('utf-8')
 
     # extract the total abstract count
-    total_abstract_count = int(re.findall("<Count>(\d+?)</Count>",search_data)[0])
+    #total_abstract_count = int(re.findall("<Count>(\d+?)</Count>",search_data)[0])
+    total_abstract_count = 200
+
 
     # efetch settings
     fetch_eutil = 'efetch.fcgi?'
-    retmax = 20
+    retmax = np.floor(total_abstract_count/num_pulls)
     retstart = 0
     fetch_retmode = "&retmode=text"
     fetch_rettype = "&rettype=abstract"
@@ -52,34 +57,14 @@ def pubmed_extract_data(query, num_samp=30):
         # open the efetch url
         f = urllib.request.urlopen (fetch_url)
         fetch_data = f.read().decode('utf-8')
-        # split the data into individual abstracts
-        abstracts = fetch_data.split("\n\n\n")
-        # append to the list all_abstracts
-        all_abstracts = all_abstracts+abstracts
-        print("a total of " + str(len(all_abstracts)) + " abstracts have been downloaded.\n")
+        with open(f"{query}/{retstart}-{retmax+retstart}.txt", "w") as text_file:
+            text_file.write(fetch_data)
         # wait 2 seconds so we don't get blocked
         sleep(5)
         # update retstart to download the next chunk of abstracts
         retstart = retstart + retmax
-        if len(all_abstracts) > num_samp:
+        if len(loop_counter) > num_pulls:
             run = False
-
-    with open("abstracts.csv", "wt") as abstracts_file, open ("partial_abstracts.csv", "wt") as partial_abstracts:
-        # csv writer for full abstracts
-        abstract_writer = csv.writer(abstracts_file)
-        abstract_writer.writerow(['Journal', 'Title', 'Authors', 'Author_Information', 'Abstract', 'DOI', 'Misc'])
-        # csv writer for partial abstracts
-        partial_abstract_writer = csv.writer(partial_abstracts)
-        #For each abstract, split into categories and write it to the csv file
-        for abstract in all_abstracts:
-            #To obtain categories, split every double newline.
-            split_abstract = abstract.split("\n\n")
-            if len(split_abstract) > 5:
-                abstract_writer.writerow(split_abstract)
-            else:
-                partial_abstract_writer.writerow(split_abstract)
-
-
 
 def main():
     query = input('Enter your question: ')

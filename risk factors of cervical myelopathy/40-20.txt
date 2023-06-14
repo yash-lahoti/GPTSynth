@@ -1,0 +1,1278 @@
+1. Eur Spine J. 2023 Jan;32(1):110-117. doi: 10.1007/s00586-022-07476-5. Epub
+2022  Nov 29.
+
+Risk factors for thirty-day morbidity and mortality after spinal trauma.
+
+Sreeharsha P(1), Kanna RM(2), Milton R(1), Shetty AP(1), Rajasekaran S(1).
+
+Author information:
+(1)Ganga Hospital, Coimbatore, 641043, India.
+(2)Ganga Hospital, Coimbatore, 641043, India. rishiortho@gmail.com.
+
+BACKGROUND: Traumatic Spinal Injuries (TSI) often follow high velocity injuries 
+and frequently accompanied by polytrauma. While most studies have focussed on 
+outcomes of spinal cord injuries, the incidence and risk factors that predict 
+morbidity and mortality after TSI has not been well-defined.
+METHODS: Data of consecutive patients of TSI (n = 2065) treated over a 
+5-year-period were evaluated for demographics, injury mechanisms, neurological 
+status, associated injuries, timing of surgery and co-morbidities. The 
+thirty-day incidence and risk factors for complications, length of stay and 
+mortality were analysed.
+RESULTS: The incidence of spinal trauma was 6.2%. Associated injuries were seen 
+in 49.7% (n = 1028), and 33.5% (n = 692) patients had comorbidities. The 30-day 
+mortality was 0.73% (n = 15). Associated chest injuries (p = 0.0001), cervical 
+spine injury (p = 0.0001), ASIA-A neurology (p < 0.01) and ankylosing 
+spondylitis (p = 0.01) correlated with higher mortality. Peri-operative 
+morbidity was noted in 571 patients (27.7%) and were significantly associated 
+with age > 60 (p = 0.043), ASIA-A neurology (p < 0.05), chest injuries 
+(p = 0.042), cervical and thoracic spine injury (p < 0.0001). The mean length of 
+stay in hospital was 8.87 days. Cervical spine injury (p < 0.0001), delay in 
+surgery > 48 h (p = 0.011), Diabetes mellitus (p = 0.01), Ankylosing spondylitis 
+(p = 0.009), associated injuries of chest, head, pelvis and face (p < 0.05) were 
+independent risk factors for longer hospital stay.
+CONCLUSION: Key predictors of mortality after spinal trauma were cervical spine 
+injury, complete neurological deficit, chest injuries and ankylosing 
+spondylitis, while additionally higher age and thoracic injuries contributed to 
+higher morbidity and prolonged hospitalisation. Notably multi-level injuries, 
+higher age, co-morbidities and timing of surgery did not influence the 
+mortality.
+
+© 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00586-022-07476-5
+PMID: 36443511 [Indexed for MEDLINE]
+
+
+2. Childs Nerv Syst. 2023 May;39(5):1323-1328. doi: 10.1007/s00381-022-05748-5. 
+Epub 2022 Nov 18.
+
+How did intraoperative neuromonitorization prevent tetraplegia?
+
+Sahin MC(1), Ipek EM(2), Zinnuroglu M(2), Borcek AO(3).
+
+Author information:
+(1)Faculty of Medicine Department of Neurosurgery, Gazi University, 06560, 
+Ankara, Turkey. dr.mcaglarsahin@gmail.com.
+(2)Faculty of Medicine Department of Physical Medicine and Rehabilitation, Gazi 
+University, 06560, Ankara, Turkey.
+(3)Faculty of Medicine Department of Neurosurgery Division of Pediatric 
+Neurosurgery, Gazi University, 06560, Ankara, Turkey.
+
+Patients with mucopolysaccharidosis type IVA (MPS IVA) have many risk factors 
+for myelopathy and paresis. These are spinal cord compression, bone stenosis, 
+and soft tissue thickening with ligament laxity, deformity, odontoid hypoplasia, 
+and atlantoaxial instability. Although most patients with MPS IVA appear 
+generally healthy at birth, patients often show skeletal deformities within a 
+few years. Surgical indications are difficult to determine. Historically, many 
+physicians have used prophylactic decompression and fusion in young, 
+asymptomatic MPS IVA patients to prevent cord compression. Although spinal cord 
+decompression is usually required at the craniocervical junction in patients 
+with MPS IVA, decompression may be required at other spinal cord levels as well. 
+There is a risk of developing neurological damage during surgery. The most 
+common causes are ischemia secondary to cardiac output deteriorated in the prone 
+position or due to artery damage, and local trauma due to neck movements or 
+traction while bringing the patient to the prone position. Neurophysiological 
+monitoring is very important during surgery to reduce the risk of neurological 
+damage in spinal cord surgery. In this case report, a case with loss of lower 
+extremity neuromonitorization motor evoked potential (MEP) responses in the 
+early period of surgery without any intervention to the craniocervical junction 
+after prone positioning will be presented.
+
+© 2022. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00381-022-05748-5
+PMID: 36400977 [Indexed for MEDLINE]
+
+
+3. World Neurosurg. 2023 Feb;170:157. doi: 10.1016/j.wneu.2022.11.032. Epub 2022 
+Nov 16.
+
+Surgical Correction of Distal Junctional Kyphosis.
+
+Azzam MM(1), Guiroy AJ(2), Galgano MA(3).
+
+Author information:
+(1)School of Medicine, St. George's University, Grenada, West Indies. Electronic 
+address: mazzam@sgu.edu.
+(2)Spinal Pathology Unit, Spanish Hospital of Mendoza, Mendoza, Argentina.
+(3)Department of Neurosurgery, University of North Carolina, Chapel Hill, North 
+Carolina, USA.
+
+Distal junctional kyphosis (DJK) is defined as the development of a kyphotic 
+angulation over 10 degrees below a fusion construct and has been described as a 
+complication of the treatment of adolescent idiopathic scoliosis, Scheuermann 
+kyphosis, adult spinal deformity, and cervical deformity. There are some 
+inherent risk factors to DJK: multilevel fusions, damage to the midline soft 
+tissues including interspinous/supraspinous ligaments, T5-T12 thoracic kyphosis, 
+T11-L2 thoracolumbar kyphosis, and increased mismatch between cervical lordosis 
+and T1 slope. A 53-year-old male presented with cervicalgia, inability to 
+sustain horizontal gaze, and kyphosis-enabled forward head posture. He underwent 
+C3-T1 posterior decompression and fusion as treatment for cervical myelopathy 18 
+months prior. Neurologic examination was normal, with appreciable protrusion of 
+the T1 vertebral spinous process. Surgery was initiated through subperiosteal 
+exposure of C2-T6, followed by removal of previously set instrumentation, 
+placement of new screws, and posterior column osteotomies of selected segments. 
+Final steps involved compression across excised portions, locking pedicle 
+screws, and a multirod insertion after closure of the posterior column 
+osteotomies by compression maneuvers. Correction for DJK encompasses sagittal 
+alignment restoration, a stable construct, and a good biological environment for 
+healing. Failure of DJK realignment can occur if the patient's ligaments 
+deteriorate distal to the construct or fractures develop in vertebral bodies at 
+the lowest instrumented vertebra or lowest instrumented vertebra +1. One year 
+after surgery, the patient's condition improved, evidenced from both patient 
+self-report and a standing posture radiograph.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2022.11.032
+PMID: 36400358 [Indexed for MEDLINE]
+
+
+4. J Clin Neurosci. 2023 Jan;107:167-171. doi: 10.1016/j.jocn.2022.10.029. Epub 
+2022 Nov 12.
+
+Use of random forest machine learning algorithm to predict short term outcomes 
+following posterior cervical decompression with instrumented fusion.
+
+Cabrera A(1), Bouterse A(1), Nelson M(1), Razzouk J(1), Ramos O(2), Chung D(3), 
+Cheng W(4), Danisa O(5).
+
+Author information:
+(1)School of Medicine, Loma Linda University, Loma Linda, CA 92354, USA.
+(2)Twin Cities Spine Center, Minneapolis, MN 55404, USA.
+(3)Department of Orthopedic Surgery, Loma Linda University, Loma Linda, CA 
+92354, USA.
+(4)Jerry L Pettis Memorial Veterans Hospital, Loma Linda, CA 92354, USA.
+(5)Department of Orthopedic Surgery, Loma Linda University, Loma Linda, CA 
+92354, USA. Electronic address: odanisa@llu.edu.
+
+Random Forest (RF) is a widely used machine learning algorithm that can be 
+utilized for identification of patient characteristics important for outcome 
+prediction. Posterior cervical decompression with instrumented fusion (PCDF) is 
+a procedure for the management of cervical spondylosis, cervical spinal 
+stenosis, and degenerative disorders that can cause cervical myelopathy or 
+radiculopathy. An RF algorithm was employed to predict and describe length of 
+stay (LOS), readmission, reoperation, transfusion, and infection rates following 
+elective PCDF using The American College of Surgeons National Quality 
+Improvement Program (ACS-NSQIP) database 2008 through 2018. The RF algorithm was 
+tasked with determining the importance of independent clinical variables in 
+predicting our outcomes of interest and importance of each variable based on the 
+reduction in the Gini index. Application of an RF algorithm to the ACS-NSQIP 
+database yielded a highly predictive set of patient characteristics and 
+perioperative events for five outcomes of interest related to elective PCDF. 
+These variables included postoperative infection, increased age, BMI, operative 
+time, and LOS, and decreased preoperative hematocrit and white blood cell count. 
+Risk factors that were predictive for rate of reoperation, readmission, hospital 
+length of stay, transfusion requirement, and post-operative infection were 
+identified with AUC values of 0.781, 0.791, 0.781, 0.902, and 0.724 
+respectively. Utilization of these findings may assist in risk analysis during 
+the perioperative period and may influence clinical or surgical decision-making.
+
+Copyright © 2022 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jocn.2022.10.029
+PMID: 36376149 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+5. Front Med (Lausanne). 2022 Oct 18;9:943596. doi: 10.3389/fmed.2022.943596. 
+eCollection 2022.
+
+Intraoperative hypotension in non-emergency decompression surgery for cervical 
+spondylosis: The role of chronic arterial hypertension.
+
+Chiang TY(1), Wang YK(1), Huang WC(2)(3), Huang SS(4)(5), Chu YC(1)(2).
+
+Author information:
+(1)Department of Anesthesiology, Taipei Veterans General Hospital, Taipei City, 
+Taiwan.
+(2)School of Medicine, National Yang Ming Chiao Tung University, Hsinchu, 
+Taiwan.
+(3)Department of Neurosurgery, Neurological Institute, Taipei Veterans General 
+Hospital, Taipei City, Taiwan.
+(4)Department of Pharmacology, Institute of Medicine, Chung Shan Medical 
+University, Taichung, Taiwan.
+(5)Department of Pharmacy, Chung Shan Medical University Hospital, Taichung, 
+Taiwan.
+
+BACKGROUND: Cervical spondylotic myelopathy and chronic hypertension show a 
+cause-effect relationship. Hypertension increases cardiovascular risk and is 
+associated with intraoperative hypotension. We aimed to evaluate intraoperative 
+hypotension in patients undergoing non-emergency decompression surgery for 
+cervical spondylosis and its association with clinical myelopathy and chronic 
+arterial hypertension.
+METHODS: This retrospective cohort study used healthcare data of adult patients 
+undergoing cervical spine surgeries at Taipei Veterans General Hospital from 
+2015 to 2019. The primary outcomes were the incidence of intraoperative 
+hypotension and predictive factors, and the secondary outcomes were the 
+association of intraoperative hypotension and postoperative adverse outcomes in 
+the surgical population.
+RESULTS: Among the 1833 patients analyzed, 795 (43.4%) required vasopressor 
+treatment and 342 (18.7%) showed persistent hypotension. Factors independent 
+associated with hypotension after anesthetic induction were age [odds ratio 
+(OR), 1.15; 95% confidence interval (CI), 1.07-1.23 per 5 years, P < 0.001], 
+male sex (OR, 1.63; 95% CI, 1.21-2.19, P < 0.001), chronic hypertension (OR, 
+1.77; 95% CI, 1.32-2.38, P < 0.001), upper cervical spine level C0-2 treated 
+(OR, 3.04; 95% CI, 1.92-4.84, P < 0.001 vs. C3-T1), and increased number of 
+spine segments treated (OR, 1.43; 95% CI 1.26-1.63, P < 0.001). Patients who 
+developed intraoperative hypotension experienced more acute postoperative kidney 
+injury (OR, 7.90; 95% CI, 2.34-26.63, P < 0.001), greater need for intensive 
+care (OR, 1.80; 95% CI, 1.24-2.60, P = 0.002), and longer admission after 
+surgery (1.09 days longer, 95% CI 0.06-2.12, P = 0.038).
+CONCLUSION: Intraoperative hypotension is common even in non-emergency cervical 
+spine surgery. A history of hypertension independently predicted intraoperative 
+hypotension. Prompt assessments for identifiable features can help ameliorate 
+intraoperative hypotension.
+
+Copyright © 2022 Chiang, Wang, Huang, Huang and Chu.
+
+DOI: 10.3389/fmed.2022.943596
+PMCID: PMC9622940
+PMID: 36330062
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+6. J Neurosurg Spine. 2022 Oct 28;38(3):357-365. doi: 10.3171/2022.9.SPINE22611. 
+Print 2023 Mar 1.
+
+Development of new postoperative neck pain at 12 and 24 months after surgery for 
+cervical spondylotic myelopathy: a Quality Outcomes Database study.
+
+Sherrod BA(1), Michalopoulos GD(2), Mulvaney G(3), Agarwal N(4), Chan AK(5), 
+Asher AL(3), Coric D(3), Virk MS(6), Fu KM(6), Foley KT(7), Park P(8), Upadhyaya 
+CD(9)(10), Knightly JJ(11), Shaffrey ME(12), Potts EA(13), Shaffrey CI(5), 
+Gottfried ON(5), Than KD(5), Wang MY(14), Tumialán LM(15), Chou D(4), Mummaneni 
+PV(4), Bydon M(2), Bisson EF(1).
+
+Author information:
+(1)1Department of Neurosurgery, Clinical Neurosciences Center, University of 
+Utah, Salt Lake City, Utah.
+(2)2Department of Neurosurgery, Mayo Clinic, Rochester, Minnesota.
+(3)3Department of Neurosurgery, Carolina Neurosurgery and Spine Associates and 
+Neuroscience Institute, Carolinas Health Care System, Charlotte, North Carolina.
+(4)4Department of Neurosurgery, University of California, San Francisco, 
+California.
+(5)5Department of Neurosurgery, Duke University, Durham, North Carolina.
+(6)6Department of Neurosurgery, Weill Cornell Medical College, New York, New 
+York.
+(7)7Department of Neurosurgery, University of Tennessee and Semmes Murphey 
+Clinic, Memphis, Tennessee.
+(8)8Department of Neurosurgery, University of Michigan, Ann Arbor, Michigan.
+(9)9Saint Luke's Neurological and Spine Surgery, Kansas City, Missouri.
+(10)10Department of Neurosurgery, University of North Carolina, Chapel Hill, 
+North Carolina.
+(11)11Atlantic Neurosurgical Specialists, Morristown, New Jersey.
+(12)12Department of Neurosurgery, University of Virginia Health System, 
+Charlottesville, Virginia.
+(13)13Department of Neurosurgery, Indiana University; Goodman Campbell Brain and 
+Spine, Indianapolis, Indiana.
+(14)14Department of Neurosurgery, University of Miami, Florida; and.
+(15)15Barrow Brain and Spine, Phoenix, Arizona.
+
+OBJECTIVE: Patients who undergo surgery for cervical spondylotic myelopathy 
+(CSM) will occasionally develop postoperative neck pain that was not present 
+preoperatively, yet the incidence of this phenomenon is unclear. The authors 
+aimed to elucidate patient and surgical factors associated with new-onset 
+sustained pain after CSM surgery.
+METHODS: The authors reviewed data from the Quality Outcomes Database (QOD) CSM 
+module. The presence of neck pain was defined using the neck pain numeric rating 
+scale (NRS). Patients with no neck pain at baseline (neck NRS score ≤ 1) were 
+then stratified based on the presence of new postoperative pain development 
+(neck NRS score ≥ 2) at 12 and 24 months postoperatively.
+RESULTS: Of 1141 patients in the CSM QOD, 224 (19.6%) reported no neck pain at 
+baseline. Among 170 patients with no baseline neck pain and available 12-month 
+follow-up, 46 (27.1%) reported new postoperative pain. Among 184 patients with 
+no baseline neck pain and available 24-month follow-up, 53 (28.8%) reported new 
+postoperative pain. The mean differences in neck NRS scores were 4.3 for those 
+with new postoperative pain compared with those without at 12 months (4.4 ± 2.2 
+vs 0.1 ± 0.3, p < 0.001) and 3.9 at 24 months (4.1 ± 2.4 vs 0.2 ± 0.4, p < 
+0.001). The majority of patients reporting new-onset neck pain reported being 
+satisfied with surgery, but their satisfaction was significantly lower compared 
+with patients without pain at the 12-month (66.7% vs 94.3%, p < 0.001) and 
+24-month (65.4% vs 90.8%, p < 0.001) follow-ups. The baseline Neck Disability 
+Index (NDI) was an independent predictor of new postoperative neck pain at both 
+the 12-month and 24-month time points (adjusted OR [aOR] 1.04, 95% CI 1.01-1.06; 
+p = 0.002; and aOR 1.03, 95% CI 1.01-1.05; p = 0.026, respectively). The total 
+number of levels treated was associated with new-onset neck pain at 12 months 
+(aOR 1.34, 95% CI 1.09-1.64; p = 0.005), and duration of symptoms more than 3 
+months was a predictor of 24-month neck pain (aOR 3.22, 95% CI 1.01-10.22; p = 
+0.048).
+CONCLUSIONS: Increased NDI at baseline, number of levels treated surgically, and 
+duration of symptoms longer than 3 months preoperatively correlate positively 
+with the risk of new-onset neck pain following CSM surgery. The majority of 
+patients with new-onset neck pain still report satisfaction from surgery, 
+suggesting that the risk of new-onset neck pain should not hinder indicated 
+operations from being performed.
+
+DOI: 10.3171/2022.9.SPINE22611
+PMID: 36308471 [Indexed for MEDLINE]
+
+
+7. Orthop Surg. 2022 Dec;14(12):3225-3232. doi: 10.1111/os.13552. Epub 2022 Oct
+17.
+
+Preoperative Cervical Cobb Angle Is a Risk Factor for Postoperative Axial Neck 
+Pain after Anterior Cervical Discectomy and Fusion with Zero-Profile Interbody.
+
+Cao Y(#)(1)(2), Xu C(#)(1), Sun B(#)(1), Cui C(#)(1), Zhang K(1), Wu H(1), Qi 
+M(1), Xi Y(2), Yuan W(1), Shen X(1), Liu Y(1).
+
+Author information:
+(1)Spine Center, Department of Orthopedics, Shanghai Changzheng Hospital, Naval 
+Medical University, Shanghai, PR China.
+(2)Department of Orthopedics, The Affiliated Hospital of Qingdao University 
+Medical College, Qingdao University, Qingdao, PR China.
+(#)Contributed equally
+
+OBJECTIVES: Anterior cervical discectomy and fusion (ACDF) with zero-profile 
+interbody has a lower incidence of complications in treating cervical 
+spondylotic myelopathy (CSM). However, postoperative axial neck pain is still 
+commonly occurred, and the factors affecting which is not known. Here, we 
+retrospectively analyze the risk factors for postoperative axial pain after 
+performing ACDF with zero-profile implant in single-level CSM.
+METHODS: Patients who suffered from single-level CSM and who received ACDF with 
+zero-profile implant between 2018 January to 2020 December were reviewed. Of 180 
+single-level CSM patients, 144 patients who passed the inclusion criteria were 
+enrolled. Patients were divided into two groups according to the severity of 
+postoperative axial pain as measured by postoperative neck visual analogue scale 
+(nVAS). Clinical parameters including age, sex, smoking history, symptom 
+duration, body mass index (BMI), the Japanese Orthopaedic Association (JOA) 
+scores, as well as radiological parameters were obtained pre- and 
+post-operatively, and the data were compared between two groups. Pearson's 
+chi-square tests and Mann-Whitney U tests were implemented to identify 
+statistically significant differences between subgroups for categorical and 
+continuous data, respectively; otherwise, the data were tested with Student's 
+t-test. Risk factors were identified using logistic regression.
+RESULTS: Of the patients (97.8%) achieved satisfied neurological recovery, and 
+88.2% of the patients achieved fusion at 1-year follow-up. 33% of the patients 
+(48 patients out of 144) had sustained postoperative axial pain after the 
+surgery. Comparison of different severity groups exhibited no significant 
+differences in terms of the possible risk factors (P > 0.05) except for pre- and 
+post-operative C2-C7 Cobb angles (6.33 ± 6.53 vs. 11.88 ± 7.41, P < 0.05; 
+13.49 ± 5.31 vs 16.64 ± 7.34, P < 0.05). Furthermore, correlation analysis 
+showed that the preoperative C2-C7 Cobb angle is significantly correlated with 
+the severity of the postoperative axial pain (R2  = 0.83, P < 0.01). In 
+addition, logistic regression analysis demonstrated that the preoperative C2-C7 
+Cobb angle is an independent predictor of postoperative axial pain (P < 0.01, 
+OR = 0.53). Further receiver operating characteristic (ROC) analysis displayed 
+an area under the curve (AUC) of 0.78 (P < 0.01) for preoperative C2-C7 Cobb 
+angle, and the optimal cutoff was 8.4° (sensitivity 0.77, specificity 0.65).
+CONCLUSION: The pre-operative C2-C7 Cobb angle is a risk factor for severe 
+postoperative axial pain after anterior cervical discectomy and fusion with 
+zero-profile interbody, and we should be cautious when poor preoperative C2-C7 
+Cobb angle is found in myelopathy patients planning to use zero-profile 
+interbody to treat such patients.
+
+© 2022 The Authors. Orthopaedic Surgery published by Tianjin Hospital and John 
+Wiley & Sons Australia, Ltd.
+
+DOI: 10.1111/os.13552
+PMCID: PMC9732633
+PMID: 36250553 [Indexed for MEDLINE]
+
+
+8. Brain Spine. 2022 Jan 22;2:100869. doi: 10.1016/j.bas.2022.100869. eCollection
+ 2022.
+
+Clinical adjacent segment pathology after anterior cervical discectomy, with and 
+without fusion, for cervical degenerative disc disease: A single center 
+retrospective cohort study with long-term follow-up.
+
+Schuermans VNE(1)(2), Smeets AYJM(1)(2), Wijsen NPMH(3), Curfs I(4), Boselie 
+TFM(1)(2), van Santbrink H(1)(2)(5).
+
+Author information:
+(1)Department of Neurosurgery, Maastricht University Medical Center+, P. 
+Debyelaan 25, 6229 HX, Maastricht, the Netherlands.
+(2)Department of Neurosurgery, Zuyderland Medical Center, Henri Dunantstraat 5, 
+6419 PC, Heerlen, the Netherlands.
+(3)Faculty of Health, Medicine and Life Sciences, Maastricht University, 
+Universiteitssingel 40, 6229 ER, Maastricht, the Netherlands.
+(4)Department of Orthopaedic Surgery and Traumatology, Zuyderland Medical 
+Center, Henri Dunantstraat 5, 6419 PC, Heerlen, the Netherlands.
+(5)CAPHRI School for Public Health and Primary Care, Maastricht University, 
+Universiteitssingel 40, 6229 ER, Maastricht, the Netherlands.
+
+INTRODUCTION: Clinical adjacent segment pathology (CASP) continues to be a cause 
+of concern after anterior surgical treatment for single- or multilevel cervical 
+degenerative disc disease (CDDD). The current literature reports inconsistent 
+incidence rates and contended risk factors in the development of CASP.
+RESEARCH QUESTION: The aim is to determine the incidence of additional 
+CASP-related surgeries after anterior cervical discectomy with fusion (ACDF) or 
+without fusion (ACD) for CDDD. Secondary outcomes include risk factors for the 
+development of CASP and long-term clinical outcomes.
+MATERIALS & METHODS: This is a single-center, retrospective cohort study with a 
+long-term follow up. Patients undergoing ACD(F) for CDDD between January 2012 
+and December 2019 were included.
+RESULTS: A total of 601 patients were included, with an average follow-up period 
+of 5.0 years. Most patients underwent ACDF with stand-alone cages (87.7%). CASP 
+developed in 58 (9.7%) patients, 41 (70.7%) of which required additional 
+adjacent level surgery. ACD significantly accelerated the development of CASP. 
+The C2-C7 Cobb angle appeared less lordotic upon early post-operative imaging in 
+ACDF patients that later-on developed CASP. Baseline degeneration at the index 
+level and adjacent levels was not significantly different between patients with 
+and without CASP.
+DISCUSSION & CONCLUSION: In this retrospective cohort, we observe a relatively 
+low rate of additional surgery for CASP in ACDF with stand-alone cages. We 
+suggest that surgical technique, fusion, segmental kyphosis and natural 
+degeneration play a multifactorial role in the development of CASP. Complication 
+rates were low and clinical outcomes were similar for all techniques used.
+
+© 2022 The Author(s).
+
+DOI: 10.1016/j.bas.2022.100869
+PMCID: PMC9560678
+PMID: 36248168
+
+Conflict of interest statement: The authors declare that they have no known 
+competing financial interests or personal relationships that could have appeared 
+to influence the work reported in this paper.
+
+
+9. BJU Int. 2023 Apr;131(4):503-512. doi: 10.1111/bju.15918. Epub 2022 Oct 28.
+
+Temporal development of unfavourable urodynamic parameters during the first year 
+after spinal cord injury.
+
+Anderson CE(1)(2)(3), Kozomara M(3)(4), Birkhäuser V(3), Bywater M(3)(5), Gross 
+O(3), Kiss S(3)(5), Knüpfer SC(3)(6), Koschorke M(3), Leitner L(3), Mehnert 
+U(3), Sadri H(3), Sammer U(3), Stächele L(3), Tornic J(3)(7), Liechti MD(3), 
+Brinkhof MWG(1)(2), Kessler TM(3).
+
+Author information:
+(1)Swiss Paraplegic Research, Nottwil, Switzerland.
+(2)Department of Health Sciences and Medicine, University of Lucerne, Lucerne, 
+Switzerland.
+(3)Department of Neuro-Urology, Balgrist University Hospital, University of 
+Zürich, Zürich, Switzerland.
+(4)Department of Urology, University Hospital Zürich, University of Zürich, 
+Zürich, Switzerland.
+(5)Department of Urology, Cantonal Hospital Aarau, Aarau, Switzerland.
+(6)Department of Urology, Clinic for Urology, University Hospital Bonn, Bonn, 
+Germany.
+(7)Department of Urology, Winterthur Cantonal Hospital, Winterthur, Switzerland.
+
+OBJECTIVES: To describe the temporal development of and risk factors for the 
+occurrence of unfavourable urodynamic parameters during the first year after 
+spinal cord injury (SCI).
+PATIENTS AND METHODS: This population-based longitudinal study used data from 97 
+adult patients with a single-event traumatic or ischaemic SCI who underwent 
+video-urodynamic investigation (UDI) at a university SCI centre. The first 
+occurrences of unfavourable urodynamic parameters (detrusor overactivity 
+combined with detrusor sphincter dyssynergia [DO-DSD], maximum storage detrusor 
+pressure ≥40 cmH2 O, bladder compliance <20 mL/cmH2 O, vesico-ureteric reflux 
+[VUR] and any unfavourable parameter [composite outcome]) were evaluated using 
+time-to-event analysis.
+RESULTS: The majority of the population (87/97 [90%]) had at least one 
+unfavourable urodynamic parameter. Most unfavourable urodynamic parameters were 
+initially identified during the 1- or 3-month UDI, including 92% of the DO-DSD 
+(78/85), 82% of the maximum storage pressure ≥40 cmH2 O (31/38), and 100% of the 
+VUR (seven of seven) observations. No low bladder compliance was observed. The 
+risk of DO-DSD was elevated in patients with thoracic SCI compared to those with 
+lumbar SCI (adjusted hazard ratio [aHR] 2.38, 95% confidence interval [CI] 
+1.16-4.89). Risk of maximum storage detrusor pressure ≥40 cmH2 O was higher in 
+males than females (aHR 8.33, 95% CI 2.51-27.66), in patients with a cervical 
+SCI compared to those with lumbar SCI (aHR 14.89, 95% CI 3.28-67.55), and in 
+patients with AIS Grade B or C compared to AIS Grade D SCI (aHR 6.17, 95% CI 
+1.78-21.39). No risk factors were identified for the composite outcome of any 
+unfavourable urodynamic parameter.
+CONCLUSIONS: The first UDI should take place within 3 months after SCI as to 
+facilitate early diagnosis of unfavourable urodynamic parameters and timely 
+treatment. Neuro-urological guidelines and individualised management strategies 
+for patients with SCI may be strengthened by considering sex and SCI 
+characteristics in the scheduling of UDIs.
+
+© 2022 The Authors. BJU International published by John Wiley & Sons Ltd on 
+behalf of BJU International.
+
+DOI: 10.1111/bju.15918
+PMID: 36221991 [Indexed for MEDLINE]
+
+
+10. Evid Based Complement Alternat Med. 2022 Sep 27;2022:9800993. doi: 
+10.1155/2022/9800993. eCollection 2022.
+
+Relationship between Severity of Disease and Postoperative Neurological Recovery 
+in Patients with Cervical Spondylotic Myelopathy Combined with Developmental 
+Spinal Stenosis.
+
+Wang S(1), Zhang J(1), Peng S(2), Cao J(1), Du W(1), Zhang Y(3), Gong Z(1), 
+Zhang L(1), Shen Y(4).
+
+Author information:
+(1)Department of Orthopaedics, The Third Hospital of Hebei Medical University, 
+Shijiazhuang, China.
+(2)Scientific Research Division, The Third Hospital of Hebei Medical University, 
+Shijiazhuang, China.
+(3)Department of Orthopaedics, Hebei Geriatric Hospital, Qinhuangda, China.
+(4)Department of Spine surgery, The Third Hospital of Hebei Medical University, 
+Shijiazhuang, China.
+
+OBJECTIVE: The study aimed to investigate the correlation between the severity 
+of disease and postoperative neurological recovery in patients with cervical 
+spondylotic myelopathy (CSM) combined with developmental spinal stenosis.
+METHODS: A retrospective analysis of the clinical data of 114 CSM patients 
+combined with developmental spinal stenosis admitted to our hospital from June 
+2019 to June 2020 was performed. All of the patients who underwent posterior 
+cervical unidoor vertebroplasty were divided into the mild, moderate, and severe 
+groups according to the Torg-Pavlov ratio. The clinical data including patients' 
+age, course of spinal cord high signal change, and first onset age were 
+collected. The recovery time, preoperative, and postoperative Japanese 
+Orthopaedic Association (JOA) scores of patients in each group were compared 
+with the calculation of the improvement rate. The correlation between the 
+severity of disease and postoperative neurological recovery in CSM patients 
+combined with developmental spinal stenosis was analyzed by Pearson correlation. 
+The factors influencing postoperative neurological recovery were analyzed using 
+multivariate logistic regression analysis. The receiver operating characteristic 
+curve (AUC) was used to evaluate the value of each influencing factor in 
+predicting postoperative recovery.
+RESULTS: Significant differences were observed in the proportion of linear 
+hyperintensity changes in the spinal cord, the age of first onset, the course of 
+the disease, and the Torg-Pavlov ratio among the mild, moderate, and severe 
+groups (P  <  0.05). The postoperative recovery time of the moderate and severe 
+groups was significantly higher than that of the mild group, while the 
+preoperative JOA score was significantly lower than that of the mild group. On 
+the other hand, the postoperative recovery time of the severe group was 
+prominently higher than that of the moderate group, whereas the preoperative JOA 
+score was observably lower than that of the moderate group (P  <  0.05). Pearson 
+correlation analysis showed that the postoperative recovery time was 
+significantly negatively correlated with the Torg-Pavlov ratio, age at first 
+onset, and disease course (r = -0.359, -0.502, -0.368, P  <  0.05), while it was 
+positively correlated with spinal cord linear high-signal changes (r = 0.641, P  
+<  0.05). Multifactorial logistic regression analysis revealed that the 
+Torg-Pavlov ratio, age at first onset, and disease course were protective 
+factors, while spinal cord linear high-signal alterations were risk factors 
+affecting the recovery time of postoperative neurological function (P  <  0.05). 
+The area under the curve (AUC) of the Torg-Pavlov ratio, linear hyperintensity 
+changes in the spinal cord, age at first onset, and disease duration in 
+predicting the postoperative neurological recovery time were 0.794, 0.767, 
+0.772, and 0.802, respectively. The AUC predicted by the combined detection of 
+each factor was 0.876, which was better than the area under the curve of single 
+prediction.
+CONCLUSION: Patients with CSM combined with developmental spinal stenosis were 
+characterized by younger age of onset, a short course of the disease, and linear 
+changes in the spinal cord high signal. The degree of developmental spinal 
+stenosis may affect the postoperative recovery time of neurological function in 
+CSM patients but had little effect on postoperative neurological recovery. The 
+Torg-Pavlov ratio, age of first onset, course of the disease, and changes in the 
+spinal cord linear hyperintensity were the factors that affected postoperative 
+neurological recovery, which may provide a basis for reasonably predicting a 
+postoperative neurological recovery in patients with CSM combined with 
+developmental spinal stenosis.
+
+Copyright © 2022 Shuai Wang et al.
+
+DOI: 10.1155/2022/9800993
+PMCID: PMC9532063
+PMID: 36204128
+
+Conflict of interest statement: The authors declare that they have no conflicts 
+of interest.
+
+
+11. Amyotroph Lateral Scler Frontotemporal Degener. 2023 May;24(3-4):219-229.
+doi:  10.1080/21678421.2022.2127324. Epub 2022 Oct 3.
+
+Occupational history associates with ALS survival and onset segment.
+
+Goutman SA(1)(2), Boss J(3), Godwin C(4), Mukherjee B(3), Feldman EL(1)(2), 
+Batterman SA(4).
+
+Author information:
+(1)Department of Neurology, University of Michigan, Ann Arbor, MI, USA.
+(2)NeuroNetwork for Emerging Therapies, University of Michigan, Ann Arbor, MI, 
+USA.
+(3)Department of Biostatistics, University of Michigan, Ann Arbor, MI, USA, and.
+(4)Department of Environmental Health Sciences, University of Michigan, Ann 
+Arbor, MI, USA.
+
+OBJECTIVE: To identify associations between occupational settings and 
+self-reported occupational exposures on amyotrophic lateral sclerosis (ALS) 
+survival and phenotypes.
+METHODS: All patients seen in the University of Michigan Pranger ALS Clinic were 
+invited to complete an exposure assessment querying past occupations and 
+exposures. Standard occupational classification (SOC) codes for each job and the 
+severity of various exposure types were derived. Cox proportional hazards models 
+associated all-cause mortality with occupational settings and the self-reported 
+exposures after adjusting for sex, diagnosis age, revised El Escorial criteria, 
+onset segment, revised ALS Functional Rating Scale (ALSFRS-R), and time from 
+symptom onset to diagnosis. Multinomial logistic regression models with three 
+categories, adjusted for age, assessed the association between occupational 
+settings and exposures to onset segment.
+RESULTS: Among the 378 ALS participants (median age, 64.7 years; 54.4% male), 
+poorer survival was associated with work in SOC code "Production Occupations" 
+and marginally with work in "Military Occupation"; poor survival associated with 
+self-reported occupational pesticide exposure in adjusted models. Among onset 
+segments: cervical onset was associated with ALS participants having ever worked 
+in "Buildings and Grounds Cleaning and Maintenance Occupations," "Construction 
+and Extraction Occupations," and "Production Occupations"; bulbar onset with 
+self-reported occupational exposure to radiation; and cervical onset with 
+exposure to particulate matter, volatile organic compounds, metals, combustion 
+and diesel exhaust, electromagnetic radiation, and radiation.
+CONCLUSION: Occupational settings and self-reported exposures influence ALS 
+survival and onset segment. Further studies are needed to explore and understand 
+these relationships, most advantageously using prospective cohorts and detailed 
+ALS registries.
+
+DOI: 10.1080/21678421.2022.2127324
+PMCID: PMC10067530
+PMID: 36193557 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests SAG served on a DSMB. The 
+other authors declare they have no competing interests.
+
+
+12. Front Surg. 2022 Sep 14;9:973924. doi: 10.3389/fsurg.2022.973924. eCollection
+ 2022.
+
+Analysis of risk factors of axial neck pain in posterior cervical single-door 
+laminoplasty from the perspective of cervical sagittal plane.
+
+Zuo KK(1), Qin W(2), Miao Y(3), Zhu L(1).
+
+Author information:
+(1)Department of Orthopaedics, Renmin Hospital, Hubei University of Medicine, 
+Shiyan, China.
+(2)Department of Orthopedics of Xiang Yang Central Hospital, Affiliated Hospital 
+of Hubei University of Arts and Science, Xiang Yang, China.
+(3)Department of Orthopedics, Renmin Hospital of Yunyang District, Shiyan, 
+China.
+
+OBJECTIVE: We carried out this study to explore the possible relationship 
+between the cervical sagittal parameters in radiological images and axial neck 
+pain (ANP) for patients who had underwent posterior cervical single-door 
+laminoplasty.
+METHOD: 141 patients were enrolled in the study from January 2018 to January 
+2021, among which 38 were enrolled into the ANP group and 103 were enrolled into 
+the non-ANP group. C2-7 Cobb angle, C2-7 sagittal vertex axis (SVA), thoracic 
+inlet angle, neck tilt, and T1 slope were measured using computed tomography. 
+Spearman correlation tests were used to analyze the possible correlation between 
+radiological parameters and ANP. Logistic regression was carried out to analyze 
+the potential risk factor for the occurrence of ANP. Receiver operating 
+characteristic (ROC) curve and area under the ROC curve were used to evaluate 
+the significant result and the optimal diagnostic value.
+RESULTS: As for radiographic parameters in the sagittal plane, the results 
+suggested that only T1 slope and C2-7 SVA were statistically different between 
+the ANP and non-ANP group (p = 0.001 and p = 0.047). Patients whose surgery 
+involved the C2 spinous process demonstrated severe ANP symptoms than patients 
+in the non-ANP group (p = 0.003). The Spearman correlation test showed that no 
+statistical differences were found between visual analog scale (VAS) and 
+radiological morphology parameters and only C2 involvement was found to 
+correlate with postoperative VAS with respect to surgery. Logistic multivariate 
+regression analysis demonstrated that only C2 involvement and T1 slope were 
+significantly different when C2-7 SVA, T1 slope, C2 involvement together were 
+included into consideration, with p values of 0.01 and 0.001.
+CONCLUSION: According to our research, C2 involvement and greater T1 slope were 
+independent risk factors of ANP for the patients who underwent laminoplasty of 
+cervical spine.
+
+© 2022 Zuo, Qin, Miao and Zhu.
+
+DOI: 10.3389/fsurg.2022.973924
+PMCID: PMC9515390
+PMID: 36189387
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+13. Global Spine J. 2023 Apr;13(3):840-854. doi: 10.1177/21925682221125766. Epub 
+2022 Sep 7.
+
+Long-Term Survivorship of Cervical Spine Procedures; A Survivorship 
+Meta-Analysis and Meta-Regression.
+
+Sarraj M(1), Hache P(1), Foroutan F(2)(3), Oitment C(1), Marion TE(4), Guha 
+D(5), Pahuta M(1).
+
+Author information:
+(1)Division of Orthopedic Surgery, Hamilton General Hospital, 3710McMaster 
+University, Hamilton, ON, Canada.
+(2)Ted Rogers Centre for Heart Research, 7989University Health Network, Toronto, 
+ON, Canada.
+(3)Department of Health Research, Methods, Impact, 3710McMaster University, 
+Hamilton, ON, Canada.
+(4)Department of Orthopaedic Surgery, 26627Northern Ontario School of Medicine, 
+Thunder Bay, ON, Canada.
+(5)Division of Neurosurgery, Hamilton General Hospital, 3710McMaster University, 
+Hamilton, ON, Canada.
+
+STUDY DESIGN: Systematic Review.
+OBJECTIVES: To conduct a meta-analysis on the survivorship of commonly performed 
+cervical spine procedures to develop survival function curves for (i) second 
+surgery at any cervical level, and (ii) adjacent level surgery.
+METHODS: A systematic review of was conducted following PRISMA guidelines. 
+Articles with cohorts of greater than 20 patients followed for a minimum of 36 
+months and with available survival data were included. Procedures included were 
+anterior cervical discectomy and fusion (ACDF), cervical disc arthroplasty 
+(ADR), laminoplasty (LAMP), and posterior laminectomy and fusion (PDIF). 
+Reconstructed individual patient data were pooled across studies using 
+parametric Bayesian survival meta-regression.
+RESULTS: Of 1829 initial titles, 16 citations were included for analysis. 73 811 
+patients were included in the second surgery analysis and 2858 patients in the 
+adjacent level surgery analysis. We fit a Log normal accelerated failure time 
+model to the second surgery data and a Gompertz proportional hazards model to 
+the adjacent level surgery data. Relative to ACDF, the risk of second surgery 
+was higher with ADR and PDIF with acceleration factors 1.73 (95% CrI: 1.04, 
+2.80) and 1.35 (95% CrI: 1.25, 1.46) respectively. Relative to ACDF, the risk of 
+second surgery was lower with LAMP with deceleration factor .06 (95% CrI: .05, 
+.07). ADR decreased the risk of adjacent level surgery with hazard ratio .43 
+(95% CrI: .33, .55).
+CONCLUSIONS: In cases of clinical equipoise between fusion procedures, our 
+analysis suggests superior survivorship with anterior procedures. For all 
+procedures, laminoplasty demonstrated superior survivorship.
+
+DOI: 10.1177/21925682221125766
+PMCID: PMC10240585
+PMID: 36069054
+
+Conflict of interest statement: The author(s) declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article.
+
+
+14. Nat Rev Clin Oncol. 2022 Oct;19(10):656-673. doi: 10.1038/s41571-022-00672-8.
+ Epub 2022 Sep 6.
+
+Is early-onset cancer an emerging global epidemic? Current evidence and future 
+implications.
+
+Ugai T(#)(1)(2), Sasamoto N(#)(3)(4), Lee HY(#)(5)(6), Ando M(#)(7), Song 
+M(8)(9)(10)(11), Tamimi RM(12), Kawachi I(7), Campbell PT(13), Giovannucci 
+EL(8)(9), Weiderpass E(14), Rebbeck TR(8)(15)(16), Ogino S(17)(18)(19)(20).
+
+Author information:
+(1)Program in MPE Molecular Pathological Epidemiology, Department of Pathology, 
+Brigham and Women's Hospital, and Harvard Medical School, Boston, MA, USA. 
+tugai@bwh.harvard.edu.
+(2)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA, USA. tugai@bwh.harvard.edu.
+(3)Department of Obstetrics and Gynecology, Brigham and Women's Hospital, 
+Boston, MA, USA.
+(4)Department of Obstetrics, Gynecology, and Reproductive Biology, Harvard 
+Medical School, Boston, MA, USA.
+(5)Department of Global Health and Population, Harvard T.H. Chan School of 
+Public Health, Boston, MA, USA.
+(6)Institute of Convergence Science, Convergence Science Academy, Yonsei 
+University, Seoul, Republic of Korea.
+(7)Department of Social and Behavioral Sciences, Harvard T.H. Chan School of 
+Public Health, Boston, MA, USA.
+(8)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA, USA.
+(9)Department of Nutrition, Harvard T.H. Chan School of Public Health, Boston, 
+MA, USA.
+(10)Clinical and Translational Epidemiology Unit, Massachusetts General Hospital 
+and Harvard Medical School, Boston, MA, USA.
+(11)Division of Gastroenterology, Massachusetts General Hospital, Boston, MA, 
+USA.
+(12)Department of Population Health Sciences, Weill Cornell Medicine, New York, 
+NY, USA.
+(13)Department of Epidemiology and Population Health, Albert Einstein College of 
+Medicine, New York, NY, USA.
+(14)International Agency for Research on Cancer, Lyon, France.
+(15)Division of Population Sciences, Dana-Farber Cancer Institute, Boston, MA, 
+USA.
+(16)Zhu Family Center for Global Cancer Prevention, Harvard T.H. Chan School of 
+Public Health, Boston, MA, USA.
+(17)Program in MPE Molecular Pathological Epidemiology, Department of Pathology, 
+Brigham and Women's Hospital, and Harvard Medical School, Boston, MA, USA. 
+sogino@bwh.harvard.edu.
+(18)Department of Epidemiology, Harvard T.H. Chan School of Public Health, 
+Boston, MA, USA. sogino@bwh.harvard.edu.
+(19)Broad Institute of MIT and Harvard, Cambridge, MA, USA. 
+sogino@bwh.harvard.edu.
+(20)Cancer Immunology and Cancer Epidemiology Programs, Dana-Farber Harvard 
+Cancer Center, Boston, MA, USA. sogino@bwh.harvard.edu.
+(#)Contributed equally
+
+Over the past several decades, the incidence of early-onset cancers, often 
+defined as cancers diagnosed in adults <50 years of age, in the breast, 
+colorectum, endometrium, oesophagus, extrahepatic bile duct, gallbladder, head 
+and neck, kidney, liver, bone marrow, pancreas, prostate, stomach and thyroid 
+has increased in multiple countries. Increased use of screening programmes has 
+contributed to this phenomenon to a certain extent, although a genuine increase 
+in the incidence of early-onset forms of several cancer types also seems to have 
+emerged. Evidence suggests an aetiological role of risk factor exposures in 
+early life and young adulthood. Since the mid-20th century, substantial 
+multigenerational changes in the exposome have occurred (including changes in 
+diet, lifestyle, obesity, environment and the microbiome, all of which might 
+interact with genomic and/or genetic susceptibilities). However, the effects of 
+individual exposures remain largely unknown. To study early-life exposures and 
+their implications for multiple cancer types will require prospective cohort 
+studies with dedicated biobanking and data collection technologies. Raising 
+awareness among both the public and health-care professionals will also be 
+critical. In this Review, we describe changes in the incidence of early-onset 
+cancers globally and suggest measures that are likely to reduce the burden of 
+cancers and other chronic non-communicable diseases.
+
+© 2022. Springer Nature Limited.
+
+DOI: 10.1038/s41571-022-00672-8
+PMCID: PMC9509459
+PMID: 36068272 [Indexed for MEDLINE]
+
+
+15. Spine J. 2023 Jan;23(1):124-135. doi: 10.1016/j.spinee.2022.08.004. Epub 2022
+ Aug 18.
+
+Leveraging HFRS to assess how frailty affects healthcare resource utilization 
+after elective ACDF for CSM.
+
+Elsamadicy AA(1), Koo AB(2), Sarkozy M(2), David WB(3), Reeves BC(2), Patel 
+S(2), Hansen J(2), Sandhu MRS(2), Hengartner AC(2), Hersh A(4), Kolb L(2), Lo 
+SL(5), Shin JH(6), Mendel E(2), Sciubba DM(7).
+
+Author information:
+(1)Department of Neurosurgery, Yale University School of Medicine, 333 Cedar 
+Street, New Haven, CT 06520, USA. Electronic address: 
+aladine.elsamadicy@yale.edu.
+(2)Department of Neurosurgery, Yale University School of Medicine, 333 Cedar 
+Street, New Haven, CT 06520, USA.
+(3)Department of Orthopedics, Yale University School of Medicine, New Haven, CT, 
+USA.
+(4)Department of Neurosurgery, John Hopkins School of Medicine, Baltimore, MD, 
+USA.
+(5)Department of Neurosurgery, Zucker School of Medicine at Hofstra, Long Island 
+Jewish Medical Center and North Shore University Hospital, Northwell Health, 
+Manhasset, NY, USA.
+(6)Department of Neurosurgery, Massachusetts General Hospital, Harvard Medical 
+School, Boston, MA, USA.
+(7)Department of Neurosurgery, John Hopkins School of Medicine, Baltimore, MD, 
+USA; Department of Neurosurgery, Zucker School of Medicine at Hofstra, Long 
+Island Jewish Medical Center and North Shore University Hospital, Northwell 
+Health, Manhasset, NY, USA.
+
+Comment in
+    Spine J. 2023 Jan;23(1):181.
+    Spine J. 2023 Jan;23(1):178-180.
+
+BACKGROUND CONTEXT: Frailty is a common comorbidity associated with worsening 
+outcomes in various medical and surgical fields. The Hospital Frailty Risk Score 
+(HFRS) is a recently developed tool which assesses frailty using 109 
+International Classification of Diseases, 10th Revision, Clinical Modification 
+(ICD-10-CM) comorbidity codes to assess severity of frailty. However, there is a 
+paucity of studies utilizing the HFRS with patients undergoing anterior cervical 
+discectomy and fusion (ACDF) for cervical spondylotic myelopathy (CSM).
+PURPOSE: The aim of this study was to investigate the impact of HFRS on health 
+care resource utilization following ACDF for CSM.
+STUDY DESIGN: A retrospective cohort study was performed using the Nationwide 
+Inpatient Sample (NIS) database from 2016-2019.
+PATIENT SAMPLE: All adult (≥18 years old) patients undergoing primary, ACDF for 
+CSM were identified using the ICD-10 CM codes.
+OUTCOME MEASURES: Weighted patient demographics, comorbidities, perioperative 
+complications, LOS, discharge disposition, and total admission costs were 
+assessed.
+METHODS: The 109 ICD-10 codes with pre-assigned values from 0.1 to 7.1 
+pertaining to frailty were queried in each patient, with a cumulative HFRS ≥5 
+indicating a frail patient. Patients were then categorized as either Low HFRS 
+(HFRS<5) or Moderate to High HFRS (HFRS≥5). A multivariate stepwise logistic 
+regression was used to determine the odds ratio for risk-adjusted extended LOS, 
+non-routine discharge disposition, and increased hospital cost.
+RESULTS: A total of 29,305 patients were identified, of which 3,135 (10.7%) had 
+a Moderate to High HFRS. Patients with a Moderate to High HFRS had higher rates 
+of 1 or more postoperative complications (Low HFRS: 9.5% vs. Moderate-High HFRS: 
+38.6%, p≤.001), significantly longer hospital stays (Low HFRS: 1.8±1.7 days vs. 
+Moderate-High HFRS: 4.4 ± 6.0, p≤.001), higher rates of non-routine discharge 
+(Low HFRS: 5.8% vs. Moderate-High HFRS: 28.2%, p≤.001), and increased total cost 
+of admission (Low HFRS: $19,691±9,740 vs. Moderate-High HFRS: $26,935±22,824, 
+p≤.001) than patients in the Low HFRS cohort. On multivariate analysis, Moderate 
+to High HFRS was found to be a significant independent predictor for extended 
+LOS [OR: 3.19, 95% CI: (2.60, 3.91), p≤.001] and non-routine discharge 
+disposition [OR: 3.88, 95% CI: (3.05, 4.95), p≤.001] but not increased cost [OR: 
+1.10, 95% CI: (0.87, 1.40), p=.418].
+CONCLUSIONS: Our study suggests that patients with a higher HFRS have increased 
+total hospital costs, a longer LOS, higher complication rates, and more frequent 
+nonroutine discharge compared with patients with a low HFRS following elective 
+ACDF for CSM. Although frail patients should not be precluded from surgical 
+management of cervical spine pathology, these findings highlight the need for 
+peri-operative protocols to medically optimize patients to improve health care 
+quality and decrease costs.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.spinee.2022.08.004
+PMID: 35988878 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations of competing interests One or more 
+of the authors declare financial or professional relationships on ICMJE-NASSJ 
+disclosure forms.
+
+
+16. BMC Musculoskelet Disord. 2022 Aug 20;23(1):798. doi: 
+10.1186/s12891-022-05752-5.
+
+A multicenter study of 1-year mortality and walking capacity after spinal fusion 
+surgery for cervical fracture in elderly patients.
+
+Sasagawa T(1)(2), Yokogawa N(1), Hayashi H(1)(3), Tsuchiya H(1), Ando K(4), 
+Nakashima H(4), Segi N(4), Watanabe K(5), Nori S(5), Takeda K(5)(6), Furuya 
+T(7), Yunde A(7), Ikegami S(8), Uehara M(8), Suzuki H(9), Imajo Y(9), Funayama 
+T(10), Eto F(11), Yamaji A(12), Hashimoto K(13), Onoda Y(13), Kakutani K(14), 
+Kakiuchi Y(14), Suzuki N(15), Kato K(15), Terashima Y(16)(17), Hirota R(16), 
+Yamada T(18)(19), Hasegawa T(18), Kawaguchi K(20), Haruta Y(20), Seki S(21), 
+Tonomura H(22), Sakata M(22)(23), Uei H(24)(25), Sawada H(25), Tominaga H(26), 
+Tokumoto H(26), Kaito T(27), Iizuka Y(28), Takasawa E(28), Oshima Y(29), Terai 
+H(30), Tamai K(30), Otsuki B(31), Miyazaki M(32), Nakajima H(33), Nakanishi 
+K(34), Misaki K(34), Inoue G(35), Kiyasu K(36), Akeda K(37), Takegami N(37), 
+Yoshii T(38), Ishihara M(39), Okada S(27), Aoki Y(40), Harimaya K(41), Murakami 
+H(15), Ishii K(42)(43)(44), Ohtori S(7), Imagama S(4), Kato S(45).
+
+Author information:
+(1)Department of Orthopaedic Surgery, Graduate School of Medical Sciences, 
+Kanazawa University, 13-1 Takara-machi, Kanazawa, Ishikawa, 920-8641, Japan.
+(2)Department of Orthopaedic Surgery, Toyama Prefectural Central Hospital, 
+2-2-78 Nishinagae, Toyama, Toyama, 930-8550, Japan.
+(3)Department of Orthopaedic Surgery, Tonami General Hospital, Shintomicho 1-61, 
+Tonami, Toyama, 939-1395, Japan.
+(4)Department of Orthopedic Surgery, Graduate School of Medicine, Nagoya 
+University, 65 Tsurumai-cho, Showa-ku, Nagoya, 466-8550, Japan.
+(5)Department of Orthopaedic Surgery, Keio University School of Medicine, 35 
+Shinanomachi, Shinjuku-ku, Tokyo, 160-8582, Japan.
+(6)Department of Orthopaedic Surgery, Japanese Red Cross Shizuoka Hospital, 8-2 
+Otemachi, Aoi-ku, Shizuoka, 420-0853, Japan.
+(7)Department of Orthopaedic Surgery, Graduate School of Medicine, Chiba 
+University, 1-8-1 Inohana, Chuo-ku, Chiba, Chiba, 260-8670, Japan.
+(8)Department of Orthopaedic Surgery, Shinshu University School of Medicine, 
+3-1-1 Asahi, Matsumoto, Nagano, 390-8621, Japan.
+(9)Department of Orthopaedic Surgery, Yamaguchi University Graduate School of 
+Medicine, 1-1-1 Minami-kogushi, Ube city, Yamaguchi, 755-8505, Japan.
+(10)Department of Orthopaedic Surgery, Faculty of Medicine, University of 
+Tsukuba, 1-1-1 Tennodai, Tsukuba, Ibaraki, 305-8575, Japan.
+(11)Department of Orthopaedic Surgery, Graduate School of Comprehensive Human 
+Sciences, University of Tsukuba, 1-1-1 Tennodai, Tsukuba, Ibaraki, 305-8575, 
+Japan.
+(12)Department of Orthopaedic Surgery, Ibaraki Seinan Medical Center Hospital, 
+2190, Sakaimachi, Sashima, Ibaraki, 306-0433, Japan.
+(13)Department of Orthopaedic Surgery, Tohoku University Graduate School of 
+Medicine, 1-1 Seiryo-machi, Aoba-ku, Sendai, Miyagi, 980-8574, Japan.
+(14)Department of Orthopaedic Surgery, Kobe University Graduate School of 
+Medicine, 7-5-1 Kusunoki-cho, Chuo-ku, Kobe, 650-0017, Japan.
+(15)Department of Orthopaedic Surgery, Nagoya City University Graduate School of 
+Medical Sciences, 1 Kawasumi, Mizuho-cho, Mizuho-ku, Nagoya, 467-8601, Japan.
+(16)Department of Orthopaedic Surgery, Sapporo Medical University, South 1-West 
+16-291, Chuo-ku, Sapporo, 060-8543, Japan.
+(17)Department of Orthopaedic Surgery, Matsuda Orthopedic Memorial Hospital, 
+North 18-East 4-1 Kita-ku, Sapporo, 001-0018, Japan.
+(18)Department of Orthopaedic Surgery, Hamamatsu University School of Medicine, 
+1-20-1, Handayama, Higashi-ku, Hamamatsu City, Shizuoka, 431-3192, Japan.
+(19)Department of Orthopaedic Surgery, Nagoya Kyoritsu Hospital, 1-172 Hokke, 
+Nakagawa-ku, Nagoya-shi, Aichi, 454-0933, Japan.
+(20)Department of Orthopaedic Surgery, Graduate School of Medical Sciences, 
+Kyushu University, 3-1-1 Maidashi Higashi-ku, Fukuoka, 812-8582, Japan.
+(21)Department of Orthopaedic Surgery, Faculty of Medicine, University of 
+Toyama, 2630 Sugitani, Toyama, Toyama, 930-0194, Japan.
+(22)Department of Orthopaedics, Graduate School of Medical Science, Kyoto 
+Prefectural University of Medicine, Kawaramachi-Hirokoji, Kamigyo-ku, Kyoto, 
+602-8566, Japan.
+(23)Department of Orthopaedics, Saiseikai Shiga Hospital, 2-4-1 Ohashi Ritto, 
+Shiga, 520-3046, Japan.
+(24)Department of Orthopaedic Surgery, Nihon University Hospital, 1-6 
+Kanda-Surugadai, Chiyoda-ku, Tokyo, 101-8393, Japan.
+(25)Department of Orthopaedic Surgery, Nihon University School of Medicine, 30-1 
+Oyaguchi Kami-cho, Itabashi-ku, Tokyo, 173-8610, Japan.
+(26)Department of Orthopaedic Surgery, Graduate School of Medical and Dental 
+Sciences, Kagoshima University, 8-35-1 Sakuragaoka, Kagoshima, 890-8520, Japan.
+(27)Department of Orthopaedic Surgery, Osaka University Graduate School of 
+Medicine, 2-2 Yamadaoka, Suita, Osaka, 565-0871, Japan.
+(28)Department of Orthopaedic Surgery, Graduate School of Medicine, Gunma 
+University, 3-39-22 Showa, Maebashi, Gunma, 371-8511, Japan.
+(29)Department of Orthopaedic Surgery, The University of Tokyo Hospital, 7-3-1 
+Hongo, Bunkyo-ku, Tokyo, 113-8655, Japan.
+(30)Department of Orthopaedic Surgery, Osaka City University Graduate School of 
+Medicine, 1-4-3 Asahimachi, Abeno-ku, Osaka-city, Osaka, 545-8585, Japan.
+(31)Department of Orthopaedic Surgery, Graduate School of Medicine, Kyoto 
+University, 54 Shogoin-Kawaracho, Sakyo-ku, Kyoto, Kyoto, Japan.
+(32)Department of Orthopaedic Surgery, Faculty of Medicine, Oita University, 1-1 
+Idaigaoka, Hasama-machi, Yufu-shi, Oita, 879-5593, Japan.
+(33)Department of Orthopaedics and Rehabilitation Medicine, Faculty of Medical 
+Sciences, University of Fukui, 23-3 Matsuoka Shimoaizuki, Eiheiji-cho, 
+Yoshida-gun, Fukui, 910-1193, Japan.
+(34)Department of Orthopedics, Traumatology and Spine Surgery, Kawasaki Medical 
+School, Matsushima, Kurashiki, Okayama, 577701-0192, Japan.
+(35)Department of Orthopaedic Surgery, Kitasato University School of Medicine, 
+1-15-1, Kitazato, Minami-ku, Sagamihara, Kanagawa, 252-0374, Japan.
+(36)Department of Orthopaedic Surgery, Kochi Medical School, Kochi University, 
+KohasuNankoku, Oko-cho, 783-8505, Japan.
+(37)Department of Orthopaedic Surgery, Mie University Graduate School of 
+Medicine, 2-174 Edobashi, Tsu city, Mie, 514-8507, Japan.
+(38)Department of Orthopaedic Surgery, Tokyo Medical and Dental University, 
+Yushima 1-5-45, Bunkyo-Ku, Tokyo, 113-8519, Japan.
+(39)Department of Orthopaedic Surgery, Kansai Medical University Hospital, 2-3-1 
+Shinmachi, Hirakata, Osaka, 573-1191, Japan.
+(40)Department of Orthopaedic Surgery, Eastern Chiba Medical Center, 3-6-2 
+Okayamadai, Togane, Chiba, 283-8687, Japan.
+(41)Department of Orthopaedic Surgery, Kyushu University Beppu Hospital, 
+Tsurumibaru, Beppu, Oita, 874-0838, Japan.
+(42)Department of Orthopaedic Surgery, School of Medicine, International 
+University of Health and Welfare, 852 Hatakeda, Narita, Chiba, 286-0124, Japan.
+(43)Department of Orthopaedic Surgery, International University of Health and 
+Welfare Narita Hospital, 852 Hatakeda, Narita, Chiba, 286-0124, Japan.
+(44)Department of Orthopaedic Surgery and Spine and Spinal Cord Center, 
+International University of Health and Welfare Mita Hospital, 1-4-3 Mita, 
+Minato-ku, Tokyo, 108-8329, Japan.
+(45)Department of Orthopaedic Surgery, Graduate School of Medical Sciences, 
+Kanazawa University, 13-1 Takara-machi, Kanazawa, Ishikawa, 920-8641, Japan. 
+skato323@gmail.com.
+
+BACKGROUND: The 1-year mortality and functional prognoses of patients who 
+received surgery for cervical trauma in the elderly remains unclear. The aim of 
+this study is to investigate the rates of, and factors associated with mortality 
+and the deterioration in walking capacity occurring 1 year after spinal fusion 
+surgery for cervical fractures in patients 65 years of age or older.
+METHODS: Three hundred thirteen patients aged 65 years or more with a traumatic 
+cervical fracture who received spinal fusion surgery were enrolled. The patients 
+were divided into a survival group and a mortality group, or a maintained 
+walking capacity group and a deteriorated walking capacity group. We compared 
+patients' backgrounds, trauma, and surgical parameters between the two groups. 
+To identify factors associated with mortality or a deteriorated walking capacity 
+1 year postoperatively, a multivariate logistic regression analysis was 
+conducted.
+RESULTS: One year postoperatively, the rate of mortality was 8%. A higher 
+Charlson comorbidity index (CCI) score, a more severe the American Spinal Cord 
+Injury Association impairment scale (AIS), and longer surgical time were 
+identified as independent factors associated with an increase in 1-year 
+mortality. The rate of deterioration in walking capacity between pre-trauma and 
+1 year postoperatively was 33%. A more severe AIS, lower albumin (Alb) and 
+hemoglobin (Hb) values, and a larger number of fused segments were identified as 
+independent factors associated with the increased risk of deteriorated walking 
+capacity 1 year postoperatively.
+CONCLUSIONS: The 1-year rate of mortality after spinal fusion surgery for 
+cervical fracture in patients 65 years of age or older was 8%, and its 
+associated factors were a higher CCI score, a more severe AIS, and a longer 
+surgical time. The rate of deterioration in walking capacity was 33%, and its 
+associated factors were a more severe AIS, lower Alb, lower Hb values, and a 
+larger number of fused segments.
+
+© 2022. The Author(s).
+
+DOI: 10.1186/s12891-022-05752-5
+PMCID: PMC9392237
+PMID: 35987644 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.
+
+
+17. J Neurosurg Spine. 2022 Aug 19;38(1):14-23. doi: 10.3171/2022.6.SPINE2234.
+Print  2023 Jan 1.
+
+Influence of clinical and radiological parameters on the likelihood of 
+neurological improvement after surgery for degenerative cervical myelopathy.
+
+Toop N(1), Gifford CS(1), McGahan BG(1), Gibbs D(1), Miracle S(1), Schwab JM(2), 
+Motiei-Langroudi R(1), Farhadi HF(1).
+
+Author information:
+(1)1Department of Neurological Surgery, The Ohio State University Wexner Medical 
+Center, Columbus; and.
+(2)2Belford Center for Spinal Cord Injury, Department of Neurology, The Ohio 
+State University Wexner Medical Center, Columbus, Ohio.
+
+OBJECTIVE: Degenerative cervical myelopathy (DCM) is routinely treated with 
+surgical decompression, but disparate postoperative outcomes are frequently 
+observed, ranging from complete neurological recovery to persistent decline. 
+Although numerous clinical and radiological factors have been independently 
+associated with failure to improve, the relative impact of these proposed risk 
+factors remains obscure. In this study, the authors assess the combined role of 
+clinical and radiographic parameters in contributing to failure to attain 
+neurological improvement after surgery.
+METHODS: A consecutive series of patients who underwent surgery for DCM between 
+July 2013 and August 2018 at a single institution was identified from a 
+prospectively maintained database. Retrospective chart review was undertaken to 
+record perioperative clinical and radiographic parameters. Failure to improve on 
+the last follow-up evaluation after surgery, defined as a change in modified 
+Japanese Orthopaedic Association (mJOA) score less than 2, was the primary 
+outcome in univariate and multivariate analyses.
+RESULTS: The authors included 183 patients in the final cohort. In total, 109 
+(59.6%) patients improved (i.e., responders with ΔmJOA score ≥ 2) after surgery 
+and 74 (40.4%) were nonresponders with ΔmJOA score < 2. Baseline demographic 
+variables and comorbidity rates were similar, whereas baseline Nurick score was 
+the only clinical variable that differed between responders and nonresponders 
+(2.7 vs 3.0, p = 0.02). In contrast, several preoperative radiographic variables 
+differed between the groups, including presence and degree of cervical kyphosis, 
+number of levels with bidirectional cord compression, presence and number of 
+levels with T2-weighted signal change, intramedullary lesion (IML) length, Torg 
+ratio, and both narrowest spinal canal and cord diameter. On multivariate 
+analysis, preoperative degree of kyphosis at C2-7 (OR 1.19, p = 0.004), number 
+of levels with bidirectional compression (OR 1.83, p = 0.003), and IML length 
+(OR 1.14, p < 0.001) demonstrated the highest predictive power for nonresponse 
+(area under the receiver operating characteristic curve 0.818). A risk factor 
+point system that predicted failure of improvement was derived by incorporating 
+these 3 variables.
+CONCLUSIONS: When a large spectrum of both clinical and radiographic variables 
+is considered, the degree of cervical kyphosis, number of levels with 
+bidirectional compression, and IML length are the most predictive of nonresponse 
+after surgery for DCM. Assessment of these radiographic factors can help guide 
+surgical decision-making and more appropriately stratify patients in clinical 
+trials.
+
+DOI: 10.3171/2022.6.SPINE2234
+PMID: 35986727 [Indexed for MEDLINE]
+
+
+18. Cureus. 2022 Jul 15;14(7):e26888. doi: 10.7759/cureus.26888. eCollection 2022
+ Jul.
+
+Dysphagia as a Postoperative Complication of Anterior Cervical Discectomy and 
+Fusion.
+
+Tsalimas G(1), Evangelopoulos DS(2), Benetos IS(3), Pneumaticos S(4).
+
+Author information:
+(1)5th Orthopaedic Department, KAT General Hospital of Athens, National and 
+Kapodistrian University of Athens School of Medicine, Athens, GRC.
+(2)3rd Orthopaedic Department, KAT General Hospital of Athens, National and 
+Kapodistrian University of Athens School of Medicine, Athens, GRC.
+(3)Orthopaedics, KAT Trauma Hospital, University of Athens, Athens, GRC.
+(4)Orthopaedics, KAT General Hospital Of Athens, National and Kapodistrian 
+University of Athens School of Medicine, Athens, GRC.
+
+Anterior cervical discectomy and fusion (ACDF), despite its possible 
+complications, remains the gold standard for the surgical treatment of patients 
+with radiculopathy and/or myelopathy caused by cervical intervertebral disc 
+herniation or spondylosis. Despite its high rate of incidence, postoperative 
+dysphagia following ACDF is still poorly understood; its pathogenesis remains 
+relatively unknown, and its risk factors are still a subject of debate. The aim 
+of this study is to review the incidence, pathogenesis, diagnosis, and methods 
+of prevention of dysphagia in ACDF patients. To this end, a literature review 
+was conducted based on the PubMed internet database. Article titles were 
+searched by using the following keywords: "dysphagia" and "anterior cervical 
+discectomy and fusion" or "ACDF". The search was limited to prospective clinical 
+studies evaluating dysphagia after ACDF surgery. Studies published in 
+non-English languages, retrospective studies, cadaveric studies, reviews, case 
+reports, study protocols, and commentary studies were excluded. Initially, 335 
+studies were identified after a primary search. After the application of the 
+exclusion criteria, 73 studies remained for the final analysis. This literature 
+review focused on identifying the rate of dysphagia and the various risk factors 
+leading to this complication by comparing and evaluating the current literature 
+with a wide spectrum of heterogeneity concerning patients, surgeons, and 
+surgical techniques. A mean dysphagia rate of 19.4% (95% CI: 9.6%-29.1%) based 
+on the findings of the included studies correlating dysphagia directly with ACDF 
+procedures was calculated. Various established risk factors leading to dysphagia 
+include the female sex, smoking, the surgical approach, rhBMP-2 use, and 
+multilevel surgery, while zero-profile devices seem to reduce dysphagia risk. 
+The diagnosis is based on clinical and radiological findings, especially 
+prevertebral soft-tissue swelling. However, videofluoroscopic and endoscopic 
+studies have been recently used for the evaluation of dysphagia. The role of 
+local administration of steroids in the prevention of dysphagia has not yet been 
+clarified. This review underscores the prevailing rudimentary understanding of 
+the problem of dysphagia after ACDF procedures and highlights the need for more 
+sensitive, factor-specific studies for understanding the impact of various risk 
+factors on the incidence rate of dysphagia.
+
+Copyright © 2022, Tsalimas et al.
+
+DOI: 10.7759/cureus.26888
+PMCID: PMC9375980
+PMID: 35978748
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+19. Isr Med Assoc J. 2022 Aug;24(8):491-496.
+
+Characterization of Fanconi Anemia Patients with Head and Neck Squamous Cell 
+Carcinoma: Israel Fanconi Registry.
+
+Tsur N(1)(2), Frig O(1)(2), Steinberg-Shemer O(3)(4)(2), Tamary H(3)(4)(2), 
+Kurman N(5)(2), Mizrachi A(1)(2), Popovtzer A(5)(2).
+
+Author information:
+(1)Departments of Otolaryngology-Head and Neck Surgery.
+(2)Sackler Faculty of Medicine, Tel Aviv University, Tel Aviv, Israel.
+(3)Department of Hematology-Oncology, Schneider Children's Medical Center, Petah 
+Tikva, Israel.
+(4)Pediatric Hematology Laboratory, Felsenstein Medical Research Center, Petah 
+Tikva, Israel.
+(5)Radiotherapy, Rabin Medical Center (Beilinson Campus), Petah Tikva, Israel.
+
+BACKGROUND: Recent studies show a high risk of developing malignancy in patients 
+with Fanconi anemia. The most common solid tumor in this condition is head and 
+neck squamous cell carcinoma (HNSCC) and there is often uncertainty and about 
+disease behavior as well as chemotherapy and radiation response.
+OBJECTIVES: To describe and characterize HNSCC among Fanconi anemia patients on 
+the Israeli Fanconi Registry.
+METHODS: Our study population included patients in Israel's inherited bone 
+marrow failure registry who were diagnosed with Fanconi anemia between1980 and 
+2016. Demographic, clinical, and laboratory data were collected from patient 
+charts.
+RESULTS: From the collected data, HNSCC was confirmed in 6/111 (5.4%) Fanconi 
+anemia patients; 1 (17%) had classic HNSCC risk factors of tobacco abuse and 4 
+(56%) had undergone primary surgery. The 3 (50%) receiving concurrent 
+chemoradiotherapy had mild side effects, while half developed metachronous 
+primary malignancy, and all developed > 2 primary malignancies. The overall 
+median survival of the patients in our study was 14 (0.5-57) months.
+CONCLUSIONS: Fanconi anemia patients have a very high risk of developing HNSCC. 
+Proactive screening for malignancies is needed for the head and neck regions. We 
+also found that chemoradiotherapy can be used safely in high-stage cancers.
+
+PMID: 35971997 [Indexed for MEDLINE]
+
+
+20. World Neurosurg. 2022 Oct;166:e859-e871. doi: 10.1016/j.wneu.2022.07.128.
+Epub  2022 Aug 6.
+
+Influence of Sociodemographic and Psychosocial Factors on Length of Stay After 
+Surgical Management of Traumatic Spine Fracture with Spinal Cord Injury.
+
+Hagan MJ(1), Pertsch NJ(2), Leary OP(3), Sastry R(3), Ganga A(3), Xi K(4), Zheng 
+B(1), Kondamuri NS(5), Camara-Quintana JQ(3), Niu T(3), Sullivan PZ(3), Abinader 
+JF(3), Telfeian AE(3), Gokaslan ZL(3), Oyelese AA(3), Fridley JS(6).
+
+Author information:
+(1)The Warren Alpert School of Medicine, Brown University, Providence, Rhode 
+Island, USA.
+(2)The Warren Alpert School of Medicine, Brown University, Providence, Rhode 
+Island, USA; Department of Neurosurgery, Rush University Medical Center, 
+Chicago, Illinois, USA.
+(3)The Warren Alpert School of Medicine, Brown University, Providence, Rhode 
+Island, USA; Department of Neurosurgery, Rhode Island Hospital, Providence, 
+Rhode Island, USA.
+(4)Brown University School of Public Health, Providence, Rhode Island, USA.
+(5)Hilton Head Preparatory School, Hilton Head Island, South Carolina, USA.
+(6)The Warren Alpert School of Medicine, Brown University, Providence, Rhode 
+Island, USA; Department of Neurosurgery, Rhode Island Hospital, Providence, 
+Rhode Island, USA. Electronic address: Jared.Fridley@lifespan.org.
+
+OBJECTIVE: Identifying patients at risk of increased health care resource 
+utilization is a valuable opportunity to develop targeted preoperative and 
+perioperative interventions. In the present investigation, we sought to examine 
+patient sociodemographic factors that predict prolonged length of stay (LOS) 
+after traumatic spine fracture.
+METHODS: We performed a cohort analysis using the National Trauma Data Bank 
+tabulated during 2012-2016. Eligible patients were those who were diagnosed with 
+cervical or thoracic spine fracture with spinal cord injury and who were treated 
+surgically. We evaluated the effects of sociodemographic as well as psychosocial 
+variables on LOS by negative binomial regression and adjusted for injury 
+severity, injury mechanism, and hospital characteristics.
+RESULTS: We identified 3856 eligible patients with a median LOS of 9 days 
+(interquartile range, 6-15 days). Patients in older age categories, who were 
+male (incidence rate ratio (IRR), 1.05; 95% confidence interval [CI], 
+1.01-1.09), black (IRR, 1.12; CI, 1.05-1.19) or Hispanic (IRR, 1.09; CI, 
+1.03-1.16), insured by Medicaid (IRR, 1.24; CI, 1.17-1.31), or had a diagnosis 
+of alcohol use disorder (IRR, 1.12; CI, 1.06-1.18) were significantly more 
+likely to have a longer LOS. In addition, patients with severe injury on Injury 
+Severity Score (IRR, 1.32; CI, 1.14-1.53) and lower Glasgow Coma Scale (GCS) 
+scores (GCS score 3-8, IRR, 1.44; CI, 1.35-1.55; GCS score 9-11, IRR, 1.40; CI, 
+1.25-1.58) on admission had a significantly lengthier LOS. Patients admitted to 
+a hospital in the Southern United States (IRR, 1.09; CI, 1.05-1.14) had longer 
+LOS.
+CONCLUSIONS: Socioeconomic factors such as race, insurance status, and alcohol 
+use disorder were associated with a prolonged LOS after surgical management of 
+traumatic spine fracture with spinal cord injury.
+
+Copyright © 2022 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2022.07.128
+PMID: 35940503 [Indexed for MEDLINE]

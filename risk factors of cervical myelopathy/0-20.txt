@@ -1,0 +1,1136 @@
+1. Spine (Phila Pa 1976). 2023 May 30. doi: 10.1097/BRS.0000000000004735. Online 
+ahead of print.
+
+Evaluation of Genetic and Non-Genetic Risk Factors for Degenerative Cervical 
+Myelopathy.
+
+Shlykov MA(1), Giles EM(1), Kelly MP(1), Lin SJ(2), Pham VT(1), Saccone NL(2), 
+Yanik EL(1)(3).
+
+Author information:
+(1)Departments of Orthopaedic Surgery.
+(2)Genetics, Washington University School of Medicine.
+(3)Surgery.
+
+STUDY DESIGN: Cohort study.
+OBJECTIVE: Our aim was to evaluate the associations of genetic and non-genetic 
+factors with degenerative cervical myelopathy (DCM).
+SUMMARY OF BACKGROUND DATA: There is mounting evidence for an inherited 
+predisposition for DCM, but uncertainty remains regarding specific genetic 
+markers involved. Similarly, non-genetic factors are thought to play a role.
+MATERIALS AND METHODS: Using diagnosis codes from hospital records linked to the 
+UK Biobank cohort, patients with cervical spondylosis were identified followed 
+by the identification of a subset with DCM. Non-genetic variables evaluated 
+included age, sex, race, Townsend deprivation index, body mass index, 
+occupational demands, osteoporosis and smoking. Genome-wide association analyses 
+were conducted using logistic regression adjusted for age, sex, population 
+principal components and follow-up.
+RESULTS: 851 DCM cases out of 2787 cervical spondylosis patients were 
+identified. Several non-genetic factors were independently associated with DCM 
+including age (odds ratio [OR]=1.11, 95%CI=1.01-1.21, P=0.024), male sex (OR 
+=1.63, 95%CI=1.37-1.93, P<0.001) and relative socioeconomic deprivation 
+(OR=1.03, 95%CI=1.00-1.06, P=0.030). Asian race was associated with lower DCM 
+risk (OR=0.44, 95%CI=0.22-0.85, P=0.014). We did not identify genome-wide 
+significant (≤5×10-8) single nucleotide polymorphisms (SNPs) associated with 
+DCM. The strongest genome-wide signals were at SNP rs67256809 in the intergenic 
+region of the genes LINC02582 and FBXO15 on chromosome 18 (P=1.12×10-7) and 
+rs577081672 in the GTPBP1 gene on chromosome 22 (P=2.9×10-7). No SNPs reported 
+in prior DCM studies were significant after adjusting for replication attempts.
+CONCLUSION: Increasing age, male sex and relative socioeconomic deprivation were 
+identified as independent risk factors for DCM, whereas Asian race was inversely 
+associated. SNPs of potential interest were identified in GTPBP1 and an 
+intergenic region on chromosome 18, but these associations did not reach 
+genome-wide significance. Identification of genetic and non-genetic DCM 
+susceptibility markers may guide understanding of DCM disease processes, inform 
+risk, guide prevention and potentially inform surgical outcomes.
+LEVEL OF EVIDENCE: Prognostic Level III. See instructions for Authors for 
+complete description of levels of evidence.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/BRS.0000000000004735
+PMID: 37249397
+
+Conflict of interest statement: Conflicts of Interest and Source of Funding: ELY 
+received funding from the National Institutes of Health K01AR073318 (PI: Yanik) 
+and funding from the Scoliosis Research Society during the conduct of the study. 
+The spouse of NLS is listed as an inventor on Issued US Patent 8,080,371 
+“Markers for Addiction”. MPK receives honoraria from Wolters Kluwer. MAS, EMG, 
+SJL, and VP have nothing to disclose.
+
+
+2. Neurosurg Rev. 2023 May 11;46(1):118. doi: 10.1007/s10143-023-02027-y.
+
+Clinical application of spinal robot in cervical spine surgery: safety and 
+accuracy of posterior pedicle screw placement in comparison with conventional 
+freehand methods.
+
+Zhou LP(#)(1)(2), Zhang RJ(#)(1)(2), Zhang WK(#)(1)(2), Kang L(1)(2), Li 
+KX(1)(2), Zhang HQ(1)(2), Jia CY(1)(2), Zhang YS(3)(4), Shen CL(5)(6).
+
+Author information:
+(1)Department of Orthopedics and Spine Surgery, the First Affiliated Hospital of 
+Anhui Medical University, Hefei, 230022, Anhui, China.
+(2)Laboratory of Spinal and Spinal Cord Injury Regeneration and Repair, the 
+First Affiliated Hospital of Anhui Medical University, Hefei, 230022, Anhui, 
+China.
+(3)Department of Orthopedics and Spine Surgery, the First Affiliated Hospital of 
+Anhui Medical University, Hefei, 230022, Anhui, China. zhangyinshun@126.com.
+(4)Laboratory of Spinal and Spinal Cord Injury Regeneration and Repair, the 
+First Affiliated Hospital of Anhui Medical University, Hefei, 230022, Anhui, 
+China. zhangyinshun@126.com.
+(5)Department of Orthopedics and Spine Surgery, the First Affiliated Hospital of 
+Anhui Medical University, Hefei, 230022, Anhui, China. shencailiang@ahmu.edu.cn.
+(6)Laboratory of Spinal and Spinal Cord Injury Regeneration and Repair, the 
+First Affiliated Hospital of Anhui Medical University, Hefei, 230022, Anhui, 
+China. shencailiang@ahmu.edu.cn.
+(#)Contributed equally
+
+The novel robot-assisted (RA) technique has been utilized increasingly to 
+improve the accuracy of cervical pedicle screw placement. Although the clinical 
+application of the RA technique has been investigated in several case series and 
+comparative studies, the superiority and safety of RA over conventional freehand 
+(FH) methods remain controversial. Meanwhile, the intra-pedicular accuracy of 
+the two methods has not been compared for patients with cervical traumatic 
+conditions. This study aimed to compare the rate and risk factors of 
+intra-pedicular accuracy of RA versus the conventional FH approach for posterior 
+pedicle screw placement in cervical traumatic diseases. A total of 52 patients 
+with cervical traumatic diseases who received cervical screw placement using RA 
+(26 patients) and FH (26 patients) techniques were retrospectively included. The 
+primary outcome was the intra-pedicular accuracy of cervical pedicle screw 
+placement according to the Gertzbin-Robbins scale. Secondary outcome parameters 
+included surgical time, intraoperative blood loss, postoperative drainage, 
+postoperative hospital stay, and complications. Moreover, the risk factors that 
+possibly affected intra-pedicular accuracy were assessed using univariate 
+analyses. Out of 52 screws inserted using the RA method, 43 screws (82.7%) were 
+classified as grade A, with the remaining 7 (13.5%) and 2 (3.8%) screws 
+classified as grades B and C. In the FH cohort, 60.8% of the 79 screws were 
+graded A, with the remaining screws graded B (21, 26.6%), C (8, 10.1%), and D 
+(2, 2.5%). The RA technique showed a significantly higher rate of optimal 
+intra-pedicular accuracy than the FH method (P = 0.008), but there was no 
+significant difference between the two groups in terms of clinically acceptable 
+accuracy (P = 0.161). Besides, the RA technique showed remarkably longer surgery 
+time, less postoperative drainage, shorter postoperative hospital stay, and 
+equivalent intraoperative blood loss and complications than the FH technique. 
+Furthermore, the univariate analyses showed that severe obliquity of the lateral 
+atlantoaxial joint in the coronal plane (P = 0.003) and shorter width of the 
+lateral mass at the inferior margin of the posterior arch (P = 0.014) were risk 
+factors related to the inaccuracy of C1 screw placement. The diagnosis of HRVA 
+(P < 0.001), severe obliquity of the lateral atlantoaxial joint in the coronal 
+plane (P < 0.001), short pedicle width (P < 0.001), and short pedicle height (P 
+< 0.001) were risk factors related to the inaccuracy of C2 screw placement. RA 
+cervical pedicle screw placement was associated with a higher rate of optimal 
+intra-pedicular accuracy to the FH technique for patients with cervical 
+traumatic conditions. The severe obliquity of the lateral atlantoaxial joint in 
+the coronal plane independently contributed to high rates of the inaccuracy of 
+C1 and C2 screw placements. RA pedicle screw placement is safe and useful for 
+cervical traumatic surgery.
+
+© 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s10143-023-02027-y
+PMID: 37166553 [Indexed for MEDLINE]
+
+
+3. Asian Spine J. 2023 May 9. doi: 10.31616/asj.2022.0268. Online ahead of print.
+
+Analysis of Postoperative Clinical Outcomes in Cervical Myelopathy due to 
+Ossification of Posterior Longitudinal Ligament Involving C2.
+
+Shetty AP(1), Singh NA(1), Kalanjiyam GP(1), Meena J(1), Rajasekaran S(1), Kanna 
+RM(1).
+
+Author information:
+(1)Department of Spine Surgery, Ganga Medical Centre and Hospitals, Coimbatore, 
+India.
+
+STUDY DESIGN: Retrospective study.
+PURPOSE: To investigate the radiological phenotype, patient and surgery-related 
+risk factors influencing postoperative clinical outcome for cervical myelopathy 
+caused by ossification of the posterior longitudinal ligament involving C2 
+following posterior instrumented laminectomy and fusion.
+OVERVIEW OF LITERATURE: Ossified posterior longitudinal ligament (OPLL) is 
+caused by ectopic ossification of the posterior longitudinal ligament. It can 
+cause neurological impairment and severe disability. For multilevel cervical 
+OPLL, studies have shown good neurological recovery following cord decompression 
+via either an anterior or posterior approach. There is, however, a lacunae in 
+the literature regarding the outcomes of patients with OPLL extending to C2 and 
+above (C2 [+]).
+METHODS: We retrospectively studied 61 patients with C2 (+) OPLL who had 
+posterior instrumented laminectomy and fusion at Ganga Hospital, Coimbatore 
+between July 2011 and January 2021, with a minimum follow-up of 2 years. Data on 
+demographics, clinical outcomes, radiology, and post-surgical outcomes were 
+gathered.
+RESULTS: Among 61 patients, 56 were males and five were females. The OPLL 
+pattern was mixed in 32 cases (52.5%), continuous in 26 cases (42.6%), segmental 
+in two cases (3.3%), and circumscribed in one patient (1.6%). All of our 
+patients showed signs of neurological improvement after a 24-month follow-up. 
+The mean preoperative modified Japanese Orthopaedic Association (mJOA) score was 
+10.6 (range, 5-11) and the postoperative mJOA score was 15.8 (range, 12-18). The 
+recovery rate was >75% in 27 patients (44.6%), >50% in 32 patients (52.5%), and 
+>25% in two patients (3.3%). The average recovery rate was 71% (range, 
+33%-100%). The independent risk factor for predicting recovery rate is the 
+preoperative mJOA score.
+CONCLUSIONS: In C2 (+) OPLL, posterior instrumented decompression and fusion 
+provide a relatively safe approach and satisfactory results.
+
+DOI: 10.31616/asj.2022.0268
+PMID: 37160265
+
+
+4. Spine (Phila Pa 1976). 2023 May 5. doi: 10.1097/BRS.0000000000004706. Online 
+ahead of print.
+
+Factors Associated with Loss of Cervical Lordosis after Laminoplasty for 
+Patients with Cervical Ossification of the Posterior Longitudinal Ligament: Data 
+from a Prospective Multicenter Study.
+
+Nakashima H(1)(2), Imagama S(1)(2), Yoshii T(2)(3), Egawa S(2)(3), Sakai 
+K(2)(4), Kusano K(2)(5), Tsutsui S(2)(6), Hirai T(2)(3), Matsukura Y(2)(3), Wada 
+K(2)(7), Katsumi K(2)(8), Koda M(2)(9), Kimura A(2)(10), Furuya T(2)(11), Maki 
+S(2)(11), Nagoshi N(2)(12), Nishida N(2)(13), Nagamoto Y(2)(14), Oshima 
+Y(2)(15), Ando K(2)(16), Takahata M(2)(17), Mori K(2)(18), Nakajima H(2)(19), 
+Murata K(2)(20), Miyagi M(2)(21), Kaito T(2)(22), Yamada K(2)(23), Banno 
+T(2)(24), Kato S(2)(25), Ohba T(2)(26), Moridaira H(2)(27), Fujibayashi 
+S(2)(28), Katoh H(2)(29), Kanno H(2)(30), Taneichi H(2)(27), Kawaguchi Y(2)(31), 
+Takeshita K(2)(10), Nakamura M(2)(12), Okawa A(2)(3), Yamazaki M(29).
+
+Author information:
+(1)Department of Orthopaedic Surgery, Nagoya University Graduate School of 
+Medicine, 65 Tsurumaicho, Showa Ward, Nagoya, Aichi, 466-8550, Japan.
+(2)Japanese Multicenter Research Organization for Ossification of the Spinal 
+Ligament.
+(3)Department of Orthopaedic Surgery, Tokyo Medical and Dental University, 
+1-5-45 Yushima, Bunkyo Ward, Tokyo, 113-8519, Japan.
+(4)Department of Orthopaedic Surgery, Saiseikai Kawaguchi General Hospital, 
+5-11-5 Nishikawaguchi, Kawaguchishi, Saitama, 332-8558, Japan.
+(5)Department of Orthopaedic Surgery, Kudanzaka Hospital, 1-6-12 Kudanminami, 
+Chiyodaku, 102-0074, Japan.
+(6)Department of Orthopaedic Surgery, Wakayama Medical University, 811-1 
+Kimiidera, Wakayama-city, Wakayama, 641-8510, Japan.
+(7)Department of Orthopaedic Surgery, Hirosaki University Graduate School of 
+Medicine, 5 Zaifucho, Hirosaki, Aomori, 036-8562, Japan.
+(8)Department of Orthopaedic Surgery, Niigata University Medicine and Dental 
+General Hospital, 1-754 Asahimachidori, Chuo Ward, Niigata, Niigata, 951-8520, 
+Japan.
+(9)Department of Orthopaedic Surgery, Faculty of Medicine, University of 
+Tsukuba, 1-1-1 Tennodai, Tsukuba, Ibaraki, 305-8575 Japan.
+(10)Department of Orthoaedics, Jichi Medical University, 3311-1 Yakushiji, 
+Shimotsuke, Tochigi, 329-0498, Japan.
+(11)Department of Orthopaedic Surgery, Chiba University Graduate School of 
+Medicine, 1-8-1 Inohana, Chuo Ward, Chiba, Chiba, 260-8670, Japan.
+(12)Department of Orthopaedic Surgery, Keio University school of Medicine, 35 
+Shinanomachi, Shinjuku Ward, Tokyo, 160-8582, Japan.
+(13)Department of Orthopaedic Surgery, Yamaguchi University School of Medicine, 
+1-1-1 Minami-Kogushi, Ube, Yamaguchi, 755-8505, Japan.
+(14)Department of Orthopaedic Surgery, Osaka Rosai Hospital, 1179-3 Nagasonecho, 
+Sakaishi, Osaka, 591-8025, Japan.
+(15)Department of Orthopaedic Surgery, Faculty of Medicine, The University of 
+Tokyo, 7-3-1 Hongo, Bunkyo-ku, Tokyo, 113-0033, Japan.
+(16)Department of Orthopaedic Surgery, Japanese Red Cross Aichi Medical Center 
+Nagoya Daini Hospital, Myokencho 2-9, Showa Ward, Nagoya, Aichi, 466-8650, 
+Japan.
+(17)Department of Orthopaedic Surgery, Faculty of Medicine and Graduate School 
+of Medicine, Hokkaido University, Kita 15, Nishi 7, Sapporo, 060-8638, Japan.
+(18)Department of Orthopaedic Surgery, Shiga University of Medical Science, 
+Tsukinowa-cho, Seta, Otsu, Shiga, 520-2192, Japan.
+(19)Department of Orthopaedics and Rehabilitation Medicine, Faculty of Medical 
+Sciences University of Fukui, 23-3 Matsuoka Shimoaizuki, Eiheiji-cho, 
+Yoshida-gun, Fukui, 910-1193, Japan.
+(20)Department of Orthopaedic Surgery, Tokyo Medical University, 6-7-1 
+Nishishinjuku, Shinjuku-ku, Tokyo, 160-0023, Japan.
+(21)Department of Orthopedic Surgery, Kitasato University, School of Medicine, 
+1-15-1 Kitazato, Minami-ku, Sagamiharashi, Kanagawa, 252-0375, Japan.
+(22)Department of Orthopaedic Surgery, Graduate School of Medicine, Osaka 
+University, 2-2 Yamadaoka, Suita-shi, Osaka, 565-0871, Japan.
+(23)Department of Orthopaedic Surgery, Kurume University School of Medicine, 67 
+Asahi-machi, Kurume-shi, Fukuoka, 830-0011, Japan.
+(24)Department of Orthopaedic Surgery, Hamamatsu University School of Medicine, 
+1-20-1 Handayama, Hamamatsu, Shizuoka, 431-3125, Japan.
+(25)Department of Orthopaedic Surgery, Graduate School of Medical Sciences, 
+Kanazawa University, 13-1 Takara-machi, Kanazawa, 920-8641, Japan.
+(26)Department of Orthopaedic Surgery, University of Yamanashi, 1110 Shimokato, 
+Chuo Ward, Yamanashi, 409-3898, Japan.
+(27)Department of Orthopaedic Surgery, Dokkyo Medical University School of 
+Medicine, 880 Kitakobayashi, Mibu-machi, Shimotsuga-gun, Tochigi, 321-0293, 
+Japan.
+(28)Department of Orthopaedic Surgery, Graduate School of Medicine, Kyoto 
+University, 54 Kawahara-cho, Shogoin, Sakyo-ku, Kyoto, 606-8507, Japan.
+(29)Department of Orthopaedic Surgery, Surgical Science, Tokai University School 
+of Medicine, 143 Shimokasuya, Isehara, Kanagawa, 259-1193, Japan.
+(30)Department of Orthopaedic Surgery, Tohoku University School of Medicine, 1-1 
+Seiryomachi, Aoba Ward, Sendai, Miyagi, 980-8574, Japan.
+(31)Department of Orthopaedic Surgery, Faculty of Medicine, University of 
+Toyama, 2630 Sugitani, Toyama, Toyama, 930-0194, Japan.
+
+STUDY DESIGN: A prospective multicenter study.
+OBJECTIVE: To investigate the incidence of loss of cervical lordosis after 
+laminoplasty for cervical ossification of the posterior longitudinal ligament 
+(OPLL). We also sought to determine associated risk factors and the relationship 
+with patient-reported outcomes.
+SUMMARY OF BACKGROUND DATA: Loss of cervical lordosis is a sequalae often 
+observed after laminoplasty, which may adversely impact surgical outcomes. 
+Cervical kyphosis, especially in OPLL, is associated with reoperation, but risk 
+factors and relationship to postoperative outcomes remain understudied at this 
+time.
+METHODS: This study was conducted by the Japanese Multicenter Research 
+Organization for Ossification of the Spinal Ligament. We included 165 patients 
+who underwent laminoplasty and completed Japanese Orthopaedic Association (JOA) 
+score or Japanese Orthopaedic Association Cervical Myelopathy Evaluation 
+Questionnaires (JOACMEQ), as well as visual analog scales (VAS) for pain, with 
+imaging. The participants were divided into two groups: those with loss of 
+cervical lordosis of>10° or 20° after surgery and those without loss of cervical 
+lordosis. A paired t-test was applied to evaluate the association between 
+changes in cervical spinal angles, ROM, and cervical JOA and VAS scores before 
+and at 2 years postoperatively. Mann-Whitney U-test was used for JOACMEQ.
+RESULTS: Postoperative loss of cervical lordosis>10° and>20° was observed in 32 
+(19.4%) and 7 (4.2%), respectively. JOA, JOACMEQ, and VAS scores were not 
+significantly different between those with, and without, loss of cervical 
+lordosis. Preoperative small extension range of motion (eROM) was significantly 
+associated with postoperative loss of cervical lordosis, and the cutoff values 
+of eROM were 7.4° [area under the curve (AUC): 0.76] and 8.2° (AUC: 0.92) for 
+loss of cervical lordosis>10° and>20°, respectively. A large occupation ratio of 
+OPLL was also associated with loss of cervical lordosis, with a cutoff value of 
+39.9% (AUC: 0.94). Laminoplasty resulted in functional improvement in most 
+patient-reported outcomes; however, neck pain and bladder function tended to 
+become worse postoperatively in cases with postoperative loss of cervical 
+lordosis>20°.
+CONCLUSION: JOA, JOACMEQ, and VAS scores were not significantly different 
+between those with, and without, loss of cervical lordosis. Preoperative small 
+eROM and large OPLL may represent factors associated with loss of cervical 
+lordosis after laminoplasty in patients with OPLL.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/BRS.0000000000004706
+PMID: 37146070
+
+Conflict of interest statement: Conflicts of interest and source of funding: 
+This study was supported by the Japan Agency for Medical Research and 
+Development [Grant Number JP15ek0109136] and Japanese Health Labor Sciences 
+Research Grant.
+
+
+5. Eur Spine J. 2023 Jun;32(6):2101-2109. doi: 10.1007/s00586-023-07605-8. Epub 
+2023 Apr 30.
+
+Electrophysiological evidence of diabetes' impacts on central conduction 
+recoveries in degenerative cervical myelopathy after surgery.
+
+Yu Z(#)(1), Chen C(#)(1), Yu T(#)(1), Ye Y(1), Zheng X(1), Zhan S(1), Zeng S(1), 
+Zou X(2), Chang Y(1).
+
+Author information:
+(1)Department of Spine Surgery, Orthopedics Center of Guangdong Provincial 
+People's Hospital and Guangdong Academy of Medical Sciences, Southern Medical 
+University, Guangzhou, People's Republic of China.
+(2)Guangdong Provincial Key Laboratory of Orthopedics and Traumatology, 
+Department of Spine Surgery, The First Affiliated Hospital of Sun Yat-Sen 
+University, Guangzhou, 510080, People's Republic of China. zxnong@hotmail.com.
+(#)Contributed equally
+
+OBJECTIVES: To assess the impact of diabetes mellitus (DM) on the postoperative 
+motor and somatosensory functional recoveries of degenerative cervical 
+myelopathy (DCM) patients.
+METHODS: Motor and somatosensory evoked potentials (MEP and SSEPs) and modified 
+Japanese Orthopedic Association (mJOA) scores were recorded in 27 diabetic 
+(DCM-DM group) and 38 non-diabetic DCM patients (DCM group) before and 1 year 
+after surgery. The central motor (CMCT) and somatosensory (CSCT) conduction time 
+were recorded to evaluate the conductive functions of the spinal cord.
+RESULTS: The mJOA scores, CMCT and CSCT improved (t test, p < 0.05) in both of 
+the DCM-DM and DCM groups 1 year after surgery. The mJOA recovery rate (RR) and 
+CSCT recovery ratio were significantly worse (t test, p < 0.05) in the DCM-DM 
+group compared to the DCM group. DM proved to be a significant independent risk 
+factor for poor CSCT recovery (OR = 4.52, 95% CI 2.32-7.12) after adjusting for 
+possible confounding factors. In DCM-DM group, CSCT recovery ratio was also 
+correlated with preoperative HbA1 level (R =  - 0.55, p = 0.003). Furthermore, 
+DM duration longer than 10 years and insulin dependence were risk factors for 
+lower mJOA, CMCT and CSCT recoveries among all DCM-DM patients (t test, 
+p < 0.05).
+CONCLUSIONS: DM may directly hinders spinal cord conduction recovery in DCM 
+patients after surgery. Corticospinal tract impairments are similar between DCM 
+and DCM-DM patients, but significantly worsened in chronic or insulin-dependent 
+DM patients. The dorsal column is more sensitively affected in all DCM-DM 
+patients. Deeper investigation into the mechanisms and neural regeneration 
+strategies is needed.
+
+© 2023. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00586-023-07605-8
+PMID: 37120776 [Indexed for MEDLINE]
+
+
+6. J Neurosurg Pediatr. 2023 Apr 28:1-10. doi: 10.3171/2023.3.PEDS22353. Online 
+ahead of print.
+
+Surgical treatment of craniovertebral junction instability in children with Down 
+syndrome: a systematic review.
+
+Isaacs AM(1), Narapareddy A(2), Nam A(2), Hutcheson K(2), Stone M(1), Bonfield 
+CM(1).
+
+Author information:
+(1)1Department of Neurosurgery, Vanderbilt University Medical Center, Nashville; 
+and.
+(2)2Vanderbilt University, Nashville, Tennessee.
+
+OBJECTIVE: Down syndrome (DS) affects 1 in 700 live births and approximately 
+one-third of patients develop craniovertebral junction (CVJ) instability, 
+diagnosed by clinical examination and radiological measures such as the 
+atlantodens interval (ADI) and space available for the cord (SAC). Patients with 
+symptomatic CVJ instability are at increased risk for spinal cord injury. There 
+are no guidelines for surgical management of CVJ instability in DS, the existing 
+literature is sparse, and there is a lack of consistent pediatric data. This 
+systematic review aimed to synthesize practice patterns of the surgical 
+management of CVJ stability in pediatric DS patients to facilitate future 
+standardization of care.
+METHODS: Peer-reviewed studies reporting surgical management of CVJ instability 
+in pediatric DS patients were systematically reviewed. Inclusion criteria were 
+studies reporting primary data on patients younger than 18 years with DS, who 
+had CVJ instability evaluation and underwent surgical treatment. Bias risk was 
+assessed. Descriptive statistics of the independent patient data were presented. 
+Interval variables were analyzed using the Wilcoxon rank-sum test.
+RESULTS: Of 1056 records, 38 studies were included. Of the included patients, 
+169 (6%) underwent surgery. The surgical indication was symptomatic, 
+radiologically confirmed CVJ instability in 81% of the patients, presenting with 
+myelopathy (30%), weakness (25%), abnormal gait (24%), torticollis (15%), and 
+neck pain (14%). A cutoff of ADI ≥ 4 mm or SAC ≤ 14 mm, cord compression, cord 
+signal change, and anomalous bony anatomy were used in diagnosing CVJ 
+instability. Surgical approaches focused on internal fixation with posterior 
+occipitocervical or atlantoaxial instrumented fusion in 57% and 44% of patients, 
+respectively. Autograft, wiring, and allograft constructs were used in 48%, 45%, 
+and 9% of patients. Anterior cervical approaches were performed in 6% of 
+patients. Preoperative and postoperative external orthoses were used in 
+approximately 50% of patients. The surgical mortality rate was 3%, and the 
+complication rate was 36%.
+CONCLUSIONS: Assessment of CVJ instability in DS is based on radiographic and 
+clinical factors. Surgery is recommended if symptoms are present, and the 
+procedure type depends on patient factors, degree of instability, anomalous bony 
+anatomy, and reduction results to relieve cord compression. Most commonly, 
+posterior instrumented fusion is used. However, further research is required to 
+determine the strength of evaluation methods, create standardized guidelines for 
+evaluation and surgical treatment, and investigate the long-term results of 
+different surgical techniques.
+
+DOI: 10.3171/2023.3.PEDS22353
+PMID: 37119098
+
+
+7. BMC Musculoskelet Disord. 2023 Apr 26;24(1):329. doi: 
+10.1186/s12891-023-06369-y.
+
+Predictors of hospital-acquired pressure injuries in patients with complete 
+spinal cord injury: a retrospective case-control study.
+
+Balasuberamaniam P(#)(1), Wasim A(#)(1), Shrikumar M(1), Chen T(1), Anthony 
+T(2), Phillips A(2), Nathens A(2), Chapman M(3), Crawford E(1), Schwartz 
+CE(4)(5), Finkelstein J(1).
+
+Author information:
+(1)Division of Orthopedic Surgery, Sunnybrook Health Sciences Centre, Toronto, 
+ON, Canada.
+(2)Tory Trauma Program, Sunnybrook Health Sciences Centre, Toronto, ON, Canada.
+(3)Critical Care Medicine and Anesthesia, Sunnybrook Health Sciences Centre, 
+Toronto, ON, Canada.
+(4)DeltaQuest Foundation, 31 Mitchell Road, Concord, MA, 01742, USA. 
+carolyn.schwartz@deltaquest.org.
+(5)Departments of Medicine and Orthopaedic Surgery, Tufts University School of 
+Medicine, Boston, MA, USA. carolyn.schwartz@deltaquest.org.
+(#)Contributed equally
+
+BACKGROUND: Despite current best practices, pressure injuries (PI) remain a 
+devastating and prevalent hospital-acquired complication for patients with acute 
+traumatic spinal cord injuries (SCIs). This study examined associations between 
+risk factors for PI development in patients with complete SCI, such as 
+norepinephrine dose and duration, and other demographic factors or lesion 
+characteristics.
+METHODS: This case-control study included adults with acute complete SCIs 
+ASIA-A, who were admitted to a level-one trauma center between 2014-18. A 
+retrospective review was implement using data on patient and injury 
+characteristics, including age, gender, level of SCI (cervical vs. thoracic), 
+Injury Severity Score (ISS), length of stay (LOS) and mortality; 
+presence/absence of PI during their acute hospital stay; and treatment factors 
+such as spinal surgery, mean arterial pressure (MAP) targets, and vasopressor 
+treatment. Multivariable logistic regression evaluated associations with PI.
+RESULTS: Eighty-two out of 103 eligible patients had complete data, and 30 (37%) 
+developed PIs. Patient and injury characteristics, including age (Mean: 50.6; 
+SD:21.3), location of SCI (48 cervical, 59%) and ISS (Mean 33.1; SD:11.8), did 
+not differ between PI and non-PI groups. Logistic regression analysis revealed 
+that male gender (OR:34.1; CI95:2.3-506.5, p = 0.010) and increased LOS 
+(log-transformed; OR:20.5, CI95:2.8-149.9, p = 0.003) were associated with 
+increased risk of PI. Having an order for a MAP > 80mmg (OR:0.05; 
+CI95:0.01-0.30, p = 0.001) was associated with a reduced risk of PI. There were 
+no significant associations between PI and duration of norepinephrine treatment.
+CONCLUSIONS: Norepinephrine treatment parameters were not associated with 
+development of PI, suggesting that MAP targets should be a focus for future 
+investigations for SCI management. Increasing LOS should highlight the need for 
+high-risk PI prevention and vigilance.
+
+© 2023. The Author(s).
+
+DOI: 10.1186/s12891-023-06369-y
+PMCID: PMC10131324
+PMID: 37101130 [Indexed for MEDLINE]
+
+Conflict of interest statement: All authors declare that they have no potential 
+conflicts of interest and report no disclosures.
+
+
+8. J Neurosurg Spine. 2023 Apr 21:1-10. doi: 10.3171/2023.3.SPINE221377. Online 
+ahead of print.
+
+Up to 10-year surveillance comparison of survivability in single-level cervical 
+disc replacement versus anterior cervical discectomy and fusion in New York.
+
+Paek S(1), Zelenty WD(2), Dodo Y(2)(3), Sarin M(2), Shue J(2), Soffin EM(2), 
+Cammisa FP(2), Girardi FP(2), Sama AA(2), Lyman S(2), Hughes AP(2).
+
+Author information:
+(1)1Geisinger Commonwealth School of Medicine, Scranton, Pennsylvania.
+(2)2Department of Orthopaedic Surgery, Spine Care Institute, Hospital for 
+Special Surgery, New York, New York; and.
+(3)3Department of Orthopaedic Surgery, School of Medicine, Showa University 
+Hospital, Tokyo, Japan.
+
+OBJECTIVE: Cervical disc replacement (CDR) is an alternative treatment to 
+anterior cervical discectomy and fusion (ACDF), which is the current gold 
+standard, for degenerative cervical diseases such as cervical spondylotic 
+myelopathy and cervical radiculopathy. CDR has several theoretical benefits over 
+ACDF, including preservation of motion, earlier return to unrestricted activity, 
+and potentially a lower risk of adjacent-segment disease. Recent literature has 
+reported positive clinical results for CDR, but few studies have investigated 
+the long-term risk of revision surgery of CDR versus ACDF. The purpose of this 
+study was to identify and analyze the epidemiological, clinical, and operative 
+risk factors that affect revision rates following single-level CDR and ACDF 
+procedures.
+METHODS: A retrospective cohort was extracted from the Statewide Planning and 
+Research Cooperative System using ICD-9 and CPT codes. Inclusion criteria were 
+adult patients undergoing primary, subaxial (C3-7), single-level ACDF or CDR for 
+cervical radiculopathy and/or cervical spondylotic myelopathy between 2005 and 
+2013. Survivability was defined as the time between the index procedure and the 
+presence of a subsequent discharge record for cervical spinal fusion or disc 
+replacement. Statistical analyses were performed using chi-square tests, 
+t-tests, Cox proportional hazards models, and a Kaplan-Meier plot.
+RESULTS: A total of 7450 patients were included in this study (6615 ACDF and 835 
+CDR). When adjusted for patient demographics, the hazard ratios showed no 
+significant differences in the incidence of revision risk between the two 
+cohorts. The CDR cohort had a higher incidence of postoperative dysphagia (p < 
+0.05). Patients undergoing ACDF had a longer average hospital stay (2.8 vs 1.9 
+days, p < 0.001). There was no significant difference in time to revision 
+surgery (p = 0.486).
+CONCLUSIONS: CDR and ACDF have both been shown to be effective treatments for 
+cervical spine disease. CDR patients had a shorter average inpatient hospital 
+stay compared with ACDF patients but tended to experience dysphagia more 
+frequently. There was a tendency toward increased survivability of CDR; however, 
+this was not found to be statistically significant at any time point. The large 
+size and heterogeneity of each cohort and the availability of > 10 years of 
+surveillance data differentiate this study from other published literature. This 
+investigation has limitations inherent to large data analysis studies, including 
+the implementation and inaccuracy of diagnosis and procedural coding; however, 
+this reflects real-world use of coding by practitioners.
+
+DOI: 10.3171/2023.3.SPINE221377
+PMID: 37086159
+
+
+9. World Neurosurg. 2023 Apr 7:S1878-8750(23)00486-2. doi: 
+10.1016/j.wneu.2023.04.011. Online ahead of print.
+
+Predictive Effect of Cervical Sagittal Parameters and Corresponding Segmental 
+Paravertebral Muscle Degeneration on the Occurrence of Cervical Kyphosis 
+Following Cervical Laminoplasty.
+
+Niu Y(1), Lv Q(2), Gong C(1), Duan D(1), Zhou Z(1), Wu J(3).
+
+Author information:
+(1)Department of Orthopaedic Surgery, the Bozhou Hospital Affiliated to Anhui, 
+Medical University, Anhui Province, China.
+(2)Nursing School of Anhui Medical University, Anhui Province, China.
+(3)Department of Orthopaedic Surgery, the Bozhou Hospital Affiliated to Anhui, 
+Medical University, Anhui Province, China. Electronic address: 
+ahbzjzwjm@163.com.
+
+BACKGROUND: Cervical sagittal parameters and paravertebral muscle degeneration 
+are important factors for the occurrence of cervical spondylotic myelopathy. 
+However, the relationship between the 2 risk factors and cervical kyphosis 
+following cervical laminoplasty remains unknown.
+METHODS: A total of 130 patients undergoing cervical laminoplasty were enrolled 
+from July 2018 to July 2020 and were followed up for at least 24 months. 
+Clinical recovery was recorded, including the Japanese Orthopedic Association, 
+neck disability index and visual analog scale scores. Radiographic sagittal 
+parameters were measured on cervical lateral radiographs: T1 slope (T1S), C2-C7 
+Cobb lordotic angle (CLA), C2-C7 sagittal vertical axis, O-C2 angle, and 
+T1S-CLA. The magnetic resonance imaging (MRI) parameters of the paraspinal 
+muscles were also measured, including cross-sectional area and fat infiltration 
+(FI). The patients were divided into a kyphosis group and a lordosis group based 
+on the last follow-up results of CLA. Multivariate logistic analysis was 
+performed to analyze risk factors for kyphosis following laminoplasty.
+RESULTS: Thirty-two patients were assigned to the kyphosis group and 98 were 
+assigned to the lordosis group. Patient baseline and surgical information in the 
+2 groups showed no statistically significant difference. In the comparison of 
+clinical recovery, patients with kyphosis showed a lower Japanese Orthopedic 
+Association recovery rate than the lordosis group. For the radiographic 
+parameters and muscle condition comparison, CLA, T1S-CLA, and FI were the most 
+significant parameters. The logistic regression revealed that T1S-CLA and FI 
+were the most important variables that predicted kyphosis.
+CONCLUSIONS: We concluded that FI remarkably differed in the paraspinal muscles 
+in the 2 groups. Multivariate logistic regression demonstrated that T1S-CLA and 
+FI significantly influenced the process of kyphosis after cervical laminoplasty.
+
+Copyright © 2023 Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.wneu.2023.04.011
+PMID: 37031734
+
+
+10. Neurol Med Chir (Tokyo). 2023 Apr 6. doi: 10.2176/jns-nmc.2022-0325. Online 
+ahead of print.
+
+Risk Factors of Subsidence after Anterior Cervical Discectomy and Fusion with 
+Double Cylindrical Cages for Cervical Degenerative Diseases: Minimum Two-year 
+Follow-up Results.
+
+Doi K(1), Tani S(1), Okazaki T(2), Mizuno J(1).
+
+Author information:
+(1)Center for Minimally Invasive Spinal Surgery, Shin Yurigaoka General 
+Hospital.
+(2)Department of Neurosurgery, Kushiro Kojinkai Memorial Hospital.
+
+Cylindrical cages were known to cause subsidence after anterior cervical 
+discectomy and fusion (ACDF); hence, they were gradually replaced by box-shaped 
+cages. However, this phenomenon has been inconclusive due to limited information 
+and short-term results. Therefore, this study aimed to clarify risk factors for 
+subsidence after ACDF using titanium double cylindrical cages with mid-term 
+follow-up periods. This retrospective study included 49 patients (76 segments) 
+diagnosed with cervical radiculopathy or myelopathy caused by disc herniation, 
+spondylosis, and ossification of the posterior longitudinal ligament. These 
+patients underwent ACDF using these cages from January 2016 to March 2020 in a 
+single institution. Patient demographics and neurological outcomes were also 
+examined. Subsidence was defined as a ≥3-mm segmental disc height decrease at 
+the final follow-up lateral X-ray compared to that on the next day 
+postoperatively. Subsidence occurred in 26 of 76 segments (34.7%) within the 
+follow-up periods of approximately three years. Multivariate analysis using a 
+logistic regression model demonstrated that multilevel surgery was significantly 
+associated with subsidence. The majority of patients achieved good clinical 
+outcomes based on the Odom criteria. This study demonstrated that multilevel 
+surgery was the only risk factor of subsidence post-ACDF with double cylindrical 
+cages. Despite the relatively high subsidence rates, the clinical outcome was 
+almost good at least during the mid-term period.
+
+DOI: 10.2176/jns-nmc.2022-0325
+PMID: 37019651
+
+
+11. Neurospine. 2023 Mar;20(1):365-373. doi: 10.14245/ns.2245004.502. Epub 2023
+Mar  31.
+
+Facet Articular Irregularity Is the Most Relevant Risk Factor for Rapidly 
+Progressive Degenerative Cervical Myelopathy.
+
+Takeshima Y(1), Okamoto A(1), Yokoyama S(1), Nishimura F(1), Nakagawa I(1), Park 
+YS(1), Nakase H(1).
+
+Author information:
+(1)Department of Neurosurgery, Nara Medical University School of Medicine, 
+Kashihara, Japan.
+
+OBJECTIVE: Facet articular irregularity is associated with rapidly progressive 
+degenerative cervical myelopathy (DCM). However, its significance compared with 
+other known risk factors remains unknown. Therefore, this retrospective study 
+aimed to clarify the potential impact of facet articular irregularity as a risk 
+factor for rapid DCM progression.
+METHODS: This study included 141 consecutive patients with DCM who underwent 
+surgical treatment at our institution. Clinical variables and radiological 
+findings related to DCM progression were collected. Imaging findings were 
+analyzed at the segmental level of myelopathy in each case. The patients were 
+divided into 2 groups based on the presence or absence of rapid DCM progression, 
+and independent risk factors were determined using logistic regression analyses.
+RESULTS: Overall, 131 patients with a mean age of 63.9 ± 12.6 years were 
+analyzed; 27 patients (20.6%) were classified into the rapid DCM progression 
+group. The mean age was significantly higher in the rapid progression group than 
+in the slow progression group (72.4 ± 9.6 vs. 61.7 ± 12.4, p < 0.001). According 
+to univariate analysis, facet articular irregularity, dynamic segmental 
+translation (≥ 1.6 mm), upper cervical spine involvement above C4-5, history of 
+cerebrovascular events, preceding minor trauma, local lordotic angle (≥ 4.5°), 
+diabetes, hypertension, ligamentum flavum hypertrophy, and age were independent 
+risk factors. Additionally, multivariate analysis showed that facet articular 
+irregularity was the highest risk factor for rapid DCM progression (p = 0.001).
+CONCLUSION: Facet articular irregularity is the most clinically significant 
+finding among the known risk factors in patients with rapid DCM progression.
+
+DOI: 10.14245/ns.2245004.502
+PMCID: PMC10080442
+PMID: 37016885
+
+Conflict of interest statement: Conflict of Interest The authors have nothing to 
+disclose.
+
+
+12. Eur Spine J. 2023 Jun;32(6):2248-2249. doi: 10.1007/s00586-023-07656-x. Epub 
+2023 Apr 4.
+
+Letter to the Editor concerning "Incidence and risk factors associated with the 
+development of metastatic spinal cord compression due to bone metastasis in 
+women with cervical cancer" by A. Grasso Giglio, et al. (Eur Spine J 
+[2022]: doi:10.1007/s00586-022-07314-8).
+
+Toda Y(1), Morimoto T(2), Hirata H(1), Yoshihara T(1), Tsukamoto M(1), Mawatari 
+M(1).
+
+Author information:
+(1)Department of Orthopaedic Surgery, Faculty of Medicine, Saga University, 
+5-1-1 Nabeshima, Saga, Japan.
+(2)Department of Orthopaedic Surgery, Faculty of Medicine, Saga University, 
+5-1-1 Nabeshima, Saga, Japan. sakiyuki0830@gmail.com.
+
+Comment in
+    Eur Spine J. 2023 Jun;32(6):2250-2251.
+
+Comment on
+    Eur Spine J. 2022 Nov;31(11):3139-3145.
+
+DOI: 10.1007/s00586-023-07656-x
+PMID: 37016080 [Indexed for MEDLINE]
+
+
+13. J Clin Med. 2023 Mar 13;12(6):2227. doi: 10.3390/jcm12062227.
+
+Posterior Preventive Foraminotomy before Laminectomy Combined with Pedicle Screw 
+Fixation May Decrease the Incidence of C5 Palsy in Complex Cervical Spine 
+Surgery in Patients with Severe Myeloradiculopathy.
+
+Lee YH(1)(2), Abdou M(3), Kwon JW(1), Suk KS(1), Moon SH(1), Won YG(1)(2), Lee 
+TJ(1)(2), Lee BH(1).
+
+Author information:
+(1)Department of Orthopedic Surgery, Yonsei University College of Medicine, 
+Seoul 04799, Republic of Korea.
+(2)Department of Orthopedic Surgery, Yonsei Baro Chuk Hospital, Seoul 06273, 
+Republic of Korea.
+(3)Department of Orthopedic Surgery, Fayoum University College of Medicine, 
+Fayoum 2933051, Egypt.
+
+C5 palsy is a frequent sequela of cervical decompression surgeries for cervical 
+myeloradiculopathy. Although many researchers have suggested various risk 
+factors, such as cord shifting and the correction of lordotic angles, the 
+tethering of the C5 root beneath the narrow foramen is an independent risk 
+factor for C5 palsy. In this study, we tried to investigate different techniques 
+for foramen decompression with posterior cervical fusion and assess the 
+incidence of C5 palsy with each technique depending on the order of foraminal 
+decompression. A combined 540° approach with LMS and uncovertebrectomy was used 
+in group 1. Group 2 combined a 540° approach with pedicle screws and posterior 
+foraminotomy, while posterior approach only with pedicle screws and foraminotomy 
+was used in group 3. For groups 2 and 3, prophylactic posterior foraminotomy was 
+performed before laminectomy. Motor manual testing to assess C5 palsy, the Neck 
+Disability Index (NDI) and the Japanese Orthopedic Association (JOA) scores were 
+determined before and after surgery. Simple radiographs, MRI and CT scans, were 
+obtained to assess radiologic parameters preoperatively and postoperatively. A 
+total of 362 patients were enrolled in this study: 208 in group 1, 72 in group 
+2, and 82 in group 3. The mean age was 63.2, 65.5, and 66.6 years in groups 1, 
+2, and 3, respectively. The median for fused levels was 4 for the three groups. 
+There was no significant difference between groups regarding the number of fused 
+levels. Weight, height, comorbidities, and diagnosis were not significantly 
+different between groups. Preoperative JOA scores were similar between groups (p 
+= 0.256), whereas the preoperative NDI score was significantly higher in group 3 
+than in group 2 (p = 0.040). Mean JOA score at 12-month follow-up was 15.5 ± 
+1.89, 16.1 ± 1.48, and 16.1 ± 1.48 for groups 1, 2, and 3, respectively; it was 
+higher in group 3 compared with group 1 (p = 0.008) and in group 2 compared with 
+group 1 (p = 0.024). NDI score at 12 months was 13, 12, and 13 in groups 1, 2, 
+and 3, respectively; it was significantly better in group 3 than in group 1 (p = 
+0.040), but there were no other significant differences between groups. The 
+incidence of C5 palsy was significantly lower in posterior foraminotomy groups 
+with pedicle screws (groups 2 and 3) than in LMS with uncovertebrectomy (group 
+1) (p < 0.001). Thus, preventive expansive foraminotomy before decompressive 
+laminectomy is able to significantly decrease the root tethering by stenotic 
+lesion, and subsequently, decrease the incidence of C5 palsy associated with 
+posterior only or combined posterior and anterior cervical fusion surgeries. 
+Additionally, such expansive foraminotomy might be appropriate with pedicle 
+screw insertion based on biomechanical considerations.
+
+DOI: 10.3390/jcm12062227
+PMCID: PMC10058652
+PMID: 36983227
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+14. J Clin Med. 2023 Mar 8;12(6):2119. doi: 10.3390/jcm12062119.
+
+Preoperative Decreased Hounsfield Unit Values of Cervical Vertebrae and the 
+Relative Cross-Sectional Area of Flexion/Extension Paraspinal Muscles Are Novel 
+Risk Factors for the Loss of Cervical Lordosis after Open-Door Laminoplasty.
+
+Hu W(1), Li S(1), Shi H(1), Li Y(2), Qiu J(1), Zhou J(1), Huang D(1), Peng Y(1), 
+Gao W(1), Liang A(1).
+
+Author information:
+(1)Department of Orthopedics, Sun Yat-Sen Memorial Hospital, Yingfeng Road No. 
+33, Guangzhou 510130, China.
+(2)Department of Radiology, Sun Yat-Sen Memorial Hospital, Yingfeng Road No. 33, 
+Guangzhou 510120, China.
+
+Open-door laminoplasty is widely used for patients with cervical spondylotic 
+myelopathy (CSM). However, the loss of cervical lordosis (LCL) seems to be 
+unavoidable in the long-term follow-up after surgery, which may affect the 
+clinical outcomes. The risk factors for this complication are still unclear. In 
+this study, patients who underwent open-door laminoplasty between April 2016 and 
+June 2021 were enrolled. Cervical X-rays were obtained to measure the C2-7 Cobb 
+angle, C2-7 sagittal vertical axis (SVA), T1 slope (T1S) and ranges of motion 
+(ROM). Cervical computed tomography (CT) scans and magnetic resonance imaging 
+(MRI) were collected to evaluate the cervical Hounsfield unit values (HU) and 
+the relative cross-sectional area (RCSA) of paraspinal muscles, respectively. A 
+total of 42 patients were included and the average follow-up period was 24.9 
+months. Among the patients, 24 cases (57.1%) had a LCL of more than 5° at a 
+1-year follow-up and were labeled as members of the LCL group. The follow-up JOA 
+scores were significantly lower in the LCL group (13.9 ± 0.6 vs. 14.4 ± 0.8, p = 
+0.021) and the mean JOA recovery rate was negatively correlated with LCL (r = 
+-0.409, p = 0.007). In addition, LCL was positively correlated to the 
+preoperative T1S, flexion ROM, flexion/extension ROM and the RCSA of 
+flexion/extension muscles, while it was negatively correlated to extension ROM 
+and the HU value of cervical vertebrae. Furthermore, multiple linear regression 
+showed that preoperative T1S, mean HU value of cervical vertebrae, 
+flexion/extension ROM and the flexion/extension RCSA were independent risk 
+factors for LCL. Spine surgeons should consider these parameters before 
+performing open-door laminoplasty.
+
+DOI: 10.3390/jcm12062119
+PMCID: PMC10058530
+PMID: 36983121
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+15. Clin Spine Surg. 2023 Apr 1;36(3):96-105. doi: 10.1097/BSD.0000000000001445. 
+Epub 2023 Mar 24.
+
+Linking Patterns of Intraoperative Neuromonitoring (IONM) Alerts to the Odds of 
+a New Postoperative Neurological Deficit: Analysis of 27,808 Cervical Spine 
+Procedures From a National Multi-institutional Database.
+
+Wilent WB(1), Tesdahl EA(2), Epplin-Zapf T(2), Cohen J(2), Rhee J(3), Klineberg 
+EO(4), Harrop JS(5), Vaccaro AR(6), Sestokas AK(2).
+
+Author information:
+(1)Department of Neurosurgery, University of Pennsylvania Perelman School of 
+Medicine.
+(2)Medical Department, SpecialtyCare, Brentwood, TN.
+(3)Department of Orthopaedic Surgery and Neurosurgery, Emory University School 
+of Medicine, Atlanta, GA.
+(4)Department of Orthopaedic Surgery, University of California Davis, 
+Sacramento, CA.
+(5)Departments of Neurosurgery.
+(6)Orthopaedic Surgery, Jefferson University Hospital, Philadelphia, PA.
+
+STUDY DESIGN/SETTING: Retrospective review of a national multi-institutional 
+database of 27,808 extradural cervical spine procedures performed between 
+January 2017 and May 2021.
+OBJECTIVE: Characterize intraoperative neuromonitoring alerts by the patterns of 
+modalities and nerves/muscles involved and quantify risk of new-onset 
+neurological deficit for patients with a primary diagnosis of myelopathy, 
+stenosis, or radiculopathy.
+SUMMARY OF BACKGROUND DATA: Phenotyping alert patterns and linking those 
+patterns with risk is needed to facilitate clinical decision-making.
+METHODS: Cases with alerts were categorized by patterns of modalities or 
+nerves/muscles involved, and alert status at closure. Unadjusted odds ratios 
+(ORs) for new-onset neurological deficit were calculated. A mixed-effects 
+logistic regression model controlling for demographic and operative factors, 
+with random intercepts to account for clustering in outcomes by surgeon and 
+surgical neurophysiologist was also used to calculate ORs and probabilities of 
+neurological deficit.
+RESULTS: There was significantly increased risk of a new neurological deficit 
+for procedures involving posterior compared with anterior approaches (OR: 1.82, 
+P=0.001) and procedures involving three levels compared with one (OR: 2.17, 
+P=0.001). Odds of a deficit were lower for patients with radiculopathy compared 
+with myelopathy (OR: 0.69, P=0.058). Compared with cases with no alerts, those 
+with unresolved Spinal Cord alerts were associated with the greatest elevation 
+in risk (OR: 289.05) followed by unresolved C5-6 Nerve Root (OR: 172.7), C5-T1 
+Nerve Root/Arm (OR: 162.89), C7 Nerve Root (OR:84.2), and C8-T1 Nerve Root 
+alerts (OR:75.49, all P<0.001). Significant reductions in risk were seen for 
+resolved Spinal Cord, C5-6 Nerve Root, and C8-T1 nerve alerts. Overall, 
+unresolved motor evoked potential and somatosensory evoked potential alerts were 
+associated with the greatest elevation in risk (OR:340.92) followed by 
+unresolved motor evoked potential-only (OR:140.6) and unresolved somatosensory 
+evoked potential-Only alerts (OR:78.3, all P<0.001). These relationships were 
+similar across diagnostic cohorts.
+CONCLUSIONS: Risk elevation and risk mitigation after an intraoperative 
+neuromonitoring alert during surgery is dependent on the type and pattern of 
+alert.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/BSD.0000000000001445
+PMID: 36959181 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+16. Eur Spine J. 2023 Jun;32(6):2250-2251. doi: 10.1007/s00586-023-07657-w. Epub 
+2023 Mar 22.
+
+Answer to the Letter to the Editor of Yu Toda, et al. concerning "Incidence and 
+risk factors associated with the development of metastatic spinal cord 
+compression due to bone metastasis in women with cervical cancer" by A. G. 
+Giglio, et al. (Eur Spine J [2022]: doi: 10.1007/s00586-022-07314-8).
+
+Giglio AG(1)(2), de Brito Rangel J(1)(2), Cardozo CL(2), Bergmann A(2), da Silva 
+GT(2), Thuler LCS(3)(4).
+
+Author information:
+(1)Federal University of Rio de Janeiro State (UNIRIO), Rio de Janeiro, Brazil.
+(2)Brazilian National Cancer Institute (INCA), Rua André Cavalcanti, 37/Anexo, 
+3º andar, Centro, Rio de Janeiro, RJ, 20231-050, Brazil.
+(3)Federal University of Rio de Janeiro State (UNIRIO), Rio de Janeiro, Brazil. 
+lthuler@gmail.com.
+(4)Brazilian National Cancer Institute (INCA), Rua André Cavalcanti, 37/Anexo, 
+3º andar, Centro, Rio de Janeiro, RJ, 20231-050, Brazil. lthuler@gmail.com.
+
+Comment on
+    Eur Spine J. 2022 Nov;31(11):3139-3145.
+    Eur Spine J. 2023 Jun;32(6):2248-2249.
+
+DOI: 10.1007/s00586-023-07657-w
+PMID: 36947253 [Indexed for MEDLINE]
+
+
+17. Clin Neurol Neurosurg. 2023 Apr;227:107668. doi:
+10.1016/j.clineuro.2023.107668.  Epub 2023 Mar 9.
+
+Radiologic risk factors associated with development of myelopathy in patients 
+with ossification of the posterior longitudinal ligament of the cervical spine.
+
+Kwon WK(1), Ham CH(1), Moon HJ(2), Kim JH(3), Park YK(4).
+
+Author information:
+(1)Department of Neurosurgery, Korea University Guro Hospital, Korea University 
+College of Medicine, Seoul, Republic of Korea; Focused Training Center for 
+Trauma, Korea University Guro Hospital, Korea University College of Medicine, 
+Seoul, Republic of Korea.
+(2)Department of Neurosurgery, Korea University Guro Hospital, Korea University 
+College of Medicine, Seoul, Republic of Korea; Department of Orthopaedic 
+Surgery, Washington University in St. Louis, St. Louis, MO, USA.
+(3)Department of Neurosurgery, Korea University Guro Hospital, Korea University 
+College of Medicine, Seoul, Republic of Korea.
+(4)Department of Neurosurgery, Gachon University Gil Medical Center, Incheon, 
+Republic of Korea. Electronic address: ykapa76@yahoo.co.kr.
+
+STUDY DESIGN: Retrospective Cohort Study OBJECTIVE: Myelopathy following 
+ossification of the posterior longitudinal ligament (OPLL) is one of the 
+devastating clinical features in these patients, while we still know little 
+about which factors are associated with development of myelopathy. We evaluated 
+the difference of radiologic measurements between OPLL patients with or without 
+myelopathy and searched for the clinical significance with emphasis on the 
+impact of dynamic motion.
+METHODS: 305 patients diagnosed of OPLL were enrolled for retrospective review. 
+They were divided into two groups according to the coexistence of radiographic 
+evidence of myelopathy. Demographic data as well as radiologic measures 
+including the presence of disc degeneration (DD), anterior-posterior diameter 
+(APD) of central canal, canal compromise (CC) ratio, global and segmental range 
+of motion (gROM and sROM), OPLL type (morphologic classification) and K-line 
+were collected.
+RESULTS: APD (odds ratio (OR); 0.411), CC ratio (OR; 1.100) and sROM (OR; 1.371) 
+were significantly associated with the presence of myelopathy in the 
+multivariate analysis. While the statistically significant factors were same in 
+OPLLs with CC larger than 50%, presence of DD (OR; 4.509) and sROM (OR; 1.295) 
+were significantly associated with myelopathy but not the CC itself in OPLLs 
+with CC smaller than 50%.
+CONCLUSIONS: We discovered that the APD, CC ratio and sROM had significant 
+association with development of myelopathy in OPLLs. And the presence of dynamic 
+factors had significant association with myelopathy in OPLLs with smaller CC 
+ratios. This observation and its clinical significance on development of 
+myelopathy might enhance our understanding of OPLL.
+
+Copyright © 2023 Elsevier B.V. All rights reserved.
+
+DOI: 10.1016/j.clineuro.2023.107668
+PMID: 36924696 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflict of Interests The authors have no 
+personal, financial, or institutional conflict of interests to report.
+
+
+18. J Clin Neurosci. 2023 May;111:26-31. doi: 10.1016/j.jocn.2023.03.001. Epub
+2023  Mar 14.
+
+Laminoplasty is relevant for degenerative cervical spondylolisthesis when there 
+is little risk of postoperative excessive kyphosis during neck flexion.
+
+Funaba M(1), Suzuki H(2), Imajo Y(2), Nishida N(2), Fujimoto K(2), Ikeda H(2), 
+Sakai T(2).
+
+Author information:
+(1)Department of Orthopedic Surgery, Yamaguchi University Graduate School of 
+Medicine, Yamaguchi, Japan. Electronic address: mfunaba@yamaguchi-u.ac.jp.
+(2)Department of Orthopedic Surgery, Yamaguchi University Graduate School of 
+Medicine, Yamaguchi, Japan.
+
+BACKGROUND: Elderly patients with degenerative cervical myelopathy frequently 
+have severe symptoms due to spondylolisthesis. The effectiveness of laminoplasty 
+for degenerative cervical spondylolisthesis (DCS) is an important question.
+OBJECTIVE: The aim of this study is to elucidate factors associated with the 
+outcome of laminoplasty for DCS.
+METHOD: Eighty-nine patients with cervical spondylotic myelopathy (CSM) who 
+underwent laminoplasty without instrumented posterior fusion were enrolled. 
+Positive spondylolisthesis was defined as more than 2 mm during neck flexion or 
+extension, from this, 46 DCS cases and 43 non-DCS cases were classified. 
+Radiological parameters, including cervical alignment, balance, range of motion, 
+and slippage along with the Japanese Orthopedic Association (JOA) score, were 
+obtained before and 1 year after surgery. Factors associated with good surgical 
+outcomes for DCS were analyzed using multivariate logistic analysis.
+RESULTS: There were no significant differences in background and preoperative 
+JOA score, but the DCS group recovery rate was significantly less (42% vs 53%). 
+Multivariate logistic analysis revealed only the postoperative C2-7 angle during 
+neck flexion was associated with a favorable outcome for DCS (P = 0.0039, Odds 
+ratio: 1.49, 95% CI: 1.14-1.94). Multivariate regression analysis positively 
+correlated the preoperative C2-7 angle in neutral and during flexion with the 
+postoperative C2-7 angle during flexion.
+CONCLUSION: The major factor related to poor outcome was the magnitude of 
+postoperative kyphotic C2-7 angle during neck flexion. Slippage was not directly 
+related to outcome and postoperative cervical alignment. Caution is recommended 
+for surgeons performing laminoplasty on patients with risk factors for 
+postoperative excessive kyphotic C2-7 angle during flexion.
+
+Copyright © 2023 Elsevier Ltd. All rights reserved.
+
+DOI: 10.1016/j.jocn.2023.03.001
+PMID: 36924657 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of Competing Interest The authors 
+declare that they have no known competing financial interests or personal 
+relationships that could have appeared to influence the work reported in this 
+paper.
+
+
+19. Clin Spine Surg. 2023 Apr 1;36(3):112-119. doi: 10.1097/BSD.0000000000001454.
+ Epub 2023 Feb 22.
+
+Sleep Disturbances in Cervical Spondylotic Myelopathy: Prevalence and 
+Postoperative Outcomes-an Analysis From the Quality Outcomes Database.
+
+Bisson EF(1), Mummaneni PV(2), Michalopoulos GD(3)(4), El Sammak S(3)(4), Chan 
+AK(5), Agarwal N(6), Wang MY(7), Knightly JJ(8), Sherrod BA(1), Gottfried ON(9), 
+Than KD(9), Shaffrey CI(9), Goldberg JL(10), Virk MS(10), Hussain I(10), Shabani 
+S(11), Glassman SD(12), Tumialan LM(13), Turner JD(13), Uribe JS(13), Meyer 
+SA(8), Lu DC(14), Buchholz AL(15), Upadhyaya C(16), Shaffrey ME(15), Park P(17), 
+Foley KT(17), Coric D(18), Slotkin JR(19), Potts EA(20), Stroink AR(21), Chou 
+D(5), Fu KG(10), Haid RW(22), Asher AL(18), Bydon M(3)(4).
+
+Author information:
+(1)Department of Neurological Surgery, University of Utah, Salt Lake City, UT.
+(2)Department of Neurological Surgery, University of California San Francisco, 
+San Francisco, CA.
+(3)Mayo Clinic Neuro-Informatics Laboratory, Mayo Clinic, Rochester.
+(4)Department of Neurological Surgery, Mayo Clinic, Rochester, MN.
+(5)Department of Neurological Surgery, Columbia University, The Och Spine 
+Hospital at NewYork-Presbyterian, New York, NY.
+(6)Department of Neurosurgery, Washington University School of Medicine, St. 
+Louis, MO.
+(7)Department of Neurosurgery, University of Miami, Miami, FL.
+(8)Atlantic Neurosurgical Specialists, Morristown, NJ.
+(9)Department of Neurological Surgery, Duke University Medical Center, Durham, 
+NC.
+(10)Department of Neurological Surgery, Weill Cornell Medical Center, New York.
+(11)Department of Neurosurgery, Medical College of Wisconsin, Wauwatosa, WI.
+(12)Norton Leatherman Spine Center, Louisville, KY.
+(13)Department of Neurosurgery, Barrow Neurological Institute, St. Joseph's 
+Hospital and Medical Center, Phoenix, AZ.
+(14)Department of Neurosurgery, University of California Los Angeles, David 
+Geffen School of Medicine, Los Angeles, CA.
+(15)Department of Neurosurgery, University of Virginia, Charlottesville, VA.
+(16)Department of Neurosurgery, School of Medicine, University of North 
+Carolina, Chapel Hill, NC.
+(17)Department of Neurosurgery, University of Tennessee, Memphis, TN.
+(18)Neuroscience Institute, Carolina Neurosurgery and Spine Associates, 
+Carolinas Healthcare System, Charlotte, NC.
+(19)Department of Neurosurgery, Geisinger Health, Danville, PA.
+(20)Department of Neurological Surgery, Indiana University, Goodman Campbell 
+Brain and Spine, Indianapolis, IN.
+(21)Central Illinois Neuro Health Science, Bloomington, IL.
+(22)Atlanta Brain and Spine Care, Atlanta, GA.
+
+STUDY DESIGN: Prospective observational study, level of evidence 1 for 
+prognostic investigations.
+OBJECTIVES: To evaluate the prevalence of sleep impairment and predictors of 
+improved sleep quality 24 months postoperatively in cervical spondylotic 
+myelopathy (CSM) using the quality outcomes database.
+SUMMARY OF BACKGROUND DATA: Sleep disturbances are a common yet understudied 
+symptom in CSM.
+MATERIALS AND METHODS: The quality outcomes database was queried for patients 
+with CSM, and sleep quality was assessed through the neck disability index sleep 
+component at baseline and 24 months postoperatively. Multivariable logistic 
+regressions were performed to identify risk factors of failure to improve sleep 
+impairment and symptoms causing lingering sleep dysfunction 24 months after 
+surgery.
+RESULTS: Among 1135 patients with CSM, 904 (79.5%) had some degree of sleep 
+dysfunction at baseline. At 24 months postoperatively, 72.8% of the patients 
+with baseline sleep symptoms experienced improvement, with 42.5% reporting 
+complete resolution. Patients who did not improve were more like to be smokers 
+[adjusted odds ratio (aOR): 1.85], have osteoarthritis (aOR: 1.72), report 
+baseline radicular paresthesia (aOR: 1.51), and have neck pain of ≥4/10 on a 
+numeric rating scale. Patients with improved sleep noted higher satisfaction 
+with surgery (88.8% vs 72.9%, aOR: 1.66) independent of improvement in other 
+functional areas. In a multivariable analysis including pain scores and several 
+myelopathy-related symptoms, lingering sleep dysfunction at 24 months was 
+associated with neck pain (aOR: 1.47) and upper (aOR: 1.45) and lower (aOR: 
+1.52) extremity paresthesias.
+CONCLUSION: The majority of patients presenting with CSM have associated sleep 
+disturbances. Most patients experience sustained improvement after surgery, with 
+almost half reporting complete resolution. Smoking, osteoarthritis, radicular 
+paresthesia, and neck pain ≥4/10 numeric rating scale score are baseline risk 
+factors of failure to improve sleep dysfunction. Improvement in sleep symptoms 
+is a major driver of patient-reported satisfaction. Incomplete resolution of 
+sleep impairment is likely due to neck pain and extremity paresthesia.
+
+Copyright © 2023 Wolters Kluwer Health, Inc. All rights reserved.
+
+DOI: 10.1097/BSD.0000000000001454
+PMID: 36920372 [Indexed for MEDLINE]
+
+Conflict of interest statement: M.B. receives funding as Charles B. and Ann L. 
+Johnson Professor of Neurosurgery. The remaining authors declare no conflict of 
+interest.
+
+
+20. J Clin Med. 2023 Feb 23;12(5):1774. doi: 10.3390/jcm12051774.
+
+Prospective Comparative Study of Dysphagia after Subaxial Cervical Spine 
+Surgery: Cervical Spondylotic Myelopathy and Posterior Longitudinal Ligament 
+Ossification.
+
+Sakaki K(1), Sakai K(1), Arai Y(1), Torigoe I(1), Tomori M(1), Hirai T(2), Onuma 
+H(1), Kobayashi Y(1), Okawa A(2), Yoshii T(2).
+
+Author information:
+(1)Department of Orthopedic Surgery, Saiseikai Kawaguchi General Hospital, 
+5-11-5 Nishikawaguchi, Kawaguchishi 332-8558, Japan.
+(2)Department of Orthopaedics, Graduate School, Tokyo Medical and Dental 
+University, Tokyo 108-0075, Japan.
+
+We prospectively investigated the postoperative dysphagia in cervical posterior 
+longitudinal ligament ossification (C-OPLL) and cervical spondylotic myelopathy 
+(CSM) to identify the risk factors of each disease and the incidence. A series 
+of 55 cases with C-OPLL: 13 anterior decompression with fusion (ADF), 16 
+posterior decompression with fusion (PDF), and 26 laminoplasty (LAMP), and a 
+series of 123 cases with CSM: 61 ADF, 5 PDF, and 57 LAMP, were included. 
+Vertebral level, number of segments, approach, and with or without fusion, and 
+pre and postoperative values of Bazaz dysphagia score, C2-7 lordotic angle 
+(&ang;C2-7), cervical range of motion, O-C2 lordotic angle, cervical Japanese 
+Orthopedic Association score, and visual analog scale for neck pain were 
+investigated. New dysphagia was defined as an increase in the Bazaz dysphagia 
+score by one grade or more than one year after surgery. New dysphagia occurred 
+in 12 cases with C-OPLL; 6 with ADF (46.2%), 4 with PDF (25%), 2 with LAMP 
+(7.7%), and in 19 cases with CSM; 15 with ADF (24.6%), 1 with PDF (20%), and 3 
+with LAMP (1.8%). There was no significant difference in the incidence between 
+the two diseases. Multivariate analysis demonstrated that increased &ang;C2-7 
+was a risk factor for both diseases.
+
+DOI: 10.3390/jcm12051774
+PMCID: PMC10003155
+PMID: 36902561
+
+Conflict of interest statement: The authors declare no conflict of interest. The 
+funders had no role in the design of the study; in the collection, analyses, or 
+interpretation of data; in the writing of the manuscript; or in the decision to 
+publish the results.
